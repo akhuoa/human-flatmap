@@ -772,12 +772,12 @@
         "name": "Blood vessel"
     },
     "reproductive_25": {
-        "term": "UBERON:0002119",
-        "name": "Left ovary"
-    },
-    "reproductive_26": {
         "term": "UBERON:0002118",
         "name": "Right ovary"
+    },
+    "reproductive_26": {
+        "term": "UBERON:0002119",
+        "name": "Left ovary"
     },
     "muscle_1": {
         "term": "ILX:0738319",
