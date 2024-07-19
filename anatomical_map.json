@@ -655,6 +655,10 @@
         "term": "UBERON:0002384",
         "name": "Connective tissue"
     },
+	"digestive_86": {
+        "term": "UBERON:0002059",
+        "name": "Submandibular ganglion"
+    },
 	"skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
@@ -778,6 +782,38 @@
     "reproductive_26": {
         "term": "UBERON:0002119",
         "name": "Left ovary"
+    },
+    "reproductive_27": {
+        "term": "UBERON:0002493",
+        "name": "Uterine artery"
+    },
+    "reproductive_28": {
+        "term": "ILX:0794735",
+        "name": "Smooth muscle of the isthmus of the Fallopian tube"
+    },
+    "reproductive_29": {
+        "term": "UBERON:0001303",
+        "name": "Left uterine tube"
+    },
+    "reproductive_30": {
+        "term": "UBERON:0001302",
+        "name": "Right uterine tube"
+    },
+    "reproductive_31": {
+        "term": "ILX:0794736",
+        "name": "Blood vessel of the isthmus of the Fallopian tube"
+    },
+    "reproductive_32": {
+        "term": "UBERON:0012648",
+        "name": "Ampulla of uterine tube"
+    },
+    "reproductive_33": {
+        "term": "UBERON:8410010",
+        "name": "Fimbria of uterine tube"
+    },
+    "reproductive_34": {
+        "term": "UBERON:0003984",
+        "name": "Uterine tube infundibulum"
     },
     "muscle_1": {
         "term": "ILX:0738319",
