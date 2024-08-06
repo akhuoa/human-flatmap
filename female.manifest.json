@@ -4,7 +4,7 @@
     "biological-sex": "PATO:0000383",
     "description": "female.description.json",
     "properties": "properties.json",
-    "sckan-version": "production",
+    "sckan-version": "sckan-2024-03-26",
     "sources": [
         {
             "id": "whole-human",

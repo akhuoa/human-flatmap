@@ -156,16 +156,16 @@
         "name": "endothelium"
     },
     "cardio_23": {
-        "term": "UBERON:0003381",
-        "name": "cardiac muscle of right ventricle"
+        "term": "UBERON:0003382",
+        "name": "cardiac muscle of left ventricle"
     },
     "cardio_24": {
         "term": "UBERON:0001986",
         "name": "endothelium"
     },
     "cardio_25": {
-        "term": "UBERON:0003382",
-        "name": "cardiac muscle of left ventricle"
+        "term": "UBERON:0003381",
+        "name": "cardiac muscle of right ventricle"
     },
     "cardio_26": {
         "term": "UBERON:0001072",
@@ -651,9 +651,33 @@
         "term": "UBERON:0003216",
         "name": "hard palate"
     },
-	"digestive_85": {
-        "term": "UBERON:0002384",
-        "name": "Connective tissue"
+	"digestive_86": {
+        "term": "UBERON:0002059",
+        "name": "Submandibular ganglion"
+    },
+    "digestive_85":{
+        "term": "UBERON:0000006",
+        "name": "Islet of langerhans"
+    },
+	"digestive_87": {
+        "term": "UBERON:0001263",
+        "name": "Pancreatic acinus"
+    },
+	"digestive_88": {
+        "term": "UBERON:0000483",
+        "name": "Epithelium"
+    },
+	"digestive_89": {
+        "term": "UBERON:0001193",
+        "name": "Hepatic artery"
+    },
+	"digestive_90": {
+        "term": "UBERON:0001194",
+        "name": "Splenic artery"
+    },
+	"digestive_91": {
+        "term": "UBERON:0001195",
+        "name": "Inferior pancreaticoduodenal artery"
     },
 	"skeleton_1": {
         "term": "UBERON:0001684",
@@ -770,6 +794,46 @@
     "reproductive_24": {
         "term": "UBERON:0001981",
         "name": "Blood vessel"
+    },
+    "reproductive_25": {
+        "term": "UBERON:0002118",
+        "name": "Right ovary"
+    },
+    "reproductive_26": {
+        "term": "UBERON:0002119",
+        "name": "Left ovary"
+    },
+    "reproductive_27": {
+        "term": "UBERON:0002493",
+        "name": "Uterine artery"
+    },
+    "reproductive_28": {
+        "term": "ILX:0794735",
+        "name": "Smooth muscle of the isthmus of the Fallopian tube"
+    },
+    "reproductive_29": {
+        "term": "UBERON:0001303",
+        "name": "Left uterine tube"
+    },
+    "reproductive_30": {
+        "term": "UBERON:0001302",
+        "name": "Right uterine tube"
+    },
+    "reproductive_31": {
+        "term": "ILX:0794736",
+        "name": "Blood vessel of the isthmus of the Fallopian tube"
+    },
+    "reproductive_32": {
+        "term": "UBERON:0012648",
+        "name": "Ampulla of uterine tube"
+    },
+    "reproductive_33": {
+        "term": "UBERON:8410010",
+        "name": "Fimbria of uterine tube"
+    },
+    "reproductive_34": {
+        "term": "UBERON:0003984",
+        "name": "Uterine tube infundibulum"
     },
     "muscle_1": {
         "term": "ILX:0738319",

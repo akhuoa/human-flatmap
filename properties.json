@@ -2050,6 +2050,24 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_24-1": {
+            "models": "ILX:0793833",
+            "name": "Ovarian nerve plexus parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_25-1": {
+            "models": "ILX:0794733",
+            "name": "Ovarian nerve plexus sympathetic ganglion (DEPRECATED)",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_26-1": {
+            "models": "ILX:0793550",
+            "name": "Mediastinal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2304,6 +2322,9 @@
         },
         "brain_52-1": {
             "class": "brain_52"
+        },
+        "brain_53-1": {
+            "class": "brain_53"
         },
         "brain_6-1": {
             "class": "brain_6"
@@ -2783,6 +2804,24 @@
         "digestive_85-1": {
             "class": "digestive_85"
         },
+        "digestive_86-1": {
+            "class": "digestive_86"
+        },
+        "digestive_87-1": {
+            "class": "digestive_87"
+        },
+        "digestive_88-1": {
+            "class": "digestive_88"
+        },
+        "digestive_89-1": {
+            "class": "digestive_89"
+        },
+        "digestive_90-1": {
+            "class": "digestive_90"
+        },
+        "digestive_91-1": {
+            "class": "digestive_91"
+        },
         "digestive_9-1": {
             "class": "digestive_9"
         },
@@ -2996,6 +3035,42 @@
         },
         "reproductive_24-1": {
             "class": "reproductive_24"
+        },
+        "reproductive_24-2": {
+            "class": "reproductive_24"
+        },
+        "reproductive_24-3": {
+            "class": "reproductive_24"
+        },
+        "reproductive_25-1": {
+            "class": "reproductive_25"
+        },
+        "reproductive_26-1": {
+            "class": "reproductive_26"
+        },
+        "reproductive_27-1": {
+            "class": "reproductive_27"
+        },
+        "reproductive_28-1": {
+            "class": "reproductive_28"
+        },
+        "reproductive_29-1": {
+            "class": "reproductive_29"
+        },
+        "reproductive_30-1": {
+            "class": "reproductive_30"
+        },
+        "reproductive_31-1": {
+            "class": "reproductive_31"
+        },
+        "reproductive_32-1": {
+            "class": "reproductive_32"
+        },
+        "reproductive_33-1": {
+            "class": "reproductive_33"
+        },
+        "reproductive_34-1": {
+            "class": "reproductive_34"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -4226,6 +4301,24 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_19-1": {
+            "models": "ILX:0793832",
+            "name": "Ovarian nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_19-2": {
+            "models": "ILX:0793832",
+            "name": "Ovarian nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_20-1": {
+            "models": "ILX:0793808",
+            "name": "Uterovaginal plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_1-1": {
             "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
@@ -4694,7 +4787,7 @@
                     "models": "ILX:0793828",
                     "connects": [
                         "ganglion_1-1",
-                        "label_1-1"
+                        "n_6_branching_point"
                     ]
                 },
                 {
@@ -4996,7 +5089,7 @@
                     "models": "ILX:0790524",
                     "connects": [
                         "point_13",
-                        "plexus_2-1"
+                        "label_6-1"
                     ]
                 },
                 {
@@ -5118,7 +5211,7 @@
                     "models": "ILX:0786680",
                     "connects": [
                         "point_24",
-                        "plexus_3-1"
+                        "n_31_branching_point"
                     ]
                 },
                 {
@@ -5126,7 +5219,15 @@
                     "models": "ILX:0786047",
                     "connects": [
                         "point_25",
-                        "plexus_14-1"
+                        "point_24"
+                    ]
+                },
+                {
+                    "id": "n_33",
+                    "models": "ILX:0786047",
+                    "connects": [
+                        "point_25",
+                        "n_33_branching_point"
                     ]
                 },
                 {
@@ -5134,7 +5235,7 @@
                     "models": "ILX:0789456",
                     "connects": [
                         "point_28",
-                        "plexus_3-1"
+                        "n_34_branching_point"
                     ]
                 },
                 {
@@ -5142,7 +5243,7 @@
                     "models": "ILX:0785405",
                     "connects": [
                         "point_22",
-                        "plexus_3-1"
+                        "n_35_branching_point"
                     ]
                 },
                 {
@@ -5270,7 +5371,7 @@
                     "models": "ILX:0789095",
                     "connects": [
                         "point_30",
-                        "point_31"
+                        "n_51_branching_point"
                     ]
                 },
                 {
@@ -5278,14 +5379,14 @@
                     "models": "ILX:0790803",
                     "connects": [
                         "point_32",
-                        "plexus_5-1"
+                        "n_53_branching_point"
                     ]
                 },
                 {
                     "id": "n_56",
                     "models": "ILX:0774697",
                     "connects": [
-                        "plexus_12-1",
+                        "n_82_branching_point",
                         "digestive_9-1"
                     ]
                 },
@@ -5294,13 +5395,13 @@
                     "models": "ILX:0791632",
                     "connects": [
                         "point_35",
-                        "plexus_6-1"
+                        "n_57_branching_point"
                     ]
                 },
                 {
                     "id": "n_58",
                     "connects": [
-                        "plexus_12-1",
+                        "n_82_branching_point",
                         "urinary_13-1"
                     ]
                 },
@@ -5369,7 +5470,7 @@
                     "models": "ILX:0788232",
                     "connects": [
                         "external_laryngeal_n_branching_point",
-                        "plexus_2-1"
+                        "n_67_branching_point"
                     ]
                 },
                 {
@@ -5467,7 +5568,7 @@
                     "id": "n_77",
                     "connects": [
                         "point_31",
-                        "plexus_13-1",
+                        "n_77_branching_point",
 						"respiratory_2-1"
                     ]
                 },
@@ -5476,27 +5577,27 @@
 					"models": "ILX:0790553",
                     "connects": [
                         "point_36",
-                        "plexus_15-1"
+                        "n_78_branching_point"
                     ]
                 },
 				{
                     "id": "n_79",
                     "connects": [
-                        "plexus_15-1",
+                        "n_78_branching_point",
                         "digestive_8-1"
                     ]
                 },
 				{
                     "id": "n_80",
                     "connects": [
-                        "plexus_12-1",
+                        "n_82_branching_point",
                         "digestive_16-1"
                     ]
                 },
 				{
                     "id": "n_81",
                     "connects": [
-                        "plexus_12-1",
+                        "n_82_branching_point",
                         "digestive_31-1"
                     ]
                 },
@@ -5505,27 +5606,27 @@
 					"models": "ILX:0788419",
                     "connects": [
                         "point_34",
-                        "plexus_12-1"
+                        "n_82_branching_point"
                     ]
                 },
 				{
                     "id": "n_83",
                     "connects": [
-                        "plexus_12-1",
+                        "n_82_branching_point",
                         "digestive_10-1"
                     ]
                 },
 				{
                     "id": "n_84",
                     "connects": [
-                        "plexus_12-1",
+                        "n_82_branching_point",
                         "endocrine_3-1"
                     ]
                 },
 				{
                     "id": "n_86",
                     "connects": [
-                        "plexus_6-1",
+                        "n_57_branching_point",
                         "digestive_2-1"
                     ]
                 },
@@ -5534,14 +5635,14 @@
 					"models": "ILX:0784874",
                     "connects": [
                         "point_33",
-                        "plexus_3-1"
+                        "n_88_branching_point"
                     ]
                 },
 				{
                     "id": "n_89",
                     "connects": [
                         "point_31",
-                        "plexus_4-1",
+                        "n_51_branching_point",
 						"respiratory_2-1"
                     ]
                 },
@@ -7288,8 +7389,7 @@
                     "models": "ILX:0793712",
                     "connects": [
                         "maxillary_branching_point",
-                        "zygomatic_branching_point",
-                        "eye_1-1"
+                        "zygomatic_branching_point"
                     ]
                 },
                 {
