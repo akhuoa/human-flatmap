@@ -576,40 +576,35 @@
     },
     {
         "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0001981",
-                "ILX:0793082"
-            ]
+            "UBERON:0001195",
+            []
         ],
-        "name": "tunica adventitia of artery/blood vessel/celiac ganglion- superior mesenteric ganglion complex",
+        "name": "Inferior pancreatocoduodenal artery",
         "aliases": [
             [
                 "UBERON:0005734",
                 [
-                    "UBERON:0006637"
+                    "UBERON:0001195"
                 ]
             ],
             [
-                "UBERON:0005734",
-                [
-                    "UBERON:0001182"
-                ]
+                "ILX:0793674",
+                []
             ]
         ]
     },
     {
         "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0001264"
-            ]
+            "UBERON:0001194",
+            []
         ],
-        "name": "tunica adventitia of artery/pancreas",
+        "name": "splenic artery",
         "aliases": [
             [
-                "ILX:0793674",
-                []
+                "UBERON:0005734",
+                [
+                    "UBERON:0001194"
+                ]
             ],
             [
                 "ILX:0793673",
@@ -619,58 +614,20 @@
     },
     {
         "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0001981",
-                "UBERON:0001264"
-            ]
+            "UBERON:0001193",
+            []
         ],
-        "name": "tunica adventitia of artery/blood vessel/pancreas",
-        "aliases": [
-            [
-                "UBERON:0005734",
-                [
-                    "UBERON:0001195"
-                ]
-            ],
-            [
-                "UBERON:0005734",
-                [
-                    "UBERON:0001194"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0001175"
-            ]
-        ],
-        "name": "tunica adventitia of artery/common hepatic duct",
-        "aliases": [
-            [
-                "ILX:0793676",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0001981",
-                "UBERON:0001175"
-            ]
-        ],
-        "name": "tunica adventitia of artery/blood vessel/common hepatic duct",
+        "name": "hepatic artery",
         "aliases": [
             [
                 "UBERON:0005734",
                 [
                     "UBERON:0001193"
                 ]
+            ],
+            [
+                "ILX:0793676",
+                []
             ]
         ]
     },
@@ -720,6 +677,18 @@
             [
                 "ILX:0794732",
                 []
+            ],
+            [
+                "UBERON:0005734",
+                [
+                    "UBERON:0006637"
+                ]
+            ],
+            [
+                "UBERON:0005734",
+                [
+                    "UBERON:0001182"
+                ]
             ]
         ]
     },
@@ -733,21 +702,15 @@
             [
                 "ILX:0793178",
                 []
-            ],
-            [
-                "UBERON:0000006",
-                []
             ]
         ]
     },
     {
         "id": [
-            "UBERON:0002384",
-            [
-                "UBERON:0001264"
-            ]
+            "UBERON:0001263",
+            []
         ],
-        "name": "connective tissue/pancreas",
+        "name": "pancreatic acinus",
         "aliases": [
             [
                 "UBERON:0002384",
@@ -761,10 +724,10 @@
         "id": [
             "UBERON:0000483",
             [
-                "UBERON:0001264"
+                "UBERON:0001263"
             ]
         ],
-        "name": "epithelium/pancreas",
+        "name": "epithelium/pancreatic acinus",
         "aliases": [
             [
                 "ILX:0793613",
@@ -1119,15 +1082,20 @@
         "name": "submandibular gland",
         "aliases": [
             [
-                "ILX:0793739",
-                []
-            ],
-            [
                 "ILX:0793737",
                 []
-            ],
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001832",
+            []
+        ],
+        "name": "sublingual gland",
+        "aliases": [
             [
-                "ILX:0793738",
+                "ILX:0793739",
                 []
             ]
         ]
@@ -1145,6 +1113,10 @@
             ],
             [
                 "UBERON:0003729",
+                []
+            ],
+            [
+                "ILX:0793738",
                 []
             ]
         ]
@@ -1575,21 +1547,6 @@
     },
     {
         "id": [
-            "ILX:0793234",
-            [
-                "UBERON:0000407"
-            ]
-        ],
-        "name": "interganglionic branch of inferior cervical ganglion to middle cervical ganglion/sympathetic trunk",
-        "aliases": [
-            [
-                "ILX:0738290",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0001647",
             []
         ],
@@ -1673,6 +1630,84 @@
                 [
                     "UBERON:0001158"
                 ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001981", 
+            ["ILX:0793645"]
+        ],
+        "name": "blood vessel/Arteriole in serosa of descending colon",
+        "aliases": [
+            [
+                "UBERON:0035965", 
+                ["ILX:0793645"]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001981", 
+            ["ILX:0793643"]
+        ],
+        "name": "blood vessel/longitudinal muscle layer of descending colon",
+        "aliases": [
+            [
+                "UBERON:0035965", 
+                ["ILX:0793643"]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001981", 
+            ["ILX:0793642"]
+        ],
+        "name": "blood vessel/Arteriole in lamina propria of mucosa of descending colon",
+        "aliases": [
+            [
+                "UBERON:0035965", 
+                ["ILX:0793642"]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001981", 
+            ["ILX:0793641"]
+        ],
+        "name": "blood vessel/Arteriole in circular muscle layer of descending colon",
+        "aliases": [
+            [
+                "UBERON:0035965", 
+                ["ILX:0793641"]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001981", 
+            ["ILX:0793646"]
+        ],
+        "name": "blood vessel/Arteriole in submucous nerve plexus of descending colon",
+        "aliases": [
+            [
+                "UBERON:0035965", 
+                ["ILX:0793646"]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001981", 
+            ["ILX:0793644"]
+        ],
+        "name": "blood vessel/Arteriole in myenteric nerve plexus of descending colon",
+        "aliases": [
+            [
+                "UBERON:0035965", 
+                ["ILX:0793644"]
             ]
         ]
     }

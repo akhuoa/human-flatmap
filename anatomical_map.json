@@ -651,13 +651,33 @@
         "term": "UBERON:0003216",
         "name": "hard palate"
     },
-	"digestive_85": {
-        "term": "UBERON:0002384",
-        "name": "Connective tissue"
-    },
 	"digestive_86": {
         "term": "UBERON:0002059",
         "name": "Submandibular ganglion"
+    },
+    "digestive_85":{
+        "term": "UBERON:0000006",
+        "name": "Islet of langerhans"
+    },
+	"digestive_87": {
+        "term": "UBERON:0001263",
+        "name": "Pancreatic acinus"
+    },
+	"digestive_88": {
+        "term": "UBERON:0000483",
+        "name": "Epithelium"
+    },
+	"digestive_89": {
+        "term": "UBERON:0001193",
+        "name": "Hepatic artery"
+    },
+	"digestive_90": {
+        "term": "UBERON:0001194",
+        "name": "Splenic artery"
+    },
+	"digestive_91": {
+        "term": "UBERON:0001195",
+        "name": "Inferior pancreaticoduodenal artery"
     },
 	"skeleton_1": {
         "term": "UBERON:0001684",

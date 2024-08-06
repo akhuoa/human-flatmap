@@ -2062,6 +2062,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_26-1": {
+            "models": "ILX:0793550",
+            "name": "Mediastinal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2800,6 +2806,21 @@
         },
         "digestive_86-1": {
             "class": "digestive_86"
+        },
+        "digestive_87-1": {
+            "class": "digestive_87"
+        },
+        "digestive_88-1": {
+            "class": "digestive_88"
+        },
+        "digestive_89-1": {
+            "class": "digestive_89"
+        },
+        "digestive_90-1": {
+            "class": "digestive_90"
+        },
+        "digestive_91-1": {
+            "class": "digestive_91"
         },
         "digestive_9-1": {
             "class": "digestive_9"
