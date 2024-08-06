@@ -1,6 +1,8 @@
 name: publish-curation-female
 on:
-  push:
+  pull_request:
+    types:
+      - opened
     branches:
       - curation
   workflow_dispatch:
