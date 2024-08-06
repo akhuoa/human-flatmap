@@ -18,7 +18,7 @@
         "label_13": {
             "label": "vocal cords"
         },
-		"plexus_6": {
+        "plexus_6": {
             "label": "gastric nerve plexus"
         },
         "body_1": {
@@ -2323,7 +2323,7 @@
         "brain_52-1": {
             "class": "brain_52"
         },
-        "brain_53-1": {
+        "superior_salivatory_nucleus": {
             "class": "brain_53"
         },
         "brain_6-1": {
@@ -3135,7 +3135,7 @@
         "respiratory_29-1": {
             "class": "respiratory_29"
         },
-		"respiratory_30-1": {
+        "respiratory_30-1": {
             "class": "respiratory_30"
         },
         "respiratory_3-1": {
@@ -4259,25 +4259,25 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-		"plexus_12-1": {
+        "plexus_12-1": {
             "models": "ILX:0726846",
             "name": "celiac nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
-		"plexus_13-1": {
+        "plexus_13-1": {
             "models": "ILX:0776628",
             "name": "posterior pulmonary nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
-		"plexus_14-1": {
+        "plexus_14-1": {
             "models": "ILX:0773392",
             "name": "superficial cardiac nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
-		"plexus_15-1": {
+        "plexus_15-1": {
             "models": "ILX:0771304",
             "name": "hepatic nerve plexus",
             "type": "ganglion",
@@ -4928,14 +4928,14 @@
                     "id": "vagus_n_m-6",
                     "connects": [
                         "point_16",
-						"point_33"
+                        "point_33"
                     ]
                 },
                 {
                     "id": "vagus_n_m-7",
                     "connects": [
                         "point_33",
-						"point_26"
+                        "point_26"
                     ]
                 },
                 {
@@ -4943,70 +4943,70 @@
                     "models": "UBERON:0001759",
                     "connects": [
                         "point_26",
-						"point_25"
+                        "point_25"
                     ]
                 },
                 {
                     "id": "vagus_n_m-9",
                     "connects": [
                         "point_25",
-						"point_22"
+                        "point_22"
                     ]
                 },
                 {
                     "id": "vagus_n_m-10",
                     "connects": [
                         "point_22",
-						"point_24"
+                        "point_24"
                     ]
                 },
                 {
                     "id": "vagus_n_m-11",
                     "connects": [
                         "point_24",
-						"point_44"
+                        "point_44"
                     ]
                 },
                 {
                     "id": "vagus_n_m-12",
                     "connects": [
                         "point_44",
-						"point_30"
+                        "point_30"
                     ]
                 },
                 {
                     "id": "vagus_n_m-13",
                     "connects": [
                         "point_30",
-						"point_32"
+                        "point_32"
                     ]
                 },
                 {
                     "id": "vagus_n_m-14",
                     "connects": [
                         "point_32",
-						"point_35"
+                        "point_35"
                     ]
                 },
                 {
                     "id": "vagus_n_m-15",
                     "connects": [
                         "point_35",
-						"point_34"
+                        "point_34"
                     ]
                 },
                 {
                     "id": "vagus_n_m-16",
                     "connects": [
                         "point_34",
-						"point_47"
+                        "point_47"
                     ]
                 },
                 {
                     "id": "vagus_n_m-17",
                     "connects": [
                         "point_47",
-						"point_36"
+                        "point_36"
                     ]
                 },
                 {
@@ -5202,7 +5202,7 @@
                     "models": "ILX:0738374",
                     "connects": [
                         "point_18",
-						"point_17",
+                        "point_17",
                         "external_laryngeal_n_branching_point"
                     ]
                 },
@@ -5428,7 +5428,7 @@
                 },
                 {
                     "id": "n_62",
-					"models": "ILX:0785069",
+                    "models": "ILX:0785069",
                     "connects": [
                         "ganglion_3-1",
                         "point_17"
@@ -5443,7 +5443,7 @@
                 },
                 {
                     "id": "n_64",
-					"models": "ILX:0786150",
+                    "models": "ILX:0786150",
                     "connects": [
                         "point_28",
                         "point_38"
@@ -5564,86 +5564,86 @@
                         "ganglion_19-1"
                     ]
                 },
-				{
+                {
                     "id": "n_77",
                     "connects": [
                         "point_31",
                         "n_77_branching_point",
-						"respiratory_2-1"
+                        "respiratory_2-1"
                     ]
                 },
-				{
+                {
                     "id": "n_78",
-					"models": "ILX:0790553",
+                    "models": "ILX:0790553",
                     "connects": [
                         "point_36",
                         "n_78_branching_point"
                     ]
                 },
-				{
+                {
                     "id": "n_79",
                     "connects": [
                         "n_78_branching_point",
                         "digestive_8-1"
                     ]
                 },
-				{
+                {
                     "id": "n_80",
                     "connects": [
                         "n_82_branching_point",
                         "digestive_16-1"
                     ]
                 },
-				{
+                {
                     "id": "n_81",
                     "connects": [
                         "n_82_branching_point",
                         "digestive_31-1"
                     ]
                 },
-				{
+                {
                     "id": "n_82",
-					"models": "ILX:0788419",
+                    "models": "ILX:0788419",
                     "connects": [
                         "point_34",
                         "n_82_branching_point"
                     ]
                 },
-				{
+                {
                     "id": "n_83",
                     "connects": [
                         "n_82_branching_point",
                         "digestive_10-1"
                     ]
                 },
-				{
+                {
                     "id": "n_84",
                     "connects": [
                         "n_82_branching_point",
                         "endocrine_3-1"
                     ]
                 },
-				{
+                {
                     "id": "n_86",
                     "connects": [
                         "n_57_branching_point",
                         "digestive_2-1"
                     ]
                 },
-				{
+                {
                     "id": "n_88",
-					"models": "ILX:0784874",
+                    "models": "ILX:0784874",
                     "connects": [
                         "point_33",
                         "n_88_branching_point"
                     ]
                 },
-				{
+                {
                     "id": "n_89",
                     "connects": [
                         "point_31",
                         "n_51_branching_point",
-						"respiratory_2-1"
+                        "respiratory_2-1"
                     ]
                 },
                 {
@@ -7137,7 +7137,7 @@
                 },
                 {
                     "id": "bolser_3",
-					"models": "ILX:0738308",
+                    "models": "ILX:0738308",
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
@@ -7331,7 +7331,7 @@
                     "id": "CNVII",
                     "models": "UBERON:0001647",
                     "connects": [
-                        "brain_53-1",
+                        "superior_salivatory_nucleus",
                         "pet_branching_point-2"
                     ]
                 },
