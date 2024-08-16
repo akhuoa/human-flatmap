@@ -2326,6 +2326,111 @@
         "superior_salivatory_nucleus": {
             "class": "brain_53"
         },
+        "trochlear_nucleus": {
+            "class": "trochlear_nucleus"
+        },
+        "trochlear_nerve_cn_iv": {
+            "class": "trochlear_nerve_cn_iv"
+        },
+        "motor_nucleus_of_trigeminal_nerve": {
+            "class": "motor_nucleus_of_trigeminal_nerve"
+        },
+        "accessory_oculomotor_nucleus": {
+            "class": "accessory_oculomotor_nucleus"
+        },
+        "oculomotor_nucleus": {
+            "class": "oculomotor_nucleus"
+        },
+        "oculomotor_nerve_cn_iii": {
+            "class": "oculomotor_nerve_cn_iii"
+        },
+        "red_nucleus": {
+            "class": "red_nucleus"
+        },
+        "facial_nucleus": {
+            "class": "facial_nucleus"
+        },
+        "abducens_nucleus": {
+            "class": "abducens_nucleus"
+        },
+        "facial_nerve_efferent_cn_vii": {
+            "class": "facial_nerve_efferent_cn_vii"
+        },
+        "dorsal_vagal_nucleus": {
+            "class": "dorsal_vagal_nucleus"
+        },
+        "sve_nucleus_ambiguus_ix_x_xi": {
+            "class": "sve_nucleus_ambiguus_ix_x_xi"
+        },
+        "nucleus_tractus_solitarius": {
+            "class": "nucleus_tractus_solitarius"
+        },
+        "accessory_nucleus": {
+            "class": "accessory_nucleus"
+        },
+        "mesencephalic_nucleus_of_trigeminal_nerve": {
+            "class": "mesencephalic_nucleus_of_trigeminal_nerve"
+        },
+        "principal_sensory_nucleus_of_trigeminal_nerve": {
+            "class": "principal_sensory_nucleus_of_trigeminal_nerve"
+        },
+        "spinal_tract_and_spinal_nucleus_of_trigeminal_nerve": {
+            "class": "spinal_tract_and_spinal_nucleus_of_trigeminal_nerve"
+        },
+        "trigeminal_nerve_afferent_cn_v_and_ganglion": {
+            "class": "trigeminal_nerve_afferent_cn_v_and_ganglion"
+        },
+        "trigeminal_nerve_efferent_cn_v_and_ganglion": {
+            "class": "trigeminal_nerve_efferent_cn_v_and_ganglion"
+        },
+        "accessory_nerve_cn_xi": {
+            "class": "accessory_nerve_cn_xi"
+        },
+        "anterior_nucleus_vagus_nerve_cn_x": {
+            "class": "anterior_nucleus_vagus_nerve_cn_x"
+        },
+        "vagus_nerve_afferent_cn_x": {
+            "class": "vagus_nerve_afferent_cn_x"
+        },
+        "vagus_nerve_efferent_cn_x": {
+            "class": "vagus_nerve_efferent_cn_x"
+        },
+        "inferior_salivatory_nucleus": {
+            "class": "inferior_salivatory_nucleus"
+        },
+        "glossopharyngeal_efferent_nerve_cn_ix": {
+            "class": "glossopharyngeal_efferent_nerve_cn_ix"
+        },
+        "glossopharyngeal_afferent_nerve_cn_ix": {
+            "class": "glossopharyngeal_afferent_nerve_cn_ix"
+        },
+        "vestibulocochlear_nerve_cn_viii": {
+            "class": "vestibulocochlear_nerve_cn_viii"
+        },
+        "vestibular_nuclei": {
+            "class": "vestibular_nuclei"
+        },
+        "facial_nerve_afferent_cn_vii": {
+            "class": "facial_nerve_afferent_cn_vii"
+        },
+        "anterior_cochlear_nuclei": {
+            "class": "anterior_cochlear_nuclei"
+        },
+        "posterior_cochlear_nuclei": {
+            "class": "posterior_cochlear_nuclei"
+        },
+        "superior_culliculus": {
+            "class": "superior_culliculus"
+        },
+        "lateral_geniculate_body": {
+            "class": "lateral_geniculate_body"
+        },
+        "brain_stem": {
+            "class": "brain_stem"
+        },
+        "geniculate_ganglion_of_facial_nerve": {
+            "class": "geniculate_ganglion_of_facial_nerve"
+        },
         "brain_6-1": {
             "class": "brain_6"
         },

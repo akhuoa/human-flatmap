@@ -55,7 +55,7 @@
         "term": "UBERON:0000057",
         "name": "urethra"
     },
-	"urinary_15": {
+    "urinary_15": {
         "term": "ILX:0738416",
         "name": "rhabdosphincter of female"
     },
@@ -171,7 +171,7 @@
         "term": "UBERON:0001072",
         "name": "posterior vena cava"
     },
-	"cardio_27": {
+    "cardio_27": {
         "term": "UBERON:0002348",
         "name": "Epicardium"
     },
@@ -207,7 +207,7 @@
         "term": "UBERON:0007240",
         "name": "Tunica Adventitia of Artery"
     },
-	"cardio_36": {
+    "cardio_36": {
         "term": "UBERON:0037094",
         "name": "Wall of Common Carotid Artery"
     },
@@ -295,11 +295,11 @@
         "term": "UBERON:0004516",
         "name": "smooth muscle tissue of terminal bronchiole"
     },
-	"respiratory_20": {
+    "respiratory_20": {
         "term": "UBERON:0007196",
         "name": "tracheobronchial tree"
     },
-	"respiratory_21": {
+    "respiratory_21": {
         "term": "ILX:0793684",
         "name": "Wall of Trachea"
     },
@@ -327,7 +327,7 @@
         "term": "ILX:0793764",
         "name": "Wall of Bronchiole"
     },
-	"respiratory_28": {
+    "respiratory_28": {
         "term": "ILX:0738318",
         "name": "Epiglottic mechanoreceptors"
     },
@@ -335,7 +335,7 @@
         "term": "UBERON:0000379",
         "name": "Tracheal Mucosa"
     },
-	"respiratory_30": {
+    "respiratory_30": {
         "term": "ILX:0742928",
         "name": "laryngeal vestibule"
     },
@@ -495,11 +495,11 @@
         "term": "UBERON:0001210",
         "name": "muscularis mucosae of small intestine"
     },
-	"digestive_44": {
+    "digestive_44": {
         "term": "UBERON:0002394",
         "name": "bile duct"
     },
-	"digestive_45": {
+    "digestive_45": {
         "term": "UBERON:8410060",
         "name": "Circular Muscle Layer of Colon"
     },
@@ -515,7 +515,7 @@
         "term": "UBERON:8410061",
         "name": "Longitudinal Muscle Layer of Colon"
     },
-	"digestive_51": {
+    "digestive_51": {
         "term": "UBERON:0001211",
         "name": "Peyer's Patch"
     },
@@ -555,7 +555,7 @@
         "term": "UBERON:0001959",
         "name": "White Pulp of Spleen"
     },
-	"digestive_61": {
+    "digestive_61": {
         "term": "UBERON:0001250",
         "name": "Red Pulp of Spleen"
     },
@@ -571,11 +571,11 @@
         "term": "UBERON:0010398",
         "name": "Spleen Marginal Sinus"
     },
-	"digestive_65": {
+    "digestive_65": {
         "term": "ILX:0793645",
         "name": "Arteriole in Serosa of Descending Colon"
     },
-	"digestive_66": {
+    "digestive_66": {
         "term": "ILX:0793643",
         "name": "Arteriole in Longitudinal Muscle Layer of Descending Colon"
     },
@@ -627,75 +627,75 @@
         "term": "ILX:0793658",
         "name": "Proximal Stomach"
     },
-	"digestive_79": {
+    "digestive_79": {
         "term": "UBERON:0001733",
         "name": "soft palate"
     },
-	"digestive_80": {
+    "digestive_80": {
         "term": "FMA:12516",
         "name": "tooth"
     },
-	"digestive_81": {
+    "digestive_81": {
         "term": "UBERON:0010061",
         "name": "lumen of nasopharynx"
     },
-	"digestive_82": {
+    "digestive_82": {
         "term": "UBERON:0001175",
         "name": "common hepatic duct"
     },
-	"digestive_83": {
+    "digestive_83": {
         "term": "UBERON:0001832",
         "name": "sublingual gland"
     },
-	"digestive_84": {
+    "digestive_84": {
         "term": "UBERON:0003216",
         "name": "hard palate"
     },
-	"digestive_86": {
+    "digestive_86": {
         "term": "UBERON:0002059",
         "name": "Submandibular ganglion"
     },
-    "digestive_85":{
+    "digestive_85": {
         "term": "UBERON:0000006",
         "name": "Islet of langerhans"
     },
-	"digestive_87": {
+    "digestive_87": {
         "term": "UBERON:0001263",
         "name": "Pancreatic acinus"
     },
-	"digestive_88": {
+    "digestive_88": {
         "term": "UBERON:0000483",
         "name": "Epithelium"
     },
-	"digestive_89": {
+    "digestive_89": {
         "term": "UBERON:0001193",
         "name": "Hepatic artery"
     },
-	"digestive_90": {
+    "digestive_90": {
         "term": "UBERON:0001194",
         "name": "Splenic artery"
     },
-	"digestive_91": {
+    "digestive_91": {
         "term": "UBERON:0001195",
         "name": "Inferior pancreaticoduodenal artery"
     },
-	"skeleton_1": {
+    "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
     },
-	"skeleton_2": {
+    "skeleton_2": {
         "term": "UBERON:0001685",
         "name": "hyoid bone"
     },
-	"skeleton_3": {
+    "skeleton_3": {
         "term": "UBERON:0003129",
         "name": "skull"
     },
-	"skeleton_4": {
+    "skeleton_4": {
         "term": "UBERON:0001760",
         "name": "frontal sinus"
     },
-	"skeleton_5": {
+    "skeleton_5": {
         "term": "UBERON:0001724",
         "name": "sphenoidal sinus"
     },
@@ -731,27 +731,27 @@
         "term": "UBERON:0003889",
         "name": "fallopian tube"
     },
-	"reproductive_9": {
+    "reproductive_9": {
         "term": "UBERON:0001301",
         "name": "epididymis"
     },
-	"reproductive_10": {
+    "reproductive_10": {
         "term": "UBERON:0000998",
         "name": "seminal vesicle"
     },
-	"reproductive_11": {
+    "reproductive_11": {
         "term": "UBERON:0001299",
         "name": "glans penis"
     },
-	"reproductive_12": {
+    "reproductive_12": {
         "term": "UBERON:0004713",
         "name": "corpus cavernosum penis"
     },
-	"reproductive_13": {
+    "reproductive_13": {
         "term": "UBERON:0001000",
         "name": "vas deferens"
     },
-	"reproductive_14": {
+    "reproductive_14": {
         "term": "UBERON:0001911",
         "name": "mammary gland"
     },
@@ -1159,7 +1159,7 @@
         "term": "ILX:0738325",
         "name": "Phrenic nucleus of C5"
     },
-	"spinal_56": {
+    "spinal_56": {
         "term": "ILX:0738292",
         "name": "MCG-SCG sympathetic cord"
     },
@@ -1175,7 +1175,7 @@
         "term": "ILX:0777088",
         "name": "L1 - L2 Interganglionic segment"
     },
-	"spinal_68": {
+    "spinal_68": {
         "term": "ILX:0738371",
         "name": "Rexed Lamina VII of T1"
     },
@@ -1231,7 +1231,7 @@
         "term": "UBERON:0009050",
         "name": "nucleus of solitary tract"
     },
-	"brain_13": {
+    "brain_13": {
         "term": "UBERON:0007632",
         "name": "Barrington's nucleus"
     },
@@ -1331,31 +1331,31 @@
         "term": "UBERON:0002743",
         "name": "basal forebrain"
     },
-	"brain_39": {
+    "brain_39": {
         "term": "UBERON:0001063",
         "name": "flocculus"
     },
-	"brain_40": {
+    "brain_40": {
         "term": "UBERON:0001905",
         "name": "pineal body"
     },
-	"brain_41": {
+    "brain_41": {
         "term": "UBERON:0001945",
         "name": "superior colliculus"
     },
-	"brain_42": {
+    "brain_42": {
         "term": "UBERON:0001946",
         "name": "inferior colliculus"
     },
-	"brain_43": {
+    "brain_43": {
         "term": "UBERON:0002265",
         "name": "olfactory tract"
     },
-	"brain_44": {
+    "brain_44": {
         "term": "UBERON:0002925",
         "name": "trigeminal nucleus"
     },
-	"brain_45": {
+    "brain_45": {
         "term": "UBERON:0007634",
         "name": "Parabrachial Nucleus"
     },
@@ -1367,7 +1367,7 @@
         "term": "UBERON:0001893",
         "name": "Telencephalon"
     },
-	"brain_50": {
+    "brain_50": {
         "term": "FMA:62493",
         "name": "hippocampus"
     },
@@ -1375,7 +1375,7 @@
         "term": "UBERON:0002141",
         "name": "Oculomotor nucleus"
     },
-	"brain_52": {
+    "brain_52": {
         "term": "UBERON:0001874",
         "name": "putamen"
     },
@@ -1383,7 +1383,127 @@
         "term": "UBERON:0002149",
         "name": "Superior salivatory nucleus"
     },
-	"bolser_2": {
+    "trochlear_nucleus": {
+        "term": "UBERON:0002722",
+        "name": "Trochlear Nucleus"
+    },
+    "trochlear_nerve_cn_iv": {
+        "term": "UBERON:0001644",
+        "name": "Trochlear Nerve"
+    },
+    "motor_nucleus_of_trigeminal_nerve": {
+        "term": "UBERON:0002633",
+        "name": "Motor nucleus of trigeminal nerve"
+    },
+    "accessory_oculomotor_nucleus": {
+        "term": "ILX:0772155",
+        "name": "Medial Accessory Oculomotor Nucleus (paxrat) "
+    },
+    "oculomotor_nucleus": {
+        "term": "ILX:0770925",
+        "name": "Oculomotor nucleus (mba)"
+    },
+    "oculomotor_nerve_cn_iii": {
+        "term": "UBERON:0001643 ",
+        "name": "Oculomotor nerve"
+    },
+    "red_nucleus": {
+        "term": "UBERON:0001947",
+        "name": "Red nucleus"
+    },
+    "facial_nucleus": {
+        "term": "UBERON:0003011 ",
+        "name": "Facial nucleus"
+    },
+    "abducens_nucleus": {
+        "term": "UBERON:0002682",
+        "name": "Abducens nucleus"
+    },
+    "superior_salivatory_nucleus": {
+        "term": "UBERON:0002149 ",
+        "name": "Superior salivatory nucleus"
+    },
+    "facial_nerve_efferent_cn_vii": {
+        "term": "UBERON:0001647 ",
+        "name": "Facial nerve"
+    },
+    "dorsal_vagal_nucleus": {
+        "term": "UBERON:0002870 ",
+        "name": "Dorsal motor nucleus of vagus nerve"
+    },
+    "sve_nucleus_ambiguus_ix_x_xi": {
+        "term": "UBERON:0001719",
+        "name": "Nucleus ambiguus"
+    },
+    "nucleus_tractus_solitarius": {
+        "term": "UBERON:0009050",
+        "name": "Solitary nucleus"
+    },
+    "accessory_nucleus": {
+        "term": "ILX:0100216",
+        "name": "Accessory nucleus"
+    },
+    "mesencephalic_nucleus_of_trigeminal_nerve": {
+        "term": "UBERON:0001718",
+        "name": "Mesencephalic nucleus of trigeminal nerve"
+    },
+    "principal_sensory_nucleus_of_trigeminal_nerve": {
+        "term": "UBERON:0002597",
+        "name": "Principal sensory nucleus of trigeminal nerve"
+    },
+    "spinal_tract_and_spinal_nucleus_of_trigeminal_nerve": {
+        "term": "UBERON:0001717",
+        "name": "Spinal nucleus of trigeminal nerve"
+    },
+    "accessory_nerve_cn_xi": {
+        "term": "UBERON:0002019",
+        "name": "Spinal accessory nerve"
+    },
+    "inferior_salivatory_nucleus": {
+        "term": "UBERON:0002872 ",
+        "name": "Inferior salivatory nucleus"
+    },
+    "glossopharyngeal_efferent_nerve_cn_ix": {
+        "term": "UBERON:0001649",
+        "name": "Glossopharyngeal nerve"
+    },
+    "glossopharyngeal_afferent_nerve_cn_ix": {
+        "term": "UBERON:0001649",
+        "name": "Glossopharyngeal nerve"
+    },
+    "vestibulocochlear_nerve_cn_viii": {
+        "term": "UBERON:0001648",
+        "name": "Vestibulocochlear nerve"
+    },
+    "vestibular_nuclei": {
+        "term": "ILX:0741477 ",
+        "name": "Vestibular nuclei (TA98)"
+    },
+    "anterior_cochlear_nuclei": {
+        "term": "ILX:0745017",
+        "name": "Anterior cochlear nucleus (TA98)"
+    },
+    "posterior_cochlear_nuclei": {
+        "term": "ILX:0743648",
+        "name": "Posterior cochlear nucleus (TA98)"
+    },
+    "superior_culliculus": {
+        "term": "UBERON:0001945",
+        "name": "Superior colliculus"
+    },
+    "lateral_geniculate_body": {
+        "term": "ILX:0745900",
+        "name": "Lateral geniculate body"
+    },
+    "brain_stem": {
+        "term": "UBERON:0002298  ",
+        "name": "Brainstem"
+    },
+    "geniculate_ganglion_of_facial_nerve": {
+        "term": "UBERON:0001700",
+        "name": "Geniculate ganglion"
+    },
+    "bolser_2": {
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
     },
@@ -1423,12 +1543,12 @@
         "term": "ILX:0789339",
         "name": "Pharyngeal Branch of Glossopharyngeal Nerve"
     },
-	"bolser_22": {
+    "bolser_22": {
         "term": "UBERON:0009009",
         "name": "carotid sinus nerve"
     },
-	"keast_1": {
-		"term": "ILX:0793559",
+    "keast_1": {
+        "term": "ILX:0793559",
         "name": "bladder nerve"
     },
     "keast_2": {
@@ -1451,7 +1571,7 @@
         "term": "UBERON:0005479",
         "name": "superior mesenteric ganglion"
     },
-	"ganglion_1": {
+    "ganglion_1": {
         "term": "UBERON:0005364",
         "name": "superior vagus X ganglion"
     },
@@ -1463,7 +1583,7 @@
         "term": "UBERON:0001989",
         "name": "superior cervical ganglion"
     },
-	"ganglion_4": {
+    "ganglion_4": {
         "term": "UBERON:0016508",
         "name": "pelvic ganglion"
     },
@@ -1475,7 +1595,7 @@
         "term": "UBERON:0001808",
         "name": "parasympathetic ganglion"
     },
-	"ganglion_9": {
+    "ganglion_9": {
         "term": "UBERON:0001990",
         "name": "middle cervical ganglion"
     },
@@ -1547,7 +1667,7 @@
         "term": "UBERON:0002024",
         "name": "internal carotid nerve plexus"
     },
-	"plexus_8": {
+    "plexus_8": {
         "term": "ILX:0793657",
         "name": "Myenteric Nerve Plexus of Descending Colon"
     },
@@ -1563,19 +1683,19 @@
         "term": "ILX:0793660",
         "name": "Myenteric Nerve Plexus of Lower Esophagus"
     },
-	"plexus_12": {
+    "plexus_12": {
         "term": "ILX:0726846",
         "name": "celiac nerve plexus"
     },
-	"plexus_13": {
+    "plexus_13": {
         "term": "ILX:0776628",
         "name": "posterior pulmonary nerve plexus"
     },
-	"plexus_14": {
+    "plexus_14": {
         "term": "ILX:0773392",
         "name": "superficial cardiac nerve plexus"
     },
-	"plexus_15": {
+    "plexus_15": {
         "term": "ILX:0771304",
         "name": "hepatic nerve plexus"
     },
@@ -1607,7 +1727,7 @@
         "term": "UBERON:0014385",
         "name": "aryepiglottic fold"
     },
-	"label_11": {
+    "label_11": {
         "term": "ILX:0493861",
         "name": "arytaenoideus"
     },
@@ -1651,7 +1771,7 @@
         "term": "ILX:0742928",
         "name": "laryngeal vestibule"
     },
-	"vagus_n": {
+    "vagus_n": {
         "term": "UBERON:0001759",
         "name": "Vagus Nerve"
     }
