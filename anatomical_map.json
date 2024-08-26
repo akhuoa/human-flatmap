@@ -1227,10 +1227,6 @@
         "term": "UBERON:0005807",
         "name": "rostral ventrolateral medulla"
     },
-    "brain_12": {
-        "term": "UBERON:0009050",
-        "name": "nucleus of solitary tract"
-    },
     "brain_13": {
         "term": "UBERON:0007632",
         "name": "Barrington's nucleus"
@@ -1306,14 +1302,6 @@
     "brain_32": {
         "term": "UBERON:0002022",
         "name": "insula"
-    },
-    "brain_33": {
-        "term": "UBERON:0001719",
-        "name": "nucleus ambiguus"
-    },
-    "brain_34": {
-        "term": "UBERON:0002870",
-        "name": "dorsal motor nucleus of vagus nerve"
     },
     "brain_35": {
         "term": "UBERON:0000955",
