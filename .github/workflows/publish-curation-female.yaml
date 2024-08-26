@@ -1,4 +1,4 @@
-name: publish-curation
+name: publish-curation-female
 on:
   pull_request:
     types:
