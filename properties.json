@@ -2170,12 +2170,6 @@
         "brain_11-2": {
             "class": "brain_11"
         },
-        "brain_12-1": {
-            "class": "brain_12"
-        },
-        "brain_12-2": {
-            "class": "brain_12"
-        },
         "brain_13-1": {
             "class": "brain_13"
         },
@@ -2260,12 +2254,6 @@
         "brain_32-1": {
             "class": "brain_32"
         },
-        "brain_33-1": {
-            "class": "brain_33"
-        },
-        "brain_34-1": {
-            "class": "brain_34"
-        },
         "brain_35-1": {
             "class": "brain_35"
         },
@@ -2344,7 +2332,7 @@
             "name": "Oculomotor nucleus (mba)"
         },
         "oculomotor_nerve_cn_iii": {
-            "models": "UBERON:0001643 ",
+            "models": "UBERON:0001643",
             "name": "Oculomotor nerve"
         },
         "red_nucleus": {
@@ -2352,7 +2340,7 @@
             "name": "Red nucleus"
         },
         "facial_nucleus": {
-            "models": "UBERON:0003011 ",
+            "models": "UBERON:0003011",
             "name": "Facial nucleus"
         },
         "abducens_nucleus": {
@@ -2360,15 +2348,11 @@
             "name": "Abducens nucleus"
         },
         "superior_salivatory_nucleus": {
-            "models": "UBERON:0002149 ",
+            "models": "UBERON:0002149",
             "name": "Superior salivatory nucleus"
         },
-        "facial_nerve_efferent_cn_vii": {
-            "models": "UBERON:0001647 ",
-            "name": "Facial nerve"
-        },
         "dorsal_vagal_nucleus": {
-            "models": "UBERON:0002870 ",
+            "models": "UBERON:0002870",
             "name": "Dorsal motor nucleus of vagus nerve"
         },
         "sve_nucleus_ambiguus_ix_x_xi": {
@@ -2400,23 +2384,15 @@
             "name": "Spinal accessory nerve"
         },
         "inferior_salivatory_nucleus": {
-            "models": "UBERON:0002872 ",
+            "models": "UBERON:0002872",
             "name": "Inferior salivatory nucleus"
-        },
-        "glossopharyngeal_efferent_nerve_cn_ix": {
-            "models": "UBERON:0001649",
-            "name": "Glossopharyngeal nerve"
-        },
-        "glossopharyngeal_afferent_nerve_cn_ix": {
-            "models": "UBERON:0001649",
-            "name": "Glossopharyngeal nerve"
         },
         "vestibulocochlear_nerve_cn_viii": {
             "models": "UBERON:0001648",
             "name": "Vestibulocochlear nerve"
         },
         "vestibular_nuclei": {
-            "models": "ILX:0741477 ",
+            "models": "ILX:0741477",
             "name": "Vestibular nuclei (TA98)"
         },
         "anterior_cochlear_nuclei": {
@@ -2436,7 +2412,7 @@
             "name": "Lateral geniculate body"
         },
         "brain_stem": {
-            "models": "UBERON:0002298  ",
+            "models": "UBERON:0002298",
             "name": "Brainstem"
         },
         "geniculate_ganglion_of_facial_nerve": {
@@ -7308,7 +7284,7 @@
                 {
                     "id": "bolser_11",
                     "connects": [
-                        "brain_12-1",
+                        "nucleus_tractus_solitarius",
                         "point_49"
                     ]
                 },
