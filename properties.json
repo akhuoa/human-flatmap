@@ -1909,6 +1909,12 @@
         "S50_S3": {
             "class": "spinal_50"
         },
+        "S50_S4": {
+            "class": "spinal_50"
+        },
+        "S50_S5": {
+            "class": "spinal_50"
+        },
         "S50_T10": {
             "class": "spinal_50"
         },
