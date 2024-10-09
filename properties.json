@@ -1330,9 +1330,17 @@
         "S44_T6": {
             "class": "spinal_44"
         },
-        "S44_T6-1": {
+        "S44_T6_T6": {
             "models": "ILX:0785909",
             "name": "posterior root of sixth thoracic nerve"
+        },
+        "S44_T6-Left": {
+            "models": "ILX:0789727",
+            "name": "posterior root of left sixth thoracic nerve"
+        },
+        "S44_T6-Right": {
+            "models": "ILX:0785477",
+            "name": "posterior root of right sixth thoracic nerve"
         },
         "S44_T7": {
             "class": "spinal_44"
@@ -1358,9 +1366,17 @@
         "S44_T10": {
             "class": "spinal_44"
         },
-        "S44_T10-1": {
+        "S44_T10_T10": {
             "models": "ILX:0789892",
             "name": "posterior root of tenth thoracic nerve"
+        },
+        "S44_T10-Left":{
+            "models": "ILX:0785488",
+            "name": "posterior root of left tenth thoracic nerve"
+        },
+        "S44_T10-Right":{
+            "models": "ILX:0792995",
+            "name": "posterior root of right tenth thoracic nerve"
         },
         "S44_T11": {
             "class": "spinal_44"
@@ -1372,9 +1388,17 @@
         "S44_T12": {
             "class": "spinal_44"
         },
-        "S44_T12-1":{
+        "S44_T12_T12":{
             "models": "ILX:0787665",
             "name": "posterior root of twelfth thoracic nerve"
+        },
+        "S44_T12-Left":{
+            "models": "ILX:0790414",
+            "name": "posterior root of left twelfth thoracic nerve"
+        },
+        "S44_T12-Right":{
+            "models": "ILX:0785098",
+            "name": "posterior root of right twelfth thoracic nerve"
         },
         "S44_T13": {
             "class": "spinal_44"
@@ -1397,6 +1421,9 @@
             "class": "spinal_44"
         },
         "S44_S4": {
+            "class": "spinal_44"
+        },
+        "S44_S5": {
             "class": "spinal_44"
         },
         "S45_C1": {
@@ -1455,6 +1482,14 @@
             "models": "UBERON:0002849",
             "name": "sixth thoracic dorsal root ganglion"
         },
+        "S45_T6-Left": {
+            "models": "ILX:0793071",
+            "name": "Left sixth thoracic spinal ganglion"
+        },
+        "S45_T6-Right": {
+            "models": "ILX:0791527",
+            "name": "Right sixth thoracic spinal ganglion"
+        },
         "S45_T7": {
             "models": "UBERON:0002850",
             "name": "seventh thoracic dorsal root ganglion"
@@ -1471,6 +1506,14 @@
             "models": "UBERON:0002853",
             "name": "tenth thoracic dorsal root ganglion"
         },
+        "S45_T10-Left": {
+            "models": "ILX:0792508",
+            "name": "Left tenth thoracic spinal ganglion"
+        },
+        "S45_T10-Right": {
+            "models": "ILX:0786372",
+            "name": "Right tenth thoracic spinal ganglion"
+        },
         "S45_T11": {
             "models": "UBERON:0002854",
             "name": "eleventh thoracic dorsal root ganglion"
@@ -1478,6 +1521,14 @@
         "S45_T12": {
             "models": "UBERON:0002855",
             "name": "twelfth thoracic dorsal root ganglion"
+        },
+        "S45_T12-Left": {
+            "models": "ILX:0787810",
+            "name": "Left twelfth thoracic spinal ganglion"
+        },
+        "S45_T12-Right": {
+            "models": "ILX:0786989",
+            "name": "Right twelfth thoracic spinal ganglion"
         },
         "S45_T13": {
             "models": "ILX:0793359",
@@ -1907,6 +1958,12 @@
             "name": "Second sacral nerve"
         },
         "S50_S3": {
+            "class": "spinal_50"
+        },
+        "S50_S4": {
+            "class": "spinal_50"
+        },
+        "S50_S5": {
             "class": "spinal_50"
         },
         "S50_T10": {
@@ -3977,6 +4034,35 @@
         },
         "spinal_31-99": {
             "class": "spinal_31"
+        },
+        "S32_T6": {
+            "class": "spinal_32"
+        },
+        "S32_T6-Right": {
+            "models": "ILX:0795040",
+            "name": "Dorsal grey horn of right T6"
+        },
+        "S32_T10": {
+            "class": "spinal_32"
+        },
+        "S32_T10-Left": {
+            "models": "ILX:0795034",
+            "name": "Dorsal grey horn of left T10"
+        },
+        "S32_T10-Right": {
+            "models": "ILX:0795044",
+            "name": "Dorsal grey horn of right T10"
+        },
+        "S32_T12": {
+            "class": "spinal_32"
+        },
+        "S32_T12-Left": {
+            "models": "ILX:0795036",
+            "name": "Dorsal grey horn of left T12"
+        },
+        "S32_T12-Right": {
+            "models": "ILX:0795046",
+            "name": "Dorsal grey horn of right T12"
         },
         "spinal_32-1": {
             "class": "spinal_32"
