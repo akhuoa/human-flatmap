@@ -1300,9 +1300,17 @@
         "S44_L2": {
             "class": "spinal_44"
         },
-        "S44_L2-1": {
+        "S44_L2_L2": {
             "models": "ILX:0792058",
             "name": "posterior root of second lumbar nerve"
+        },
+        "S44_L2-Left":{
+            "models": "ILX:0792342",
+            "name": "posterior root of left second lumbar nerve"
+        },
+        "S44_L2-Right":{
+            "models": "ILX:0784709",
+            "name": "posterior root of right second lumbar nerve"
         },
         "S44_L3": {
             "class": "spinal_44"
@@ -1622,9 +1630,25 @@
             "models": "UBERON:0002857",
             "name": "first lumbar dorsal root ganglion"
         },
+        "S45_L1-Left": {
+            "models": "ILX:0786477",
+            "name": "Left first lumbar spinal ganglion"
+        },
+        "S45_L1-Right": {
+            "models": "ILX:0787285",
+            "name": "Right first lumbar spinal ganglion"
+        },
         "S45_L2": {
             "models": "UBERON:0002856",
             "name": "second lumbar dorsal root ganglion"
+        },
+        "S45_L2-Left": {
+            "models": "ILX:0785409",
+            "name": "Left second lumbar spinal ganglion"
+        },
+        "S45_L2-Right": {
+            "models": "ILX:0785743",
+            "name": "Right second lumbar spinal ganglion"
         },
         "S45_L3": {
             "models": "UBERON:0002858",
@@ -4209,6 +4233,13 @@
         "S32_L1-Right": {
             "models": "ILX:0795048",
             "name": "Dorsal grey horn of right L1"
+        },
+        "S32_L2": {
+            "class": "spinal_32"
+        },
+        "S32_L2-Left": {
+            "models": "ILX:0795039",
+            "name": "Dorsal grey horn of left L2"
         },
         "spinal_32-1": {
             "class": "spinal_32"
