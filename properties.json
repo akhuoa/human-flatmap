@@ -1287,15 +1287,15 @@
         },
         "S44_L1_L1": {
             "models": "ILX:0787779",
-            "name": "posterior root of first lumbar nerve"
+            "name": "Posterior root of first lumbar nerve"
         },
-        "S44_L1-Left":{
+        "S44_L1-Left": {
             "models": "ILX:0786788",
-            "name": "posterior root of left first lumbar nerve"
+            "name": "Posterior root of left first lumbar nerve"
         },
-        "S44_L1-Right":{
+        "S44_L1-Right": {
             "models": "ILX:0785947",
-            "name": "posterior root of right first lumbar nerve"
+            "name": "Posterior root of right first lumbar nerve"
         },
         "S44_L2": {
             "class": "spinal_44"
@@ -1304,11 +1304,11 @@
             "models": "ILX:0792058",
             "name": "posterior root of second lumbar nerve"
         },
-        "S44_L2-Left":{
+        "S44_L2-Left": {
             "models": "ILX:0792342",
             "name": "posterior root of left second lumbar nerve"
         },
-        "S44_L2-Right":{
+        "S44_L2-Right": {
             "models": "ILX:0784709",
             "name": "posterior root of right second lumbar nerve"
         },
@@ -1395,11 +1395,11 @@
             "models": "ILX:0789741",
             "name": "posterior root of ninth thoracic nerve"
         },
-        "S44_T9-Left":{
+        "S44_T9-Left": {
             "models": "ILX:0784588",
             "name": "posterior root of left ninth thoracic nerve"
         },
-        "S44_T9-Right":{
+        "S44_T9-Right": {
             "models": "ILX:0786813",
             "name": "posterior root of right ninth thoracic nerve"
         },
@@ -1410,11 +1410,11 @@
             "models": "ILX:0789892",
             "name": "posterior root of tenth thoracic nerve"
         },
-        "S44_T10-Left":{
+        "S44_T10-Left": {
             "models": "ILX:0785488",
             "name": "posterior root of left tenth thoracic nerve"
         },
-        "S44_T10-Right":{
+        "S44_T10-Right": {
             "models": "ILX:0792995",
             "name": "posterior root of right tenth thoracic nerve"
         },
@@ -1425,33 +1425,33 @@
             "models": "ILX:0790338",
             "name": "posterior root of eleventh thoracic nerve"
         },
-        "S44_T11-Left":{
+        "S44_T11-Left": {
             "models": "ILX:0789839",
             "name": "posterior root of left eleventh thoracic nerve"
         },
-        "S44_T11-Right":{
+        "S44_T11-Right": {
             "models": "ILX:0786402",
             "name": "posterior root of right eleventh thoracic nerve"
         },
         "S44_T12": {
             "class": "spinal_44"
         },
-        "S44_T12_T12":{
+        "S44_T12_T12": {
             "models": "ILX:0787665",
             "name": "posterior root of twelfth thoracic nerve"
         },
-        "S44_T12-Left":{
+        "S44_T12-Left": {
             "models": "ILX:0790414",
             "name": "posterior root of left twelfth thoracic nerve"
         },
-        "S44_T12-Right":{
+        "S44_T12-Right": {
             "models": "ILX:0785098",
             "name": "posterior root of right twelfth thoracic nerve"
         },
         "S44_T13": {
             "class": "spinal_44"
         },
-        "S44_T13_T13":{
+        "S44_T13_T13": {
             "models": "ILX:0795049",
             "name": "posterior root of thirteenth thoracic nerve"
         },
@@ -2020,28 +2020,28 @@
         "S50_L1": {
             "class": "spinal_50"
         },
-        "S50_L1-1":{
+        "S50_L1-1": {
             "models": "ILX:0788972",
             "name": "First lumbar nerve"
         },
         "S50_L2": {
             "class": "spinal_50"
         },
-        "S50_L2-1":{
+        "S50_L2-1": {
             "models": "ILX:0786362",
             "name": "Second lumbar nerve"
         },
         "S50_L3": {
             "class": "spinal_50"
         },
-        "S50_L3-1":{
+        "S50_L3-1": {
             "models": "ILX:0789374",
             "name": "Third lumbar nerve"
         },
         "S50_L4": {
             "class": "spinal_50"
         },
-        "S50_L4-1":{
+        "S50_L4-1": {
             "models": "ILX:0788896",
             "name": "Fourth lumbar nerve"
         },
@@ -2054,14 +2054,14 @@
         "S50_S1": {
             "class": "spinal_50"
         },
-        "S50_S1-1":{
+        "S50_S1-1": {
             "models": "ILX:0790504",
             "name": "First sacral nerve"
         },
         "S50_S2": {
             "class": "spinal_50"
         },
-        "S50_S2-1":{
+        "S50_S2-1": {
             "models": "ILX:0787528",
             "name": "Second sacral nerve"
         },
@@ -2463,6 +2463,9 @@
             "class": "brain_24"
         },
         "brain_25-1": {
+            "class": "brain_25"
+        },
+        "brain_25-2": {
             "class": "brain_25"
         },
         "brain_26-1": {
