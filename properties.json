@@ -1315,7 +1315,7 @@
         "S44_L3": {
             "class": "spinal_44"
         },
-        "S44_L3-1": {
+        "S44_L3_L3": {
             "models": "ILX:0787227",
             "name": "posterior root of third lumbar nerve"
         },
@@ -1421,7 +1421,7 @@
         "S44_T11": {
             "class": "spinal_44"
         },
-        "S44_T11-T11": {
+        "S44_T11_T11": {
             "models": "ILX:0790338",
             "name": "posterior root of eleventh thoracic nerve"
         },
@@ -2068,6 +2068,10 @@
         "S50_S3": {
             "class": "spinal_50"
         },
+        "S50_S3-1":{
+            "models": "ILX:0791971",
+            "name": "Third sacral nerve"
+        },
         "S50_S4": {
             "class": "spinal_50"
         },
@@ -2298,14 +2302,20 @@
             "class": "auto-hide"
         },
         "ganglion_25-1": {
-            "models": "ILX:0794733",
-            "name": "Ovarian nerve plexus sympathetic ganglion (DEPRECATED)",
+            "models": "ILX:0794910",
+            "name": "Ovarian ganglion",
             "type": "ganglion",
             "class": "auto-hide"
         },
         "ganglion_26-1": {
             "models": "ILX:0793550",
             "name": "Mediastinal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_27-1": {
+            "models": "ILX:0795057",
+            "name": "renal nerve plexus ganglion",
             "type": "ganglion",
             "class": "auto-hide"
         },
