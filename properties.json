@@ -4791,6 +4791,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_23-1": {
+            "models": "ILX:0793806",
+            "name": "Prostatic nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_1-1": {
             "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
