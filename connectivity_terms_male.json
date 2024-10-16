@@ -2097,5 +2097,18 @@
                 []
             ]
         ]
+    },
+    {
+        "id": [
+            "UBERON:0006455",
+            []
+        ],
+        "name": "seventh thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0793811",
+                []
+            ]
+        ]
     }
 ]
