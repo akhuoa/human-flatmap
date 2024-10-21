@@ -1207,6 +1207,10 @@
         "term": "UBERON:0006463",
         "name": "S4 segment of sacral spinal cord"
     },
+    "spinal_70": {
+        "term": "UBERON:0006464",
+        "name": "S5 segment of sacral spinal cord"
+    },
     "brain_1": {
         "term": "UBERON:0001898",
         "name": "hypothalamus"
