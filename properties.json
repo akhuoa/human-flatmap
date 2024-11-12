@@ -1654,9 +1654,6 @@
             "models": "UBERON:0002858",
             "name": "third lumbar dorsal root ganglion"
         },
-        "spinal_45-L4": {
-            "class": "spinal_45"
-        },
         "S45_L4": {
             "models": "UBERON:0003943",
             "name": "fourth lumbar dorsal root ganglion"
