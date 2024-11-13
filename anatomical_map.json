@@ -995,10 +995,6 @@
         "term": "UBERON:0006493",
         "name": "C7 segment of cervical spinal cord"
     },
-    "spinal_8": {
-        "term": "UBERON:0006470",
-        "name": "C8 segment of cervical spinal cord"
-    },
     "spinal_9": {
         "term": "UBERON:0006457",
         "name": "first thoracic spinal cord segment"

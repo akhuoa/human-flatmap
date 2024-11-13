@@ -71,9 +71,6 @@
         "S33_C7": {
             "class": "spinal_33"
         },
-        "S33_C8": {
-            "class": "spinal_33"
-        },
         "S33_L1": {
             "class": "spinal_33"
         },
@@ -87,9 +84,6 @@
             "class": "spinal_33"
         },
         "S33_L5": {
-            "class": "spinal_33"
-        },
-        "S33_L6": {
             "class": "spinal_33"
         },
         "S33_S1": {
@@ -164,9 +158,6 @@
         "S34_C7": {
             "class": "spinal_34"
         },
-        "S34_C8": {
-            "class": "spinal_34"
-        },
         "S34_L1": {
             "class": "spinal_34"
         },
@@ -180,9 +171,6 @@
             "class": "spinal_34"
         },
         "S34_L5": {
-            "class": "spinal_34"
-        },
-        "S34_L6": {
             "class": "spinal_34"
         },
         "S34_S1": {
@@ -257,9 +245,6 @@
         "S35_C7": {
             "class": "spinal_35"
         },
-        "S35_C8": {
-            "class": "spinal_35"
-        },
         "S35_L1": {
             "class": "spinal_35"
         },
@@ -273,9 +258,6 @@
             "class": "spinal_35"
         },
         "S35_L5": {
-            "class": "spinal_35"
-        },
-        "S35_L6": {
             "class": "spinal_35"
         },
         "S35_S1": {
@@ -350,9 +332,6 @@
         "S36_C7": {
             "class": "spinal_36"
         },
-        "S36_C8": {
-            "class": "spinal_36"
-        },
         "S36_L1": {
             "class": "spinal_36"
         },
@@ -366,9 +345,6 @@
             "class": "spinal_36"
         },
         "S36_L5": {
-            "class": "spinal_36"
-        },
-        "S36_L6": {
             "class": "spinal_36"
         },
         "S36_S1": {
@@ -443,9 +419,6 @@
         "S37_C7": {
             "class": "spinal_37"
         },
-        "S37_C8": {
-            "class": "spinal_37"
-        },
         "S37_L1": {
             "class": "spinal_37"
         },
@@ -459,9 +432,6 @@
             "class": "spinal_37"
         },
         "S37_L5": {
-            "class": "spinal_37"
-        },
-        "S37_L6": {
             "class": "spinal_37"
         },
         "S37_S1": {
@@ -527,9 +497,6 @@
         "S38_C7": {
             "class": "spinal_38"
         },
-        "S38_C8": {
-            "class": "spinal_38"
-        },
         "S38_L3": {
             "class": "spinal_38"
         },
@@ -567,9 +534,6 @@
             "class": "spinal_39"
         },
         "S39_C7": {
-            "class": "spinal_39"
-        },
-        "S39_C8": {
             "class": "spinal_39"
         },
         "S39_L1": {
@@ -662,9 +626,6 @@
         "S40_C7": {
             "class": "spinal_40"
         },
-        "S40_C8": {
-            "class": "spinal_40"
-        },
         "S40_L1": {
             "class": "spinal_40"
         },
@@ -755,9 +716,6 @@
         "S41_1_C7": {
             "class": "spinal_41"
         },
-        "S41_1_C8": {
-            "class": "spinal_41"
-        },
         "S41_1_L1": {
             "class": "spinal_41"
         },
@@ -837,9 +795,6 @@
             "class": "spinal_41"
         },
         "S41_2_C7": {
-            "class": "spinal_41"
-        },
-        "S41_2_C8": {
             "class": "spinal_41"
         },
         "S41_2_L1": {
@@ -923,9 +878,6 @@
         "S41_3_C7": {
             "class": "spinal_41"
         },
-        "S41_3_C8": {
-            "class": "spinal_41"
-        },
         "S41_3_L1": {
             "class": "spinal_41"
         },
@@ -980,9 +932,6 @@
         "S41_4_C7": {
             "class": "spinal_41"
         },
-        "S41_4_C8": {
-            "class": "spinal_41"
-        },
         "S41_4_L1": {
             "class": "spinal_41"
         },
@@ -1007,9 +956,6 @@
         "S41_5_C7": {
             "class": "spinal_41"
         },
-        "S41_5_C8": {
-            "class": "spinal_41"
-        },
         "S41_5_L4": {
             "class": "spinal_41"
         },
@@ -1020,9 +966,6 @@
             "class": "spinal_41"
         },
         "S41_6_C7": {
-            "class": "spinal_41"
-        },
-        "S41_6_C8": {
             "class": "spinal_41"
         },
         "S41_7_C7": {
@@ -1056,9 +999,6 @@
             "class": "spinal_42"
         },
         "S42_C7": {
-            "class": "spinal_42"
-        },
-        "S42_C8": {
             "class": "spinal_42"
         },
         "S42_L1": {
@@ -1157,10 +1097,6 @@
         "S43_C7": {
             "models": "ILX:0785896",
             "name": "Anterior root of seventh cervical nerve"
-        },
-        "S43_C8": {
-            "models": "ILX:0786163",
-            "name": "Anterior root of eighth cervical nerve"
         },
         "S43_T1": {
             "models": "ILX:0787722",
@@ -1277,9 +1213,6 @@
             "class": "spinal_44"
         },
         "S44_C7": {
-            "class": "spinal_44"
-        },
-        "S44_C8": {
             "class": "spinal_44"
         },
         "S44_L1": {
@@ -1448,21 +1381,6 @@
             "models": "ILX:0785098",
             "name": "posterior root of right twelfth thoracic nerve"
         },
-        "S44_T13": {
-            "class": "spinal_44"
-        },
-        "S44_T13_T13": {
-            "models": "ILX:0795049",
-            "name": "posterior root of thirteenth thoracic nerve"
-        },
-        "S44_T13-Left": {
-            "models": "ILX:0795050",
-            "name": "Posterior root of left thirteenth thoracic nerve"
-        },
-        "S44_T13-Right": {
-            "models": "ILX:0795049",
-            "name": "Posterior root of right thirteenth thoracic nerve"
-        },
         "S44_S1": {
             "class": "spinal_44"
         },
@@ -1505,10 +1423,6 @@
         "S45_C7": {
             "models": "UBERON:0002843",
             "name": "seventh cervical dorsal root ganglion"
-        },
-        "S45_C8": {
-            "models": "UBERON:0002844",
-            "name": "eighth cervical dorsal root ganglion"
         },
         "S45_T1": {
             "models": "UBERON:0002845",
@@ -1893,10 +1807,6 @@
             "models": "ILX:0793225",
             "name": "C7 gray ramus"
         },
-        "S49_C8": {
-            "models": "ILX:0793226",
-            "name": "C8 gray ramus"
-        },
         "S49_T1": {
             "models": "ILX:0787082",
             "name": "Gray communicating ramus of first intercostal nerve"
@@ -2014,9 +1924,6 @@
         "S50_C7": {
             "class": "spinal_50"
         },
-        "S50_C8": {
-            "class": "spinal_50"
-        },
         "S50_L1": {
             "class": "spinal_50"
         },
@@ -2068,7 +1975,7 @@
         "S50_S3": {
             "class": "spinal_50"
         },
-        "S50_S3-1":{
+        "S50_S3-1": {
             "models": "ILX:0791971",
             "name": "Third sacral nerve"
         },
@@ -6294,17 +6201,6 @@
                     ]
                 },
                 {
-                    "id": "L6_dorsal_root",
-                    "connects": [
-                        "L6_spinal",
-                        "S45_L6",
-                        "spinal_27-1/L6_dorsal_root_end"
-                    ],
-                    "contained-in": [
-                        "S45_L6"
-                    ]
-                },
-                {
                     "id": "S1_dorsal_root",
                     "connects": [
                         "S1_spinal",
@@ -6415,17 +6311,6 @@
                     ]
                 },
                 {
-                    "id": "L6_ventral_root",
-                    "connects": [
-                        "L6_spinal",
-                        "spinal_27-1/L6_ventral_root_end"
-                    ],
-                    "contained-in": [
-                        "S43_L6",
-                        "S50_L6"
-                    ]
-                },
-                {
                     "id": "S1_ventral_root",
                     "connects": [
                         "S1_spinal",
@@ -6476,14 +6361,6 @@
                     "connects": [
                         "S46_T6",
                         "T6_spinal"
-                    ]
-                },
-                {
-                    "id": "L6_gray_ramus-spinal_n",
-                    "models": "ILX:0739299",
-                    "connects": [
-                        "S46_L6",
-                        "L6_spinal"
                     ]
                 },
                 {
@@ -7016,16 +6893,6 @@
                     ]
                 },
                 {
-                    "id": "L6_paravertebral_ganglion",
-                    "connects": [
-                        "L6_spinal",
-                        "S46_L6"
-                    ],
-                    "contained-in": [
-                        "S48_L6"
-                    ]
-                },
-                {
                     "id": "S1_paravertebral_ganglion",
                     "connects": [
                         "S1_spinal",
@@ -7116,16 +6983,9 @@
                     ]
                 },
                 {
-                    "id": "C7_C8_cns",
+                    "id": "C7_T1_cns",
                     "connects": [
                         "spinal_7-1",
-                        "spinal_8-1"
-                    ]
-                },
-                {
-                    "id": "C8_T1_cns",
-                    "connects": [
-                        "spinal_8-1",
                         "spinal_9-1"
                     ]
                 },
@@ -7207,16 +7067,9 @@
                     ]
                 },
                 {
-                    "id": "T12_T13_cns",
+                    "id": "T12_L1_cns",
                     "connects": [
                         "spinal_20-1",
-                        "spinal_21-1"
-                    ]
-                },
-                {
-                    "id": "T13_L1_cns",
-                    "connects": [
-                        "spinal_21-1",
                         "spinal_22-1"
                     ]
                 },
@@ -7249,16 +7102,9 @@
                     ]
                 },
                 {
-                    "id": "L5_L6_cns",
+                    "id": "L5_S1_cns",
                     "connects": [
                         "spinal_26-1",
-                        "spinal_27-1"
-                    ]
-                },
-                {
-                    "id": "L6_S1_cns",
-                    "connects": [
-                        "spinal_27-1",
                         "spinal_28-1"
                     ]
                 },
@@ -7343,20 +7189,6 @@
                     "connects": [
                         "L5_spinal",
                         "pudendal_n_start"
-                    ]
-                },
-                {
-                    "id": "L6_spinal_n-1",
-                    "connects": [
-                        "L6_spinal",
-                        "pudendal_n_start"
-                    ]
-                },
-                {
-                    "id": "L6_spinal_n-2",
-                    "connects": [
-                        "L6_spinal",
-                        "pelvic_splanchnic_n_start"
                     ]
                 },
                 {
