@@ -1285,11 +1285,23 @@
         "S44_L1": {
             "class": "spinal_44"
         },
+        "S44_L1-1": {
+            "models": "ILX:0787779",
+            "name": "posterior root of first lumbar nerve"
+        },
         "S44_L2": {
             "class": "spinal_44"
         },
+        "S44_L2-1": {
+            "models": "ILX:0792058",
+            "name": "posterior root of second lumbar nerve"
+        },
         "S44_L3": {
             "class": "spinal_44"
+        },
+        "S44_L3-1": {
+            "models": "ILX:0787227",
+            "name": "posterior root of third lumbar nerve"
         },
         "S44_L4": {
             "class": "spinal_44"
@@ -1318,26 +1330,62 @@
         "S44_T6": {
             "class": "spinal_44"
         },
+        "S44_T6-1": {
+            "models": "ILX:0785909",
+            "name": "posterior root of sixth thoracic nerve"
+        },
         "S44_T7": {
             "class": "spinal_44"
+        },
+        "S44_T7-1": {
+            "models": "ILX:0784605",
+            "name": "posterior root of seventh thoracic nerve"
         },
         "S44_T8": {
             "class": "spinal_44"
         },
+        "S44_T8-1": {
+            "models": "ILX:0792624",
+            "name": "posterior root of eighth thoracic nerve"
+        },
         "S44_T9": {
             "class": "spinal_44"
+        },
+        "S44_T9-1": {
+            "models": "ILX:0789741",
+            "name": "posterior root of ninth thoracic nerve"
         },
         "S44_T10": {
             "class": "spinal_44"
         },
+        "S44_T10-1": {
+            "models": "ILX:0789892",
+            "name": "posterior root of tenth thoracic nerve"
+        },
         "S44_T11": {
             "class": "spinal_44"
+        },
+        "S44_T11-1": {
+            "models": "ILX:0790338",
+            "name": "posterior root of eleventh thoracic nerve"
         },
         "S44_T12": {
             "class": "spinal_44"
         },
+        "S44_T12-1":{
+            "models": "ILX:0787665",
+            "name": "posterior root of twelfth thoracic nerve"
+        },
         "S44_T13": {
             "class": "spinal_44"
+        },
+        "S44_T13_L": {
+            "models": "ILX:0795050",
+            "name": "Posterior root of left thirteenth thoracic nerve"
+        },
+        "S44_T13_R": {
+            "models": "ILX:0795049",
+            "name": "Posterior root of right thirteenth thoracic nerve"
         },
         "S44_S1": {
             "class": "spinal_44"
@@ -1813,14 +1861,30 @@
         "S50_L1": {
             "class": "spinal_50"
         },
+        "S50_L1-1":{
+            "models": "ILX:0788972",
+            "name": "First lumbar nerve"
+        },
         "S50_L2": {
             "class": "spinal_50"
+        },
+        "S50_L2-1":{
+            "models": "ILX:0786362",
+            "name": "Second lumbar nerve"
         },
         "S50_L3": {
             "class": "spinal_50"
         },
+        "S50_L3-1":{
+            "models": "ILX:0789374",
+            "name": "Third lumbar nerve"
+        },
         "S50_L4": {
             "class": "spinal_50"
+        },
+        "S50_L4-1":{
+            "models": "ILX:0788896",
+            "name": "Fourth lumbar nerve"
         },
         "S50_L5": {
             "class": "spinal_50"
@@ -1831,8 +1895,16 @@
         "S50_S1": {
             "class": "spinal_50"
         },
+        "S50_S1-1":{
+            "models": "ILX:0790504",
+            "name": "First sacral nerve"
+        },
         "S50_S2": {
             "class": "spinal_50"
+        },
+        "S50_S2-1":{
+            "models": "ILX:0787528",
+            "name": "Second sacral nerve"
         },
         "S50_S3": {
             "class": "spinal_50"
@@ -1845,6 +1917,10 @@
         },
         "S50_T12": {
             "class": "spinal_50"
+        },
+        "S50_T12-1": {
+            "models": "ILX:0791046",
+            "name": "Twelfth thoracic nerve"
         },
         "S50_T13": {
             "class": "spinal_50"
@@ -2170,12 +2246,6 @@
         "brain_11-2": {
             "class": "brain_11"
         },
-        "brain_12-1": {
-            "class": "brain_12"
-        },
-        "brain_12-2": {
-            "class": "brain_12"
-        },
         "brain_13-1": {
             "class": "brain_13"
         },
@@ -2260,12 +2330,6 @@
         "brain_32-1": {
             "class": "brain_32"
         },
-        "brain_33-1": {
-            "class": "brain_33"
-        },
-        "brain_34-1": {
-            "class": "brain_34"
-        },
         "brain_35-1": {
             "class": "brain_35"
         },
@@ -2296,9 +2360,6 @@
         "brain_43-1": {
             "class": "brain_43"
         },
-        "brain_44-1": {
-            "class": "brain_44"
-        },
         "brain_45-1": {
             "class": "brain_45"
         },
@@ -2323,8 +2384,113 @@
         "brain_52-1": {
             "class": "brain_52"
         },
+        "trochlear_nucleus": {
+            "models": "UBERON:0002722",
+            "name": "Trochlear Nucleus"
+        },
+        "trochlear_nerve_cn_iv": {
+            "models": "UBERON:0001644",
+            "name": "Trochlear Nerve"
+        },
+        "motor_nucleus_of_trigeminal_nerve": {
+            "models": "UBERON:0002633",
+            "name": "Motor nucleus of trigeminal nerve"
+        },
+        "accessory_oculomotor_nucleus": {
+            "models": "ILX:0772155",
+            "name": "Medial Accessory Oculomotor Nucleus (paxrat) "
+        },
+        "oculomotor_nucleus": {
+            "models": "ILX:0770925",
+            "name": "Oculomotor nucleus (mba)"
+        },
+        "oculomotor_nerve_cn_iii": {
+            "models": "UBERON:0001643",
+            "name": "Oculomotor nerve"
+        },
+        "red_nucleus": {
+            "models": "UBERON:0001947",
+            "name": "Red nucleus"
+        },
+        "facial_nucleus": {
+            "models": "UBERON:0003011",
+            "name": "Facial nucleus"
+        },
+        "abducens_nucleus": {
+            "models": "UBERON:0002682",
+            "name": "Abducens nucleus"
+        },
         "superior_salivatory_nucleus": {
-            "class": "brain_53"
+            "models": "UBERON:0002149",
+            "name": "Superior salivatory nucleus"
+        },
+        "dorsal_vagal_nucleus": {
+            "models": "UBERON:0002870",
+            "name": "Dorsal motor nucleus of vagus nerve"
+        },
+        "sve_nucleus_ambiguus_ix_x_xi": {
+            "models": "UBERON:0001719",
+            "name": "Nucleus ambiguus"
+        },
+        "nucleus_tractus_solitarius": {
+            "models": "UBERON:0009050",
+            "name": "Solitary nucleus"
+        },
+        "accessory_nucleus": {
+            "models": "ILX:0100216",
+            "name": "Accessory nucleus"
+        },
+        "mesencephalic_nucleus_of_trigeminal_nerve": {
+            "models": "UBERON:0001718",
+            "name": "Mesencephalic nucleus of trigeminal nerve"
+        },
+        "principal_sensory_nucleus_of_trigeminal_nerve": {
+            "models": "UBERON:0002597",
+            "name": "Principal sensory nucleus of trigeminal nerve"
+        },
+        "spinal_tract_and_spinal_nucleus_of_trigeminal_nerve": {
+            "models": "UBERON:0001717",
+            "name": "Spinal nucleus of trigeminal nerve"
+        },
+        "accessory_nerve_cn_xi": {
+            "models": "UBERON:0002019",
+            "name": "Spinal accessory nerve"
+        },
+        "inferior_salivatory_nucleus": {
+            "models": "UBERON:0002872",
+            "name": "Inferior salivatory nucleus"
+        },
+        "vestibulocochlear_nerve_cn_viii": {
+            "models": "UBERON:0001648",
+            "name": "Vestibulocochlear nerve"
+        },
+        "vestibular_nuclei": {
+            "models": "ILX:0741477",
+            "name": "Vestibular nuclei (TA98)"
+        },
+        "anterior_cochlear_nuclei": {
+            "models": "ILX:0745017",
+            "name": "Anterior cochlear nucleus (TA98)"
+        },
+        "posterior_cochlear_nuclei": {
+            "models": "ILX:0743648",
+            "name": "Posterior cochlear nucleus (TA98)"
+        },
+        "superior_culliculus": {
+            "models": "UBERON:0001945",
+            "name": "Superior colliculus"
+        },
+        "lateral_geniculate_body": {
+            "models": "ILX:0745900",
+            "name": "Lateral geniculate body"
+        },
+        "brain_stem": {
+            "models": "UBERON:0002298",
+            "name": "Brainstem"
+        },
+        "geniculate_ganglion_of_facial_nerve": {
+            "models": "UBERON:0001700",
+            "name": "Geniculate ganglion"
         },
         "brain_6-1": {
             "class": "brain_6"
@@ -2821,6 +2987,9 @@
         },
         "digestive_91-1": {
             "class": "digestive_91"
+        },
+        "digestive_92-1": {
+            "class": "digestive_92"
         },
         "digestive_9-1": {
             "class": "digestive_9"
@@ -4187,6 +4356,21 @@
         "urinary_17-1": {
             "class": "urinary_17"
         },
+        "urinary_18-1": {
+            "class": "urinary_18"
+        },
+        "urinary_19-1": {
+            "class": "urinary_19"
+        },
+        "urinary_20-1": {
+            "class": "urinary_20"
+        },
+        "urinary_21-1": {
+            "class": "urinary_21"
+        },
+        "urinary_22-1": {
+            "class": "urinary_22"
+        },
         "plexus_1-1": {
             "models": "ILX:0793621",
             "name": "external carotid nerve plexus",
@@ -4319,6 +4503,18 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_21-1": {
+            "models": "ILX:0771304",
+            "name": "Hepatic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_22-1": {
+            "models": "ILX:0795011",
+            "name": "periarterial neural plexus of the common hepatic artery",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_1-1": {
             "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
@@ -4388,6 +4584,18 @@
         },
         "label_23-1": {
             "class": "label_23"
+        },
+        "label_24-1": {
+            "class": "label_24"
+        },
+        "label_25-1": {
+            "class": "label_25"
+        },
+        "label_26-1": {
+            "class": "label_26"
+        },
+        "label_27-1": {
+            "class": "label_27"
         },
         "vagus_1": {
             "type": "nerve",
@@ -7191,7 +7399,7 @@
                 {
                     "id": "bolser_11",
                     "connects": [
-                        "brain_12-1",
+                        "nucleus_tractus_solitarius",
                         "point_49"
                     ]
                 },
