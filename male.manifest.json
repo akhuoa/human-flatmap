@@ -16,5 +16,6 @@
     "connectivityTerms": "connectivity_terms_male.json",
     "neuronConnectivity": [
         "NPO"
-    ]
+    ],
+    "proxyFeatures": "proxy_features.json"
 }
