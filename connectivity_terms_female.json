@@ -1258,23 +1258,6 @@
     },
     {
         "id": [
-            "UBERON:0016508",
-            []
-        ],
-        "name": "pelvic ganglion",
-        "aliases": [
-            [
-                "ILX:0793834",
-                []
-            ],
-            [
-                "ILX:0793884",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0005303",
             []
         ],
@@ -1322,6 +1305,10 @@
             [
                 "ILX:0793816",
                 []
+            ],
+            [
+                "UBERON:0007715",
+                []
             ]
         ]
     },
@@ -1360,6 +1347,10 @@
         "aliases": [
             [
                 "ILX:0793818",
+                []
+            ],
+            [
+                "UBERON:0007716",
                 []
             ]
         ]
@@ -1659,7 +1650,9 @@
     {
         "id": [
             "UBERON:0003335",
-            ["UBERON:0001158"]
+            [
+                "UBERON:0001158"
+            ]
         ],
         "name": "serosa of colon/descending colon",
         "aliases": [
@@ -1674,7 +1667,9 @@
     {
         "id": [
             "UBERON:8410061",
-            ["UBERON:0001158"]
+            [
+                "UBERON:0001158"
+            ]
         ],
         "name": "colon smooth muscle longitudinal layer/descending colon",
         "aliases": [
@@ -1689,7 +1684,9 @@
     {
         "id": [
             "ILX:0793644",
-            ["UBERON:0001158"]
+            [
+                "UBERON:0001158"
+            ]
         ],
         "name": "Arteriole in Myenteric Nerve Plexus of Descending Colon/descending colon",
         "aliases": [
@@ -1704,7 +1701,9 @@
     {
         "id": [
             "UBERON:8410060",
-            ["UBERON:0001158"]
+            [
+                "UBERON:0001158"
+            ]
         ],
         "name": "Circular Muscle Layer of Colon/descending colon",
         "aliases": [
@@ -1719,7 +1718,9 @@
     {
         "id": [
             "UBERON:0007177",
-            ["UBERON:0001158"]
+            [
+                "UBERON:0001158"
+            ]
         ],
         "name": "lamina propria of mucosa of colon/descending colon",
         "aliases": [
@@ -1733,79 +1734,103 @@
     },
     {
         "id": [
-            "UBERON:0001981", 
-            ["ILX:0793645"]
+            "UBERON:0001981",
+            [
+                "ILX:0793645"
+            ]
         ],
         "name": "blood vessel/Arteriole in serosa of descending colon",
         "aliases": [
             [
-                "UBERON:0035965", 
-                ["ILX:0793645"]
+                "UBERON:0035965",
+                [
+                    "ILX:0793645"
+                ]
             ]
         ]
     },
     {
         "id": [
-            "UBERON:0001981", 
-            ["ILX:0793643"]
+            "UBERON:0001981",
+            [
+                "ILX:0793643"
+            ]
         ],
         "name": "blood vessel/longitudinal muscle layer of descending colon",
         "aliases": [
             [
-                "UBERON:0035965", 
-                ["ILX:0793643"]
+                "UBERON:0035965",
+                [
+                    "ILX:0793643"
+                ]
             ]
         ]
     },
     {
         "id": [
-            "UBERON:0001981", 
-            ["ILX:0793642"]
+            "UBERON:0001981",
+            [
+                "ILX:0793642"
+            ]
         ],
         "name": "blood vessel/Arteriole in lamina propria of mucosa of descending colon",
         "aliases": [
             [
-                "UBERON:0035965", 
-                ["ILX:0793642"]
+                "UBERON:0035965",
+                [
+                    "ILX:0793642"
+                ]
             ]
         ]
     },
     {
         "id": [
-            "UBERON:0001981", 
-            ["ILX:0793641"]
+            "UBERON:0001981",
+            [
+                "ILX:0793641"
+            ]
         ],
         "name": "blood vessel/Arteriole in circular muscle layer of descending colon",
         "aliases": [
             [
-                "UBERON:0035965", 
-                ["ILX:0793641"]
+                "UBERON:0035965",
+                [
+                    "ILX:0793641"
+                ]
             ]
         ]
     },
     {
         "id": [
-            "UBERON:0001981", 
-            ["ILX:0793646"]
+            "UBERON:0001981",
+            [
+                "ILX:0793646"
+            ]
         ],
         "name": "blood vessel/Arteriole in submucous nerve plexus of descending colon",
         "aliases": [
             [
-                "UBERON:0035965", 
-                ["ILX:0793646"]
+                "UBERON:0035965",
+                [
+                    "ILX:0793646"
+                ]
             ]
         ]
     },
     {
         "id": [
-            "UBERON:0001981", 
-            ["ILX:0793644"]
+            "UBERON:0001981",
+            [
+                "ILX:0793644"
+            ]
         ],
         "name": "blood vessel/Arteriole in myenteric nerve plexus of descending colon",
         "aliases": [
             [
-                "UBERON:0035965", 
-                ["ILX:0793644"]
+                "UBERON:0035965",
+                [
+                    "ILX:0793644"
+                ]
             ]
         ]
     },
@@ -1815,7 +1840,7 @@
             []
         ],
         "name": "Ovarian Nerve Plexus",
-        "aliases":[
+        "aliases": [
             [
                 "ILX:0793822",
                 []
@@ -1911,296 +1936,9 @@
             [
                 "UBERON:0006851",
                 []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002853",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0792508",
-                []
             ],
             [
-                "ILX:0786372",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0789741",
-            []
-        ],
-        "name": "posterior root of ninth thoracic nerve",
-        "aliases": [
-            [
-                "ILX:0784588",
-                []
-            ],
-            [
-                "ILX:0786813",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002854",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0792057",
-                []
-            ],
-            [
-                "ILX:0785659",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002856",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0785409",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002855",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0787810",
-                []
-            ],
-            [
-                "ILX:0786989",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002852",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0785729",
-                []
-            ],
-            [
-                "ILX:0788711",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0787779",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0786788",
-                []
-            ],
-            [
-                "ILX:0785947",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0787665",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0790414",
-                []
-            ],
-            [
-                "ILX:0785098",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0792058",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0792342",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002851",
-            []
-        ],
-        "name": "eighth thoracic dorsal root ganglion",
-        "aliases": [
-            [
-                "ILX:0790494",
-                []
-            ],
-            [
-                "ILX:0791153",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0789892",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0785488",
-                []
-            ],
-            [
-                "ILX:0792995",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0792624",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0784992",
-                []
-            ],
-            [
-                "ILX:0786793",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002857",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0786477",
-                []
-            ],
-            [
-                "ILX:0787285",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0790338",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0789839",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002849",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0791527",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0790338",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0786402",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0784605",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0787781",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002850",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0788647",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0785909",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0785477",
+                "ILX:0795056",
                 []
             ]
         ]
@@ -2404,67 +2142,7 @@
                 []
             ],
             [
-                "ILX:0795036",
-                []
-            ],
-            [
-                "ILX:0795033",
-                []
-            ],
-            [
-                "ILX:0795037",
-                []
-            ],
-            [
-                "ILX:0795035",
-                []
-            ],
-            [
                 "ILX:0795032",
-                []
-            ],
-            [
-                "ILX:0795038",
-                []
-            ],
-            [
-                "ILX:0795039",
-                []
-            ],
-            [
-                "ILX:0795034",
-                []
-            ],
-            [
-                "ILX:0795045",
-                []
-            ],
-            [
-                "ILX:0795041",
-                []
-            ],
-            [
-                "ILX:0795046",
-                []
-            ],
-            [
-                "ILX:0795043",
-                []
-            ],
-            [
-                "ILX:0795047",
-                []
-            ],
-            [
-                "ILX:0795042",
-                []
-            ],
-            [
-                "ILX:0795048",
-                []
-            ],
-            [
-                "ILX:0795040",
                 []
             ],
             [
@@ -2482,26 +2160,61 @@
             [
                 "ILX:0795031",
                 []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001184",
+            []
+        ],
+        "name": "renal artery",
+        "aliases":[
+            [
+                "ILX:0795058",
+                []
             ],
             [
-                "ILX:0795044",
+                "ILX:0795053",
                 []
             ]
         ]
     },
     {
         "id": [
-            "ILX:0793359",
+            "ILX:0791971",
             []
         ],
-        "name": "Thirteenth thoracic dorsal root ganglion",
+        "name": "Third sacral nerve",
         "aliases":[
             [
-                "ILX:0795052",
+                "ILX:0788532",
                 []
-            ],
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0787528",
+            []
+        ],
+        "name": "Second sacral nerve",
+        "aliases":[
             [
-                "ILX:0795051",
+                "ILX:0785238",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0792327",
+            []
+        ],
+        "name": "Fourth sacral nerve",
+        "aliases":[
+            [
+                "ILX:0788777",
                 []
             ]
         ]
