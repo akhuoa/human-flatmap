@@ -322,13 +322,6 @@
         ]
     },
     {
-        "id": "ILX:0793360",
-        "name": "Sixth lumbar dorsal root ganglion",
-        "aliases": [
-            "EMAPA:25169"
-        ]
-    },
-    {
         "id": "ILX:0789947",
         "name": "Sixth thoracic ganglion",
         "aliases": [
@@ -362,6 +355,13 @@
         "name": "Third thoracic ganglion",
         "aliases": [
             "FMA:6476"
+        ]
+    },
+    {
+        "id": "ILX:0793359",
+        "name": "Thirteenth thoracic dorsal root ganglion",
+        "aliases": [
+            "EMAPA:25186"
         ]
     },
     {
@@ -1085,23 +1085,6 @@
         "aliases": [
             [
                 "UBERON:0001236",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0738432",
-            []
-        ],
-        "name": "sixth lumbar spinal cord segment",
-        "aliases": [
-            [
-                "ILX:0793877",
-                []
-            ],
-            [
-                "ILX:0793804",
                 []
             ]
         ]
