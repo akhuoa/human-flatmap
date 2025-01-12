@@ -1332,49 +1332,145 @@
             "models": "UBERON:0002838",
             "name": "first cervical dorsal root ganglion"
         },
+        "S45_C1-Left": {
+            "models": "ILX:0789086",
+            "name": "left first cervical dorsal root ganglion"
+        },
+        "S45_C1-Right": {
+            "models": "ILX:0786417",
+            "name": "right first cervical dorsal root ganglion"
+        },
         "S45_C2": {
             "models": "UBERON:0002839",
             "name": "second cervical dorsal root ganglion"
+        },
+        "S45_C2-Left": {
+            "models": "ILX:0786401",
+            "name": "left second cervical dorsal root ganglion"
+        },
+        "S45_C2-Right": {
+            "models": "ILX:0789791",
+            "name": "right second cervical dorsal root ganglion"
         },
         "S45_C3": {
             "models": "UBERON:0002840",
             "name": "third cervical dorsal root ganglion"
         },
+        "S45_C3-Left": {
+            "models": "ILX:0790942",
+            "name": "left third cervical dorsal root ganglion"
+        },
+        "S45_C3-Right": {
+            "models": "ILX:0790612",
+            "name": "right third cervical dorsal root ganglion"
+        },
         "S45_C4": {
             "models": "UBERON:0002841",
             "name": "fourth cervical dorsal root ganglion"
+        },
+        "S45_C4-Left": {
+            "models": "ILX:0792041",
+            "name": "left fourth cervical dorsal root ganglion"
+        },
+        "S45_C4-Right": {
+            "models": "ILX:0787873",
+            "name": "right fourth cervical dorsal root ganglion"
         },
         "S45_C5": {
             "models": "UBERON:0002842",
             "name": "fifth cervical dorsal root ganglion"
         },
+        "S45_C5-Left": {
+            "models": "ILX:0791232",
+            "name": "left fifth cervical dorsal root ganglion"
+        },
+        "S45_C5-Right": {
+            "models": "ILX:0786961",
+            "name": "right fifth cervical dorsal root ganglion"
+        },
         "S45_C6": {
             "models": "UBERON:0007711",
             "name": "Sixth Cervical Dorsal Root Ganglion"
+        },
+        "S45_C6-Left": {
+            "models": "ILX:0786195",
+            "name": "left sixth cervical dorsal root ganglion"
+        },
+        "S45_C6-Right": {
+            "models": "ILX:0791862",
+            "name": "right sixth cervical dorsal root ganglion"
         },
         "S45_C7": {
             "models": "UBERON:0002843",
             "name": "seventh cervical dorsal root ganglion"
         },
+        "S45_C7-Left": {
+            "models": "ILX:0788873",
+            "name": "left seventh cervical dorsal root ganglion"
+        },
+        "S45_C7-Right": {
+            "models": "ILX:0789091",
+            "name": "right seventh cervical dorsal root ganglion"
+        },
         "S45_T1": {
             "models": "UBERON:0002845",
             "name": "first thoracic dorsal root ganglion"
+        },
+        "S45_T1-Left": {
+            "models": "ILX:0784660",
+            "name": "left first thoracic dorsal root ganglion"
+        },
+        "S45_T1-Right": {
+            "models": "ILX:0792148",
+            "name": "right first thoracic dorsal root ganglion"
         },
         "S45_T2": {
             "models": "UBERON:0002846",
             "name": "second thoracic dorsal root ganglion"
         },
+        "S45_T2-Left": {
+            "models": "ILX:0785420",
+            "name": "left second thoracic dorsal root ganglion"
+        },
+        "S45_T2-Right": {
+            "models": "ILX:0789962",
+            "name": "right second thoracic dorsal root ganglion"
+        },
         "S45_T3": {
             "models": "UBERON:0002847",
             "name": "third thoracic dorsal root ganglion"
+        },
+        "S45_T3-Left": {
+            "models": "ILX:0791100",
+            "name": "left third thoracic dorsal root ganglion"
+        },
+        "S45_T3-Right": {
+            "models": "ILX:0789643",
+            "name": "right third thoracic dorsal root ganglion"
         },
         "S45_T4": {
             "models": "UBERON:0007712",
             "name": "Fourth Thoracic Spinal Ganglion"
         },
+        "S45_T4-Left": {
+            "models": "ILX:0790428",
+            "name": "left fourth thoracic dorsal root ganglion"
+        },
+        "S45_T4-Right": {
+            "models": "ILX:0784420",
+            "name": "right fourth thoracic dorsal root ganglion"
+        },
         "S45_T5": {
             "models": "UBERON:0002848",
             "name": "fifth thoracic dorsal root ganglion"
+        },
+        "S45_T5-Left": {
+            "models": "ILX:0790573",
+            "name": "left fifth thoracic dorsal root ganglion"
+        },
+        "S45_T5-Right": {
+            "models": "ILX:0788772",
+            "name": "right fifth thoracic dorsal root ganglion"
         },
         "S45_T6": {
             "models": "UBERON:0002849",
@@ -1488,33 +1584,97 @@
             "models": "UBERON:0002858",
             "name": "third lumbar dorsal root ganglion"
         },
+        "S45_L3-Left": {
+            "models": "ILX:0785761",
+            "name": "Left third lumbar spinal ganglion"
+        },
+        "S45_L3-Right": {
+            "models": "ILX:0786189",
+            "name": "Right third lumbar spinal ganglion"
+        },
         "S45_L4": {
             "models": "UBERON:0003943",
             "name": "fourth lumbar dorsal root ganglion"
+        },
+        "S45_L4-Left": {
+            "models": "ILX:0785331",
+            "name": "Left fourth lumbar spinal ganglion"
+        },
+        "S45_L4-Right": {
+            "models": "ILX:0790370",
+            "name": "Right fourth lumbar spinal ganglion"
         },
         "S45_L5": {
             "models": "UBERON:0002859",
             "name": "fifth lumbar dorsal root ganglion"
         },
+        "S45_L5-Left": {
+            "models": "ILX:0786990",
+            "name": "Left fifth lumbar spinal ganglion"
+        },
+        "S45_L5-Right": {
+            "models": "ILX:0791988",
+            "name": "Right fifth lumbar spinal ganglion"
+        },
         "S45_S1": {
             "models": "UBERON:0002860",
             "name": "first sacral dorsal root ganglion"
+        },
+        "S45_S1-Left": {
+            "models": "ILX:0790813",
+            "name": "Left first sacral spinal ganglion"
+        },
+        "S45_S1-Right": {
+            "models": "ILX:0785106",
+            "name": "Right first sacral spinal ganglion"
         },
         "S45_S2": {
             "models": "UBERON:0002861",
             "name": "second sacral dorsal root ganglion"
         },
+        "S45_S2-Left": {
+            "models": "ILX:0792216",
+            "name": "Left second sacral spinal ganglion"
+        },
+        "S45_S2-Right": {
+            "models": "ILX:0791957",
+            "name": "Right second sacral spinal ganglion"
+        },
         "S45_S3": {
             "models": "UBERON:0002862",
             "name": "third sacral dorsal root ganglion"
+        },
+        "S45_S3-Left": {
+            "models": "ILX:0787996",
+            "name": "Left third sacral spinal ganglion"
+        },
+        "S45_S3-Right": {
+            "models": "ILX:0784655",
+            "name": "Right third sacral spinal ganglion"
         },
         "S45_S4": {
             "models": "UBERON:0007713",
             "name": "fourth sacral spinal ganglion"
         },
+        "S45_S4-Left": {
+            "models": "ILX:0791708",
+            "name": "Left fourth sacral spinal ganglion"
+        },
+        "S45_S4-Right": {
+            "models": "ILX:0791720",
+            "name": "Right fourth sacral spinal ganglion"
+        },
         "S45_S5": {
             "models": "UBERON:0002863",
             "name": "fifth sacral dorsal root ganglion"
+        },
+        "S45_S5-Left": {
+            "models": "ILX:0784840",
+            "name": "Left fifth sacral spinal ganglion"
+        },
+        "S45_S5-Right": {
+            "models": "ILX:0790437",
+            "name": "Right fifth sacral spinal ganglion"
         },
         "S46_T1": {
             "models": "ILX:0774266",
@@ -5916,44 +6076,44 @@
                     "id": "C3_dorsal_root",
                     "connects": [
                         "C3_spinal",
-                        "S45_C3",
+                        "S45_C3-Right",
                         "spinal_3-1/C3_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_C3"
+                        "S45_C3-Right"
                     ]
                 },
                 {
                     "id": "C4_dorsal_root",
                     "connects": [
                         "C4_spinal",
-                        "S45_C4",
+                        "S45_C4-Right",
                         "spinal_4-1/C4_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_C4"
+                        "S45_C4-Right"
                     ]
                 },
                 {
                     "id": "C5_dorsal_root",
                     "connects": [
                         "C5_spinal",
-                        "S45_C5",
+                        "S45_C5-Right",
                         "spinal_5-1/C5_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_C5"
+                        "S45_C5-Right"
                     ]
                 },
                 {
                     "id": "C6_dorsal_root",
                     "connects": [
                         "C6_spinal",
-                        "S45_C6",
+                        "S45_C6-Right",
                         "spinal_6-1/C6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_C6",
+                        "S45_C6-Right",
                         "S50_C6"
                     ]
                 },
@@ -5961,11 +6121,11 @@
                     "id": "C7_dorsal_root",
                     "connects": [
                         "C7_spinal",
-                        "S45_C7",
+                        "S45_C7-Right",
                         "spinal_7-1/C7_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_C7",
+                        "S45_C7-Right",
                         "S50_C7"
                     ]
                 },
@@ -5973,99 +6133,99 @@
                     "id": "T1_dorsal_root",
                     "connects": [
                         "T1_spinal",
-                        "S45_T1",
+                        "S45_T1-Right",
                         "spinal_9-1/T1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T1"
+                        "S45_T1-Right"
                     ]
                 },
                 {
                     "id": "T2_dorsal_root",
                     "connects": [
                         "T2_spinal",
-                        "S45_T2",
+                        "S45_T2-Right",
                         "spinal_10-1/T2_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T2"
+                        "S45_T2-Right"
                     ]
                 },
                 {
                     "id": "T3_dorsal_root",
                     "connects": [
                         "T3_spinal",
-                        "S45_T3",
+                        "S45_T3-Right",
                         "spinal_11-1/T3_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T3"
+                        "S45_T3-Right"
                     ]
                 },
                 {
                     "id": "T4_dorsal_root",
                     "connects": [
                         "T4_spinal",
-                        "S45_T4",
+                        "S45_T4-Right",
                         "spinal_12-1/T4_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T4"
+                        "S45_T4-Right"
                     ]
                 },
                 {
                     "id": "T5_dorsal_root",
                     "connects": [
                         "T5_spinal",
-                        "S45_T5",
+                        "S45_T5-Right",
                         "spinal_13-1/T5_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T5"
+                        "S45_T5-Right"
                     ]
                 },
                 {
                     "id": "T6_dorsal_root",
                     "connects": [
                         "T6_spinal",
-                        "S45_T6",
+                        "S45_T6-Right",
                         "spinal_14-1/T6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T6"
+                        "S45_T6-Right"
                     ]
                 },
                 {
                     "id": "L1_dorsal_root",
                     "connects": [
                         "L1_spinal",
-                        "S45_L1",
+                        "S45_L1-Right",
                         "spinal_22-1/L1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_L1"
+                        "S45_L1-Right"
                     ]
                 },
                 {
                     "id": "L2_dorsal_root",
                     "connects": [
                         "L2_spinal",
-                        "S45_L2",
+                        "S45_L2-Right",
                         "spinal_23-1/L2_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_L2"
+                        "S45_L2-Right"
                     ]
                 },
                 {
                     "id": "S1_dorsal_root",
                     "connects": [
                         "S1_spinal",
-                        "S45_S1",
+                        "S45_S1-Right",
                         "spinal_28-1/S1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_S1"
+                        "S45_S1-Right"
                     ]
                 },
                 {
