@@ -4929,6 +4929,14 @@
         "spinal_47-1": {
             "class": "spinal_47"
         },
+        "spinal_47-Left": {
+            "models": "ILX:0792282",
+            "name": "Left sympathetic trunk "
+        },
+        "spinal_47-Right": {
+            "models": "ILX:0786761",
+            "name": "Right sympathetic trunk"
+        },
         "spinal_5-1": {
             "class": "spinal_5"
         },
