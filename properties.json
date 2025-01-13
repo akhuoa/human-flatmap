@@ -2427,23 +2427,79 @@
         "S50_C1": {
             "class": "spinal_50"
         },
+        "S50_C1-Left": {
+            "models": "ILX:0787298",
+            "name": "Left first cervical nerve"
+        },
+        "S50_C1-Right": {
+            "models": "ILX:0789973",
+            "name": "Right first cervical nerve"
+        },
         "S50_C2": {
             "class": "spinal_50"
+        },
+        "S50_C2-Left": {
+            "models": "ILX:0784589",
+            "name": "Left second cervical nerve"
+        },
+        "S50_C2-Right": {
+            "models": "ILX:0792644",
+            "name": "Right second cervical nerve"
         },
         "S50_C3": {
             "class": "spinal_50"
         },
+        "S50_C3-Left": {
+            "models": "ILX:0785309",
+            "name": "Left third cervical nerve"
+        },
+        "S50_C3-Right": {
+            "models": "ILX:0791052",
+            "name": "Right third cervical nerve"
+        },
         "S50_C4": {
             "class": "spinal_50"
+        },
+        "S50_C4-Left": {
+            "models": "ILX:0792304",
+            "name": "Left fourth cervical nerve"
+        },
+        "S50_C4-Right": {
+            "models": "ILX:0786677",
+            "name": "Right fourth cervical nerve"
         },
         "S50_C5": {
             "class": "spinal_50"
         },
+        "S50_C5-Left": {
+            "models": "ILX:0785218",
+            "name": "Left fifth cervical nerve"
+        },
+        "S50_C5-Right": {
+            "models": "ILX:0789778",
+            "name": "Right fifth cervical nerve"
+        },
         "S50_C6": {
             "class": "spinal_50"
         },
+        "S50_C6-Left": {
+            "models": "ILX:0784959",
+            "name": "Left sixth cervical nerve"
+        },
+        "S50_C6-Right": {
+            "models": "ILX:0789142",
+            "name": "Right sixth cervical nerve"
+        },
         "S50_C7": {
             "class": "spinal_50"
+        },
+        "S50_C7-Left": {
+            "models": "ILX:0786583",
+            "name": "Left seventh cervical nerve"
+        },
+        "S50_C7-Right": {
+            "models": "ILX:0787573",
+            "name": "Right seventh cervical nerve"
         },
         "S50_L1": {
             "class": "spinal_50"
@@ -2452,12 +2508,28 @@
             "models": "ILX:0788972",
             "name": "First lumbar nerve"
         },
+        "S50_L1-Left": {
+            "models": "ILX:0785490",
+            "name": "Left first lumbar nerve"
+        },
+        "S50_L1-Right": {
+            "models": "ILX:0790855",
+            "name": "Right first lumbar nerve"
+        },
         "S50_L2": {
             "class": "spinal_50"
         },
         "S50_L2-1": {
             "models": "ILX:0786362",
             "name": "Second lumbar nerve"
+        },
+        "S50_L2-Left": {
+            "models": "ILX:0789476",
+            "name": "Left second lumbar nerve"
+        },
+        "S50_L2-Right": {
+            "models": "ILX:0787929",
+            "name": "Right second lumbar nerve"
         },
         "S50_L3": {
             "class": "spinal_50"
@@ -2466,6 +2538,14 @@
             "models": "ILX:0789374",
             "name": "Third lumbar nerve"
         },
+        "S50_L3-Left": {
+            "models": "ILX:0784426",
+            "name": "Left third lumbar nerve"
+        },
+        "S50_L3-Right": {
+            "models": "ILX:0791242",
+            "name": "Right third lumbar nerve"
+        },
         "S50_L4": {
             "class": "spinal_50"
         },
@@ -2473,8 +2553,24 @@
             "models": "ILX:0788896",
             "name": "Fourth lumbar nerve"
         },
+        "S50_L4-Left": {
+            "models": "ILX:0787065",
+            "name": "Left fourth lumbar nerve"
+        },
+        "S50_L4-Right": {
+            "models": "ILX:0789630",
+            "name": "Right fourth lumbar nerve"
+        },
         "S50_L5": {
             "class": "spinal_50"
+        },
+        "S50_L5-Left": {
+            "models": "ILX:0789454",
+            "name": "Left fifth lumbar nerve"
+        },
+        "S50_L5-Right": {
+            "models": "ILX:0788087",
+            "name": "Right fifth lumbar nerve"
         },
         "S50_S1": {
             "class": "spinal_50"
@@ -2483,12 +2579,28 @@
             "models": "ILX:0790504",
             "name": "First sacral nerve"
         },
+        "S50_S1-Left": {
+            "models": "ILX:0790445",
+            "name": "Left first sacral nerve"
+        },
+        "S50_S1-Right": {
+            "models": "ILX:0784617",
+            "name": "Right first sacral nerve"
+        },
         "S50_S2": {
             "class": "spinal_50"
         },
         "S50_S2-1": {
             "models": "ILX:0787528",
             "name": "Second sacral nerve"
+        },
+        "S50_S2-Left": {
+            "models": "ILX:0786242",
+            "name": "Left second sacral nerve"
+        },
+        "S50_S2-Right": {
+            "models": "ILX:0790323",
+            "name": "Right second sacral nerve"
         },
         "S50_S3": {
             "class": "spinal_50"
@@ -2497,17 +2609,57 @@
             "models": "ILX:0791971",
             "name": "Third sacral nerve"
         },
+        "S50_S3-Left": {
+            "models": "ILX:0792824",
+            "name": "Left third sacral nerve"
+        },
+        "S50_S3-Right": {
+            "models": "ILX:0787077",
+            "name": "Right third sacral nerve"
+        },
         "S50_S4": {
             "class": "spinal_50"
+        },
+        "S50_S4-Left": {
+            "models": "ILX:0787791",
+            "name": "Left fourth sacral nerve"
+        },
+        "S50_S4-Right": {
+            "models": "ILX:0786250",
+            "name": "Right fourth sacral nerve"
         },
         "S50_S5": {
             "class": "spinal_50"
         },
+        "S50_S5-Left": {
+            "models": "ILX:0788517",
+            "name": "Left fifth sacral nerve"
+        },
+        "S50_S5-Right": {
+            "models": "ILX:0787717",
+            "name": "Right fifth sacral nerve"
+        },
         "S50_T10": {
             "class": "spinal_50"
         },
+        "S50_T10-Left": {
+            "models": "ILX:0785427",
+            "name": "Left tenth thoracic nerve"
+        },
+        "S50_T10-Right": {
+            "models": "ILX:0787515",
+            "name": "Right tenth thoracic nerve"
+        },
         "S50_T11": {
             "class": "spinal_50"
+        },
+        "S50_T11-Left": {
+            "models": "ILX:0789848",
+            "name": "Left eleventh thoracic nerve"
+        },
+        "S50_T11-Right": {
+            "models": "ILX:0791664",
+            "name": "Right eleventh thoracic nerve"
         },
         "S50_T12": {
             "class": "spinal_50"
@@ -2516,32 +2668,112 @@
             "models": "ILX:0791046",
             "name": "Twelfth thoracic nerve"
         },
+        "S50_T12-Left": {
+            "models": "ILX:0790834",
+            "name": "Left twelfth thoracic nerve"
+        },
+        "S50_T12-Right": {
+            "models": "ILX:0790330",
+            "name": "Right twelfth thoracic nerve"
+        },
         "S50_T1": {
             "class": "spinal_50"
+        },
+        "S50_T1-Left": {
+            "models": "ILX:0788064",
+            "name": "Left first thoracic nerve"
+        },
+        "S50_T1-Right": {
+            "models": "ILX:0788282",
+            "name": "Right first thoracic nerve"
         },
         "S50_T2": {
             "class": "spinal_50"
         },
+        "S50_T2-Left": {
+            "models": "ILX:0789698",
+            "name": "Left second thoracic nerve"
+        },
+        "S50_T2-Right": {
+            "models": "ILX:0786267",
+            "name": "Right second thoracic nerve"
+        },
         "S50_T3": {
             "class": "spinal_50"
+        },
+        "S50_T3-Left": {
+            "models": "ILX:0791381",
+            "name": "Left third thoracic nerve"
+        },
+        "S50_T3-Right": {
+            "models": "ILX:0787393",
+            "name": "Right third thoracic nerve"
         },
         "S50_T4": {
             "class": "spinal_50"
         },
+        "S50_T4-Left": {
+            "models": "ILX:0791893",
+            "name": "Left fourth thoracic nerve"
+        },
+        "S50_T4-Right": {
+            "models": "ILX:0785052",
+            "name": "Right fourth thoracic nerve"
+        },
         "S50_T5": {
             "class": "spinal_50"
+        },
+        "S50_T5-Left": {
+            "models": "ILX:0792079",
+            "name": "Left fifth thoracic nerve"
+        },
+        "S50_T5-Right": {
+            "models": "ILX:0784405",
+            "name": "Right fifth thoracic nerve"
         },
         "S50_T6": {
             "class": "spinal_50"
         },
+        "S50_T6-Left": {
+            "models": "ILX:0792687",
+            "name": "Left sixth thoracic nerve"
+        },
+        "S50_T6-Right": {
+            "models": "ILX:0792459",
+            "name": "Right sixth thoracic nerve"
+        },
         "S50_T7": {
             "class": "spinal_50"
+        },
+        "S50_T7-Left": {
+            "models": "ILX:0787961",
+            "name": "Left seventh thoracic nerve"
+        },
+        "S50_T7-Right": {
+            "models": "ILX:0791174",
+            "name": "Right seventh thoracic nerve"
         },
         "S50_T8": {
             "class": "spinal_50"
         },
+        "S50_T8-Left": {
+            "models": "ILX:0788490",
+            "name": "Left eight thoracic nerve"
+        },
+        "S50_T8-Right": {
+            "models": "ILX:0786564",
+            "name": "Right eight thoracic nerve"
+        },
         "S50_T9": {
             "class": "spinal_50"
+        },
+        "S50_T9-Left": {
+            "models": "ILX:0788523",
+            "name": "Left ninth thoracic nerve"
+        },
+        "S50_T9-Right": {
+            "models": "ILX:0789063",
+            "name": "Right ninth thoracic nerve"
         },
         "S51_S1": {
             "class": "spinal_51"
@@ -6590,7 +6822,7 @@
                     ],
                     "contained-in": [
                         "S45_C6-Right",
-                        "S50_C6"
+                        "S50_C6-Right"
                     ]
                 },
                 {
@@ -6602,7 +6834,7 @@
                     ],
                     "contained-in": [
                         "S45_C7-Right",
-                        "S50_C7"
+                        "S50_C7-Right"
                     ]
                 },
                 {
@@ -6712,7 +6944,7 @@
                     ],
                     "contained-in": [
                         "S43_C1-Right",
-                        "S50_C1"
+                        "S50_C1-Right"
                     ]
                 },
                 {
@@ -6723,7 +6955,7 @@
                     ],
                     "contained-in": [
                         "S43_C2-Right",
-                        "S50_C2"
+                        "S50_C2-Right"
                     ]
                 },
                 {
@@ -6734,7 +6966,7 @@
                     ],
                     "contained-in": [
                         "S43_C3-Right",
-                        "S50_C3"
+                        "S50_C3-Right"
                     ]
                 },
                 {
@@ -6745,7 +6977,7 @@
                     ],
                     "contained-in": [
                         "S43_C4-Right",
-                        "S50_C4"
+                        "S50_C4-Right"
                     ]
                 },
                 {
@@ -6756,7 +6988,7 @@
                     ],
                     "contained-in": [
                         "S43_C5-Right",
-                        "S50_C5"
+                        "S50_C5-Right"
                     ]
                 },
                 {
@@ -6767,7 +6999,7 @@
                     ],
                     "contained-in": [
                         "S43_C6-Right",
-                        "S50_C6"
+                        "S50_C6-Right"
                     ]
                 },
                 {
@@ -6778,7 +7010,7 @@
                     ],
                     "contained-in": [
                         "S43_C7-Right",
-                        "S50_C7"
+                        "S50_C7-Right"
                     ]
                 },
                 {
@@ -6789,7 +7021,7 @@
                     ],
                     "contained-in": [
                         "S43_L5-Right",
-                        "S50_L5"
+                        "S50_L5-Right"
                     ]
                 },
                 {
@@ -6800,7 +7032,7 @@
                     ],
                     "contained-in": [
                         "S43_S1-Right",
-                        "S50_S1"
+                        "S50_S1-Right"
                     ]
                 },
                 {
@@ -7168,7 +7400,7 @@
                         "S43_T7-Right",
                         "S48_T7",
                         "S49_T7",
-                        "S50_T7"
+                        "S50_T7-Right"
                     ]
                 },
                 {
@@ -7181,7 +7413,7 @@
                         "S43_T8-Right",
                         "S48_T8",
                         "S49_T8",
-                        "S50_T8"
+                        "S50_T8-Right"
                     ]
                 },
                 {
@@ -7194,7 +7426,7 @@
                         "S43_T9-Right",
                         "S48_T9",
                         "S49_T9",
-                        "S50_T9"
+                        "S50_T9-Right"
                     ]
                 },
                 {
@@ -7207,7 +7439,7 @@
                         "S43_T10-Right",
                         "S48_T10",
                         "S49_T10",
-                        "S50_T10"
+                        "S50_T10-Right"
                     ]
                 },
                 {
@@ -7220,7 +7452,7 @@
                         "S43_T11-Right",
                         "S48_T11",
                         "S49_T11",
-                        "S50_T11"
+                        "S50_T11-Right"
                     ]
                 },
                 {
@@ -7233,7 +7465,7 @@
                         "S43_T12-Right",
                         "S48_T12",
                         "S49_T12",
-                        "S50_T12"
+                        "S50_T12-Right"
                     ]
                 },
                 {
