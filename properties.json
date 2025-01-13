@@ -1017,117 +1017,349 @@
             "models": "ILX:0792444",
             "name": "Anterior root of first cervical nerve"
         },
+        "S43_C1-Left": {
+            "models": "ILX:0790498",
+            "name": "Anterior root of left first cervical nerve"
+        },
+        "S43_C1-Right": {
+            "models": "ILX:0786867",
+            "name": "Anterior root of right first cervical nerve"
+        },
         "S43_C2": {
             "models": "ILX:0784614",
             "name": "Anterior root of second cervical nerve"
+        },
+        "S43_C2-Left": {
+            "models": "ILX:0788973",
+            "name": "Anterior root of left second cervical nerve"
+        },
+        "S43_C2-Right": {
+            "models": "ILX:0790463",
+            "name": "Anterior root of right second cervical nerve"
         },
         "S43_C3": {
             "models": "ILX:0786384",
             "name": "Anterior root of third cervical nerve"
         },
+        "S43_C3-Left": {
+            "models": "ILX:0784772",
+            "name": "Anterior root of left third cervical nerve"
+        },
+        "S43_C3-Right": {
+            "models": "ILX:0790429",
+            "name": "Anterior root of right third cervical nerve"
+        },
         "S43_C4": {
             "models": "ILX:0785015",
             "name": "Anterior root of fourth cervical nerve"
+        },
+        "S43_C4-Left": {
+            "models": "ILX:0792338",
+            "name": "Anterior root of left fourth cervical nerve"
+        },
+        "S43_C4-Right": {
+            "models": "ILX:0784940",
+            "name": "Anterior root of right fourth cervical nerve"
         },
         "S43_C5": {
             "models": "ILX:0792263",
             "name": "Anterior root of fifth cervical nerve"
         },
+        "S43_C5-Left": {
+            "models": "ILX:0788716",
+            "name": "Anterior root of left fifth cervical nerve"
+        },
+        "S43_C5-Right": {
+            "models": "ILX:0787865",
+            "name": "Anterior root of right fifth cervical nerve"
+        },
         "S43_C6": {
             "models": "ILX:0789335",
             "name": "Anterior root of sixth cervical nerve"
+        },
+        "S43_C6-Left": {
+            "models": "ILX:0791719",
+            "name": "Anterior root of left sixth cervical nerve"
+        },
+        "S43_C6-Right": {
+            "models": "ILX:0789958",
+            "name": "Anterior root of right sixth cervical nerve"
         },
         "S43_C7": {
             "models": "ILX:0785896",
             "name": "Anterior root of seventh cervical nerve"
         },
+        "S43_C7-Left": {
+            "models": "ILX:0792756",
+            "name": "Anterior root of left seventh cervical nerve"
+        },
+        "S43_C7-Right": {
+            "models": "ILX:0786212",
+            "name": "Anterior root of right seventh cervical nerve"
+        },
         "S43_T1": {
             "models": "ILX:0787722",
             "name": "Anterior root of first thoracic nerve"
+        },
+        "S43_T1-Left": {
+            "models": "ILX:0785339",
+            "name": "Anterior root of left first thoracic nerve"
+        },
+        "S43_T1-Right": {
+            "models": "ILX:0789946",
+            "name": "Anterior root of right first thoracic nerve"
         },
         "S43_T2": {
             "models": "ILX:0789894",
             "name": "Anterior root of second thoracic nerve"
         },
+        "S43_T2-Left": {
+            "models": "ILX:0784684",
+            "name": "Anterior root of left second thoracic nerve"
+        },
+        "S43_T2-Right": {
+            "models": "ILX:0784708",
+            "name": "Anterior root of right second thoracic nerve"
+        },
         "S43_T3": {
             "models": "ILX:0784804",
             "name": "Anterior root of third thoracic nerve"
+        },
+        "S43_T3-Left": {
+            "models": "ILX:0785573",
+            "name": "Anterior root of left third thoracic nerve"
+        },
+        "S43_T3-Right": {
+            "models": "ILX:0789187",
+            "name": "Anterior root of right third thoracic nerve"
         },
         "S43_T4": {
             "models": "ILX:0792838",
             "name": "Anterior root of fourth thoracic nerve"
         },
+        "S43_T4-Left": {
+            "models": "ILX:0788175",
+            "name": "Anterior root of left fourth thoracic nerve"
+        },
+        "S43_T4-Right": {
+            "models": "ILX:0785361",
+            "name": "Anterior root of right fourth thoracic nerve"
+        },
         "S43_T5": {
             "models": "ILX:0790146",
             "name": "Anterior root of fifth thoracic nerve"
+        },
+        "S43_T5-Left": {
+            "models": "ILX:0791954",
+            "name": "Anterior root of left fifth thoracic nerve"
+        },
+        "S43_T5-Right": {
+            "models": "ILX:0784578",
+            "name": "Anterior root of right fifth thoracic nerve"
         },
         "S43_T6": {
             "models": "ILX:0791062",
             "name": "Anterior root of sixth thoracic nerve"
         },
+        "S43_T6-Left": {
+            "models": "ILX:0790547",
+            "name": "Anterior root of left sixth thoracic nerve"
+        },
+        "S43_T6-Right": {
+            "models": "ILX:0786171",
+            "name": "Anterior root of right sixth thoracic nerve"
+        },
         "S43_T7": {
             "models": "ILX:0789966",
             "name": "Anterior root of seventh thoracic nerve"
+        },
+        "S43_T7-Left": {
+            "models": "ILX:0789376",
+            "name": "Anterior root of left seventh thoracic nerve"
+        },
+        "S43_T7-Right": {
+            "models": "ILX:0791358",
+            "name": "Anterior root of right seventh thoracic nerve"
         },
         "S43_T8": {
             "models": "ILX:0788026",
             "name": "Anterior root of eighth thoracic nerve"
         },
+        "S43_T8-Left": {
+            "models": "ILX:0786023",
+            "name": "Anterior root of left eighth thoracic nerve"
+        },
+        "S43_T8-Right": {
+            "models": "ILX:0791861",
+            "name": "Anterior root of right eighth thoracic nerve"
+        },
         "S43_T9": {
             "models": "ILX:0791932",
             "name": "Anterior root of ninth thoracic nerve"
+        },
+        "S43_T9-Left": {
+            "models": "ILX:0788327",
+            "name": "Anterior root of left ninth thoracic nerve"
+        },
+        "S43_T9-Right": {
+            "models": "ILX:0785817",
+            "name": "Anterior root of right ninth thoracic nerve"
         },
         "S43_T10": {
             "models": "ILX:0788670",
             "name": "Anterior root of tenth thoracic nerve"
         },
+        "S43_T10-Left": {
+            "models": "ILX:0784818",
+            "name": "Anterior root of left tenth thoracic nerve"
+        },
+        "S43_T10-Right": {
+            "models": "ILX:0787993",
+            "name": "Anterior root of right tenth thoracic nerve"
+        },
         "S43_T11": {
             "models": "ILX:0790602",
             "name": "Anterior root of eleventh thoracic nerve"
+        },
+        "S43_T11-Left": {
+            "models": "ILX:0787185",
+            "name": "Anterior root of left eleventh thoracic nerve"
+        },
+        "S43_T11-Right": {
+            "models": "ILX:0787220",
+            "name": "Anterior root of right eleventh thoracic nerve"
         },
         "S43_T12": {
             "models": "ILX:0792048",
             "name": "Anterior root of twelfth thoracic nerve"
         },
+        "S43_T12-Left": {
+            "models": "ILX:0791888",
+            "name": "Anterior root of left twelfth thoracic nerve"
+        },
+        "S43_T12-Right": {
+            "models": "ILX:0787115",
+            "name": "Anterior root of right twelfth thoracic nerve"
+        },
         "S43_L1": {
             "models": "ILX:0785421",
             "name": "Anterior root of first lumbar nerve"
+        },
+        "S43_L1-Left": {
+            "models": "ILX:0785516",
+            "name": "Anterior root of left first lumbar nerve"
+        },
+        "S43_L1-Right": {
+            "models": "ILX:0791012",
+            "name": "Anterior root of right first lumbar nerve"
         },
         "S43_L2": {
             "models": "ILX:0788675",
             "name": "Anterior root of second lumbar nerve"
         },
+        "S43_L2-Left": {
+            "models": "ILX:0788998",
+            "name": "Anterior root of left second lumbar nerve"
+        },
+        "S43_L2-Right": {
+            "models": "ILX:0786495",
+            "name": "Anterior root of right second lumbar nerve"
+        },
         "S43_L3": {
             "models": "ILX:0787520",
             "name": "Anterior root of third lumbar nerve"
+        },
+        "S43_L3-Left": {
+            "models": "ILX:0792801",
+            "name": "Anterior root of left third lumbar nerve"
+        },
+        "S43_L3-Right": {
+            "models": "ILX:0788492",
+            "name": "Anterior root of right third lumbar nerve"
         },
         "S43_L4": {
             "models": "ILX:0789968",
             "name": "Anterior root of fourth lumbar nerve"
         },
+        "S43_L4-Left": {
+            "models": "ILX:0786690",
+            "name": "Anterior root of left fourth lumbar nerve"
+        },
+        "S43_L4-Right": {
+            "models": "ILX:0791172",
+            "name": "Anterior root of right fourth lumbar nerve"
+        },
         "S43_L5": {
             "models": "ILX:0791148",
             "name": "Anterior root of fifth lumbar nerve"
+        },
+        "S43_L5-Left": {
+            "models": "ILX:0791601",
+            "name": "Anterior root of left fifth lumbar nerve"
+        },
+        "S43_L5-Right": {
+            "models": "ILX:0788078",
+            "name": "Anterior root of right fifth lumbar nerve"
         },
         "S43_S1": {
             "models": "ILX:0792853",
             "name": "Anterior root of first sacral nerve"
         },
+        "S43_S1-Left": {
+            "models": "ILX:0786491",
+            "name": "Anterior root of left first sacral nerve"
+        },
+        "S43_S1-Right": {
+            "models": "ILX:0784891",
+            "name": "Anterior root of right first sacral nerve"
+        },
         "S43_S2": {
             "models": "ILX:0788884",
             "name": "Anterior root of second sacral nerve"
+        },
+        "S43_S2-Left": {
+            "models": "ILX:0785101",
+            "name": "Anterior root of left second sacral nerve"
+        },
+        "S43_S2-Right": {
+            "models": "ILX:0788692",
+            "name": "Anterior root of right second sacral nerve"
         },
         "S43_S3": {
             "models": "ILX:0786888",
             "name": "Anterior root of third sacral nerve"
         },
+        "S43_S3-Left": {
+            "models": "ILX:0788857",
+            "name": "Anterior root of left third sacral nerve"
+        },
+        "S43_S3-Right": {
+            "models": "ILX:0786173",
+            "name": "Anterior root of right third sacral nerve"
+        },
         "S43_S4": {
             "models": "ILX:0788553",
             "name": "Anterior root of fourth sacral nerve"
         },
+        "S43_S4-Left": {
+            "models": "ILX:0785526",
+            "name": "Anterior root of left fourth sacral nerve"
+        },
+        "S43_S4-Right": {
+            "models": "ILX:0792431",
+            "name": "Anterior root of right fourth sacral nerve"
+        },
         "S43_S5": {
             "models": "ILX:0785971",
             "name": "Anterior root of fifth sacral nerve"
+        },
+        "S43_S5-Left": {
+            "models": "ILX:0792985",
+            "name": "Anterior root of left fifth sacral nerve"
+        },
+        "S43_S5-Right": {
+            "models": "ILX:0784452",
+            "name": "Anterior root of right fifth sacral nerve"
         },
         "S44_C1": {
             "class": "spinal_44"
@@ -6471,7 +6703,7 @@
                         "spinal_1-1/C1_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_C1",
+                        "S43_C1-Right",
                         "S50_C1"
                     ]
                 },
@@ -6482,7 +6714,7 @@
                         "spinal_2-1/C2_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_C2",
+                        "S43_C2-Right",
                         "S50_C2"
                     ]
                 },
@@ -6493,7 +6725,7 @@
                         "spinal_3-1/C3_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_C3",
+                        "S43_C3-Right",
                         "S50_C3"
                     ]
                 },
@@ -6504,7 +6736,7 @@
                         "spinal_4-1/C4_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_C4",
+                        "S43_C4-Right",
                         "S50_C4"
                     ]
                 },
@@ -6515,7 +6747,7 @@
                         "spinal_5-1/C5_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_C5",
+                        "S43_C5-Right",
                         "S50_C5"
                     ]
                 },
@@ -6526,7 +6758,7 @@
                         "spinal_6-1/C6_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_C6",
+                        "S43_C6-Right",
                         "S50_C6"
                     ]
                 },
@@ -6537,7 +6769,7 @@
                         "spinal_7-1/C7_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_C7",
+                        "S43_C7-Right",
                         "S50_C7"
                     ]
                 },
@@ -6548,7 +6780,7 @@
                         "spinal_26-1/L5_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_L5",
+                        "S43_L5-Right",
                         "S50_L5"
                     ]
                 },
@@ -6559,7 +6791,7 @@
                         "spinal_28-1/S1_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_S1",
+                        "S43_S1-Right",
                         "S50_S1"
                     ]
                 },
@@ -6925,7 +7157,7 @@
                         "T7_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T7",
+                        "S43_T7-Right",
                         "S48_T7",
                         "S49_T7",
                         "S50_T7"
@@ -6938,7 +7170,7 @@
                         "T8_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T8",
+                        "S43_T8-Right",
                         "S48_T8",
                         "S49_T8",
                         "S50_T8"
@@ -6951,7 +7183,7 @@
                         "T9_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T9",
+                        "S43_T9-Right",
                         "S48_T9",
                         "S49_T9",
                         "S50_T9"
@@ -6964,7 +7196,7 @@
                         "T10_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T10",
+                        "S43_T10-Right",
                         "S48_T10",
                         "S49_T10",
                         "S50_T10"
@@ -6977,7 +7209,7 @@
                         "T11_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T11",
+                        "S43_T11-Right",
                         "S48_T11",
                         "S49_T11",
                         "S50_T11"
@@ -6990,7 +7222,7 @@
                         "T12_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T12",
+                        "S43_T12-Right",
                         "S48_T12",
                         "S49_T12",
                         "S50_T12"
@@ -7003,7 +7235,7 @@
                         "spinal_22-1/L1_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_L1",
+                        "S43_L1-Right",
                         "S48_L1",
                         "S49_L1"
                     ]
@@ -7015,7 +7247,7 @@
                         "spinal_23-1/L2_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_L2",
+                        "S43_L2-Right",
                         "S48_L2",
                         "S49_L2"
                     ]
@@ -7027,7 +7259,7 @@
                         "S46_T1"
                     ],
                     "contained-in": [
-                        "S43_T1"
+                        "S43_T1-Right"
                     ]
                 },
                 {
@@ -7037,7 +7269,7 @@
                         "S46_T2"
                     ],
                     "contained-in": [
-                        "S43_T2",
+                        "S43_T2-Right",
                         "S48_T2"
                     ]
                 },
@@ -7048,7 +7280,7 @@
                         "S46_T3"
                     ],
                     "contained-in": [
-                        "S43_T3",
+                        "S43_T3-Right",
                         "S48_T3"
                     ]
                 },
@@ -7059,7 +7291,7 @@
                         "S46_T4"
                     ],
                     "contained-in": [
-                        "S43_T4",
+                        "S43_T4-Right",
                         "S48_T4"
                     ]
                 },
@@ -7070,7 +7302,7 @@
                         "S46_T5"
                     ],
                     "contained-in": [
-                        "S43_T5",
+                        "S43_T5-Right",
                         "S48_T5"
                     ]
                 },
@@ -7081,7 +7313,7 @@
                         "S46_T6"
                     ],
                     "contained-in": [
-                        "S43_T6",
+                        "S43_T6-Right",
                         "S48_T6"
                     ]
                 },
@@ -7092,7 +7324,7 @@
                         "S46_L1"
                     ],
                     "contained-in": [
-                        "S43_L1",
+                        "S43_L1-Right",
                         "S48_L1"
                     ]
                 },
@@ -7103,7 +7335,7 @@
                         "S46_L2"
                     ],
                     "contained-in": [
-                        "S43_L2",
+                        "S43_L2-Right",
                         "S48_L2"
                     ]
                 },
