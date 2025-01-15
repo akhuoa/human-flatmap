@@ -2148,86 +2148,255 @@
             "models": "ILX:0774266",
             "name": "T1 Sympathetic ganglion"
         },
+        "S46_T1-Left": {
+            "models": "ILX:0791389",
+            "name": "Left first thoracic ganglion"
+        },
+        "S46_T1-Right": {
+            "models": "ILX:0789517",
+            "name": "Right first thoracic ganglion"
+        },
         "S46_T2": {
             "models": "ILX:0786228",
             "name": "Second thoracic ganglion"
+        },
+        "S46_T2-Left": {
+            "models": "ILX:0792183",
+            "name": "Left second thoracic ganglion"
+        },
+        "S46_T2-Right": {
+            "models": "ILX:0786012",
+            "name": "Right second thoracic ganglion"
         },
         "S46_T3": {
             "models": "ILX:0786722",
             "name": "Third thoracic ganglion"
         },
+        "S46_T3-Left": {
+            "models": "ILX:0785184",
+            "name": "Left third thoracic ganglion"
+        },
+        "S46_T3-Right": {
+            "models": "ILX:0790407",
+            "name": "Right third thoracic ganglion"
+        },
         "S46_T4": {
             "models": "ILX:0786272",
             "name": "Fourth thoracic ganglion"
+        },
+        "S46_T4-Left": {
+            "models": "ILX:0785208",
+            "name": "Left fourth thoracic ganglion"
+        },
+        "S46_T4-Right": {
+            "models": "ILX:0785536",
+            "name": "Right fourth thoracic ganglion"
         },
         "S46_T5": {
             "models": "ILX:0786141",
             "name": "Fifth thoracic ganglion"
         },
+        "S46_T5-Left": {
+            "models": "ILX:0791421",
+            "name": "Left fifth thoracic ganglion"
+        },
+        "S46_T5-Right": {
+            "models": "ILX:0786912",
+            "name": "Right fifth thoracic ganglion"
+        },
         "S46_T6": {
             "models": "ILX:0789947",
             "name": "Sixth thoracic ganglion"
+        },
+        "S46_T6-Left": {
+            "models": "ILX:0790227",
+            "name": "Left sixth thoracic ganglion"
+        },
+        "S46_T6-Right": {
+            "models": "ILX:0791060",
+            "name": "Right sixth thoracic ganglion"
         },
         "S46_T7": {
             "models": "ILX:0790482",
             "name": "Seventh thoracic ganglion"
         },
+        "S46_T7-Left": {
+            "models": "ILX:0789128",
+            "name": "Left seventh thoracic ganglion"
+        },
+        "S46_T7-Right": {
+            "models": "ILX:0785967",
+            "name": "Right seventh thoracic ganglion"
+        },
         "S46_T8": {
             "models": "ILX:0784721",
             "name": "Eighth thoracic ganglion"
+        },
+        "S46_T8-Left": {
+            "models": "ILX:0785128",
+            "name": "Left eighth thoracic ganglion"
+        },
+        "S46_T8-Right": {
+            "models": "ILX:0787263",
+            "name": "Right eighth thoracic ganglion"
         },
         "S46_T9": {
             "models": "ILX:0784378",
             "name": "Ninth thoracic ganglion"
         },
+        "S46_T9-Left": {
+            "models": "ILX:0786124",
+            "name": "Left ninth thoracic ganglion"
+        },
+        "S46_T9-Right": {
+            "models": "ILX:0787753",
+            "name": "Right ninth thoracic ganglion"
+        },
         "S46_T10": {
             "models": "ILX:0784569",
             "name": "Tenth thoracic ganglion"
+        },
+        "S46_T10-Left": {
+            "models": "ILX:0789118",
+            "name": "Left tenth thoracic ganglion"
+        },
+        "S46_T10-Right": {
+            "models": "ILX:0791709",
+            "name": "Right tenth thoracic ganglion"
         },
         "S46_T11": {
             "models": "ILX:0787015",
             "name": "Eleventh thoracic ganglion"
         },
+        "S46_T11-Left": {
+            "models": "ILX:0786007",
+            "name": "Left eleventh thoracic ganglion"
+        },
+        "S46_T11-Right": {
+            "models": "ILX:0787949",
+            "name": "Right eleventh thoracic ganglion"
+        },
         "S46_T12": {
             "models": "ILX:0787009",
             "name": "Twelfth thoracic ganglion"
+        },
+        "S46_T12-Left": {
+            "models": "ILX:0790421",
+            "name": "Left twelfth thoracic ganglion"
+        },
+        "S46_T12-Right": {
+            "models": "ILX:0789722",
+            "name": "Right twelfth thoracic ganglion"
         },
         "S46_L1": {
             "models": "ILX:0789862",
             "name": "First lumbar ganglion"
         },
+        "S46_L1-Left": {
+            "models": "ILX:0787848",
+            "name": "Left first lumbar ganglion"
+        },
+        "S46_L1-Right": {
+            "models": "ILX:0786768",
+            "name": "Right first lumbar ganglion"
+        },
         "S46_L2": {
             "models": "ILX:0786933",
             "name": "Second lumbar ganglion"
+        },
+        "S46_L2-Left": {
+            "models": "ILX:0789687",
+            "name": "Left second lumbar ganglion"
+        },
+        "S46_L2-Right": {
+            "models": "ILX:0792386",
+            "name": "Right second lumbar ganglion"
         },
         "S46_L3": {
             "models": "ILX:0788315",
             "name": "Third lumbar ganglion"
         },
+        "S46_L3-Left": {
+            "models": "ILX:0789421",
+            "name": "Left third lumbar ganglion"
+        },
+        "S46_L3-Right": {
+            "models": "ILX:0788304",
+            "name": "Right third lumbar ganglion"
+        },
         "S46_L4": {
             "models": "ILX:0790472",
             "name": "Fourth lumbar ganglion"
         },
+        "S46_L4-Left": {
+            "models": "ILX:0792944",
+            "name": "Left fourth lumbar ganglion"
+        },
+        "S46_L4-Right": {
+            "models": "ILX:0792531",
+            "name": "Right fourth lumbar ganglion"
+        },
         "S46_L5": {
             "models": "ILX:0739296",
-            "name": "fifth lumbar sympathetic ganglion"
+            "name": "fifth lumbar sympathetic ganglion",
+            "comment": "There are usually four ganglia in the lumbar region."
         },
         "S46_S1": {
             "models": "ILX:0789109",
             "name": "First sacral ganglion",
             "comment": "Id should be S46_S1"
         },
+        "S46_S1-Left": {
+            "models": "ILX:0789402",
+            "name": "Left first sacral ganglion"
+        },
+        "S46_S1-Right": {
+            "models": "ILX:0787464",
+            "name": "Right first sacral ganglion"
+        },
         "S46_S2": {
             "models": "ILX:0789655",
             "name": "Second sacral ganglion"
+        },
+        "S46_S2-Left": {
+            "models": "ILX:0789067",
+            "name": "Left second sacral ganglion"
+        },
+        "S46_S2-Right": {
+            "models": "ILX:0792153",
+            "name": "Right second sacral ganglion"
         },
         "S46_S3": {
             "models": "ILX:0790394",
             "name": "Third sacral ganglion"
         },
+        "S46_S3-Left": {
+            "models": "ILX:0784768",
+            "name": "Left third sacral ganglion"
+        },
+        "S46_S3-Right": {
+            "models": "ILX:0787496",
+            "name": "Right third sacral ganglion"
+        },
         "S46_S4": {
             "models": "ILX:0786049",
             "name": "Fourth sacral ganglion"
+        },
+        "S46_S4-Left": {
+            "models": "ILX:0788257",
+            "name": "Left fourth sacral ganglion"
+        },
+        "S46_S4-Right": {
+            "models": "ILX:0785146",
+            "name": "Right fourth sacral ganglion"
+        },
+        "S46_S5-Left": {
+            "models": "ILX:0790896",
+            "name": "Left fifth sacral ganglion"
+        },
+        "S46_S5-Right": {
+            "models": "ILX:0784870",
+            "name": "Right fifth sacral ganglion"
         },
         "S48_T1": {
             "models": "ILX:0738372",
@@ -7038,42 +7207,42 @@
                 {
                     "id": "T1_gray_ramus-spinal_n",
                     "connects": [
-                        "S46_T1",
+                        "S46_T1-Right",
                         "T1_spinal"
                     ]
                 },
                 {
                     "id": "T2_gray_ramus-spinal_n",
                     "connects": [
-                        "S46_T2",
+                        "S46_T2-Right",
                         "T2_spinal"
                     ]
                 },
                 {
                     "id": "T3_gray_ramus-spinal_n",
                     "connects": [
-                        "S46_T3",
+                        "S46_T3-Right",
                         "T3_spinal"
                     ]
                 },
                 {
                     "id": "T4_gray_ramus-spinal_n",
                     "connects": [
-                        "S46_T4",
+                        "S46_T4-Right",
                         "T4_spinal"
                     ]
                 },
                 {
                     "id": "T5_gray_ramus-spinal_n",
                     "connects": [
-                        "S46_T5",
+                        "S46_T5-Right",
                         "T5_spinal"
                     ]
                 },
                 {
                     "id": "T6_gray_ramus-spinal_n",
                     "connects": [
-                        "S46_T6",
+                        "S46_T6-Right",
                         "T6_spinal"
                     ]
                 },
@@ -7081,7 +7250,7 @@
                     "id": "S1_gray_ramus-spinal_n",
                     "models": "ILX:0793228",
                     "connects": [
-                        "S46_S1",
+                        "S46_S1-Right",
                         "S1_spinal"
                     ]
                 },
@@ -7291,42 +7460,42 @@
                 {
                     "id": "T1_paravertebral_ganglion-ardell_5",
                     "connects": [
-                        "S46_T1",
+                        "S46_T1-Right",
                         "ardell_5_start-1"
                     ]
                 },
                 {
                     "id": "T2_paravertebral_ganglion-ardell_5",
                     "connects": [
-                        "S46_T2",
+                        "S46_T2-Right",
                         "ardell_5_start-2"
                     ]
                 },
                 {
                     "id": "T3_paravertebral_ganglion-ardell_5",
                     "connects": [
-                        "S46_T3",
+                        "S46_T3-Right",
                         "ardell_5_start-3"
                     ]
                 },
                 {
                     "id": "T4_paravertebral_ganglion-ardell_5",
                     "connects": [
-                        "S46_T4",
+                        "S46_T4-Right",
                         "ardell_5_start-4"
                     ]
                 },
                 {
                     "id": "T5_paravertebral_ganglion-ardell_5",
                     "connects": [
-                        "S46_T5",
+                        "S46_T5-Right",
                         "ardell_5_start-5"
                     ]
                 },
                 {
                     "id": "T6_paravertebral_ganglion-ardell_5",
                     "connects": [
-                        "S46_T6",
+                        "S46_T6-Right",
                         "ardell_5_start-6"
                     ]
                 },
@@ -7496,7 +7665,7 @@
                     "id": "T1_ventral_root_paravertebral_ganglion",
                     "connects": [
                         "T1_ventral_root_end",
-                        "S46_T1"
+                        "S46_T1-Right"
                     ],
                     "contained-in": [
                         "S43_T1-Right"
@@ -7506,7 +7675,7 @@
                     "id": "T2_ventral_root_paravertebral_ganglion",
                     "connects": [
                         "T2_ventral_root_end",
-                        "S46_T2"
+                        "S46_T2-Right"
                     ],
                     "contained-in": [
                         "S43_T2-Right",
@@ -7517,7 +7686,7 @@
                     "id": "T3_ventral_root_paravertebral_ganglion",
                     "connects": [
                         "T3_ventral_root_end",
-                        "S46_T3"
+                        "S46_T3-Right"
                     ],
                     "contained-in": [
                         "S43_T3-Right",
@@ -7528,7 +7697,7 @@
                     "id": "T4_ventral_root_paravertebral_ganglion",
                     "connects": [
                         "T4_ventral_root_end",
-                        "S46_T4"
+                        "S46_T4-Right"
                     ],
                     "contained-in": [
                         "S43_T4-Right",
@@ -7539,7 +7708,7 @@
                     "id": "T5_ventral_root_paravertebral_ganglion",
                     "connects": [
                         "T5_ventral_root_end",
-                        "S46_T5"
+                        "S46_T5-Right"
                     ],
                     "contained-in": [
                         "S43_T5-Right",
@@ -7550,7 +7719,7 @@
                     "id": "T6_ventral_root_paravertebral_ganglion",
                     "connects": [
                         "T6_ventral_root_end",
-                        "S46_T6"
+                        "S46_T6-Right"
                     ],
                     "contained-in": [
                         "S43_T6-Right",
@@ -7561,7 +7730,7 @@
                     "id": "L1_ventral_root_paravertebral_ganglion",
                     "connects": [
                         "spinal_22-1/L1_ventral_root_end",
-                        "S46_L1"
+                        "S46_L1-Right"
                     ],
                     "contained-in": [
                         "S43_L1-Right",
@@ -7572,7 +7741,7 @@
                     "id": "L2_ventral_root_paravertebral_ganglion",
                     "connects": [
                         "spinal_23-1/L2_ventral_root_end",
-                        "S46_L2"
+                        "S46_L2-Right"
                     ],
                     "contained-in": [
                         "S43_L2-Right",
@@ -7583,7 +7752,7 @@
                     "id": "S1_paravertebral_ganglion",
                     "connects": [
                         "S1_spinal",
-                        "S46_S1"
+                        "S46_S1-Right"
                     ],
                     "contained-in": [
                         "S48_S1"
@@ -7594,7 +7763,7 @@
                     "models": "ILX:0738291",
                     "connects": [
                         "ganglion_10-1",
-                        "S46_T1"
+                        "S46_T1-Right"
                     ]
                 },
                 {
@@ -8100,7 +8269,7 @@
                 {
                     "id": "bolser_30",
                     "connects": [
-                        "S46_T1",
+                        "S46_T1-Right",
                         "point_46"
                     ]
                 },
