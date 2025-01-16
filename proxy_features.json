@@ -271,5 +271,117 @@
         "proxies": [
             "ILX:0791172"
         ]
+    },
+    {
+        "feature": "ILX:0774266",
+        "name": "T1 Sympathetic ganglion",
+        "proxies": [
+            "ILX:0789517"
+        ]
+    },
+    {
+        "feature": "ILX:0786228",
+        "name": "Second thoracic ganglion",
+        "proxies": [
+            "ILX:0786012"
+        ]
+    },
+    {
+        "feature": "ILX:0786722",
+        "name": "Third thoracic ganglion",
+        "proxies": [
+            "ILX:0790407"
+        ]
+    },
+    {
+        "feature": "ILX:0786272",
+        "name": "Fourth thoracic ganglion",
+        "proxies": [
+            "ILX:0785536"
+        ]
+    },
+    {
+        "feature": "ILX:0786141",
+        "name": "Fifth thoracic ganglion",
+        "proxies": [
+            "ILX:0786912"
+        ]
+    },
+    {
+        "feature": "ILX:0789947",
+        "name": "Sixth thoracic ganglion",
+        "proxies": [
+            "ILX:0791060"
+        ]
+    },
+    {
+        "feature": "ILX:0790482",
+        "name": "Seventh thoracic ganglion",
+        "proxies": [
+            "ILX:0785967"
+        ]
+    },
+    {
+        "feature": "ILX:0784721",
+        "name": "Eighth thoracic ganglion",
+        "proxies": [
+            "ILX:0787263"
+        ]
+    },
+    {
+        "feature": "ILX:0784378",
+        "name": "Ninth thoracic ganglion",
+        "proxies": [
+            "ILX:0787753"
+        ]
+    },
+    {
+        "feature": "ILX:0784569",
+        "name": "Tenth thoracic ganglion",
+        "proxies": [
+            "ILX:0791709"
+        ]
+    },
+    {
+        "feature": "ILX:0787015",
+        "name": "Eleventh thoracic ganglion",
+        "proxies": [
+            "ILX:0787949"
+        ]
+    },
+    {
+        "feature": "ILX:0787009",
+        "name": "Twelfth thoracic ganglion",
+        "proxies": [
+            "ILX:0789722"
+        ]
+    },
+    {
+        "feature": "ILX:0789862",
+        "name": "First lumbar ganglion",
+        "proxies": [
+            "ILX:0786768"
+        ]
+    },
+    {
+        "feature": "ILX:0788315",
+        "name": "Third lumbar ganglion",
+        "proxies": [
+            "ILX:0788304"
+        ]
+    },
+    {
+        "feature": "ILX:0790472",
+        "name": "Fourth lumbar ganglion",
+        "proxies": [
+            "ILX:0792531"
+        ]
+    },
+    {
+        "feature": "ILX:0789109",
+        "name": "First sacral ganglion",
+        "proxies": [
+            "ILX:0787464"
+        ]
     }
 ]
