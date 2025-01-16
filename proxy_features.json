@@ -3,7 +3,91 @@
         "feature": "UBERON:0000044",
         "name": "dorsal root ganglion",
         "proxies": [
-            "UBERON:0003943"
+            "ILX:0790370"
+        ]
+    },
+    {
+        "feature": "UBERON:0002850",
+        "name": "seventh thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0788647"
+        ]
+    },
+    {
+        "feature": "UBERON:0002851",
+        "name": "eighth thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0791153"
+        ]
+    },
+    {
+        "feature": "UBERON:0002852",
+        "name": "ninth thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0788711"
+        ]
+    },
+    {
+        "feature": "UBERON:0002853",
+        "name": "tenth thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0786372"
+        ]
+    },
+    {
+        "feature": "UBERON:0002854",
+        "name": "eleventh thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0785659"
+        ]
+    },
+    {
+        "feature": "UBERON:0002855",
+        "name": "twelfth thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0786989"
+        ]
+    },
+    {
+        "feature": "UBERON:0002857",
+        "name": "first lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0787285"
+        ]
+    },
+    {
+        "feature": "UBERON:0002856",
+        "name": "second lumbar spinal ganglion",
+        "proxies": [
+            "ILX:0785743"
+        ]
+    },
+    {
+        "feature": "UBERON:0002858",
+        "name": "third lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0786189"
+        ]
+    },
+    {
+        "feature": "UBERON:0002861",
+        "name": "second sacral spinal ganglion",
+        "proxies": [
+            "ILX:0791957"
+        ]
+    },
+    {
+        "feature": "UBERON:0002862",
+        "name": "third sacral spinal ganglion",
+        "proxies": [
+            "ILX:0784655"
+        ]
+    },
+    {
+        "feature": "UBERON:0007713",
+        "name": "fourth sacral spinal ganglion",
+        "proxies": [
+            "ILX:0791720"
         ]
     }
 ]
