@@ -89,5 +89,82 @@
         "proxies": [
             "ILX:0791720"
         ]
+    },
+    {
+        "feature": "UBERON:0002261",
+        "name": "dorsal root of spinal cord",
+        "proxies": [
+            "ILX:0792995",
+            "ILX:0786402",
+            "ILX:0785098",
+            "ILX:0785947",
+            "ILX:0784709",
+            "ILX:0790532",
+            "ILX:0785877",
+            "ILX:0787750"
+        ]
+    },
+    {
+        "feature": "ILX:0784605",
+        "name": "posterior root of seventh thoracic nerve",
+        "proxies": [
+            "ILX:0787781"
+        ]
+    },
+    {
+        "feature": "ILX:0792624",
+        "name": "posterior root of eight thoracic nerve",
+        "proxies": [
+            "ILX:0786793"
+        ]
+    },
+    {
+        "feature": "ILX:0789741",
+        "name": "posterior root of ninth thoracic nerve",
+        "proxies": [
+            "ILX:0786813"
+        ]
+    },
+    {
+        "feature": "ILX:0789892",
+        "name": "posterior root of tenth thoracic nerve",
+        "proxies": [
+            "ILX:0792995"
+        ]
+    },
+    {
+        "feature": "ILX:0790338",
+        "name": "posterior root of eleventh thoracic nerve",
+        "proxies": [
+            "ILX:0786402"
+        ]
+    },
+    {
+        "feature": "ILX:0787665",
+        "name": "posterior root of twelfth thoracic nerve",
+        "proxies": [
+            "ILX:0785098"
+        ]
+    },
+    {
+        "feature": "ILX:0787779",
+        "name": "posterior root of first lumbar nerve",
+        "proxies": [
+            "ILX:0785947"
+        ]
+    },
+    {
+        "feature": "ILX:0792058",
+        "name": "posterior root of second lumbar nerve",
+        "proxies": [
+            "ILX:0784709"
+        ]
+    },
+    {
+        "feature": "ILX:0787227",
+        "name": "posterior root of third lumbar nerve",
+        "proxies": [
+            "ILX:0792984"
+        ]
     }
 ]
