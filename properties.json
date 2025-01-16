@@ -2477,6 +2477,9 @@
         "S48_S4": {
             "class": "spinal_48"
         },
+        "S48_S5": {
+            "class": "spinal_48"
+        },
         "S49_C1": {
             "models": "ILX:0793551",
             "name": "Gray communicating ramus of the first cervical nerve"
@@ -7278,7 +7281,6 @@
                 },
                 {
                     "id": "S1_gray_ramus-spinal_n",
-                    "models": "ILX:0793228",
                     "connects": [
                         "S46_S1-Right",
                         "S1_spinal"
