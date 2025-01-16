@@ -2986,6 +2986,16 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_3-Left": {
+            "models": "ILX:0787157",
+            "name": "left superior cervical ganglion",
+            "type": "ganglion"
+        },
+        "ganglion_3-Right": {
+            "models": "ILX:0784822",
+            "name": "right superior cervical ganglion",
+            "type": "ganglion"
+        },
         "ganglion_4-1": {
             "models": "UBERON:0016508",
             "name": "pelvic ganglion",
@@ -3028,11 +3038,31 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_9-Left": {
+            "models": "ILX:0786820",
+            "name": "left middle cervical ganglion",
+            "type": "ganglion"
+        },
+        "ganglion_9-Right": {
+            "models": "ILX:0791801",
+            "name": "right middle cervical ganglion",
+            "type": "ganglion"
+        },
         "ganglion_10-1": {
             "models": "UBERON:0002440",
             "name": "inferior cervical ganglion",
             "type": "ganglion",
             "class": "auto-hide"
+        },
+        "ganglion_10-Left": {
+            "models": "ILX:0794891",
+            "name": "left inferior cervical ganglion",
+            "type": "ganglion"
+        },
+        "ganglion_10-Right": {
+            "models": "ILX:0794890",
+            "name": "right inferior cervical ganglion",
+            "type": "ganglion"
         },
         "ganglion_11-1": {
             "models": "UBERON:0002441",
@@ -6665,7 +6695,7 @@
                 {
                     "id": "n_50",
                     "connects": [
-                        "ganglion_3-1",
+                        "ganglion_3-Right",
                         "point_27"
                     ]
                 },
@@ -6711,21 +6741,21 @@
                 {
                     "id": "n_59",
                     "connects": [
-                        "ganglion_3-1",
+                        "ganglion_3-Right",
                         "plexus_1-1"
                     ]
                 },
                 {
                     "id": "n_60",
                     "connects": [
-                        "ganglion_3-1",
+                        "ganglion_3-Right",
                         "point_12"
                     ]
                 },
                 {
                     "id": "n_61",
                     "connects": [
-                        "ganglion_3-1",
+                        "ganglion_3-Right",
                         "point_15"
                     ]
                 },
@@ -6733,14 +6763,14 @@
                     "id": "n_62",
                     "models": "ILX:0785069",
                     "connects": [
-                        "ganglion_3-1",
+                        "ganglion_3-Right",
                         "point_17"
                     ]
                 },
                 {
                     "id": "n_63",
                     "connects": [
-                        "ganglion_3-1",
+                        "ganglion_3-Right",
                         "point_23"
                     ]
                 },
@@ -7762,7 +7792,7 @@
                     "id": "ICG-T1_sympathetic_cord",
                     "models": "ILX:0738291",
                     "connects": [
-                        "ganglion_10-1",
+                        "ganglion_10-Right",
                         "S46_T1-Right"
                     ]
                 },
@@ -7770,16 +7800,16 @@
                     "id": "SCG-MCG_sympathetic_cord",
                     "models": "ILX:0738292",
                     "connects": [
-                        "ganglion_3-1",
-                        "ganglion_9-1"
+                        "ganglion_3-Right",
+                        "ganglion_9-Right"
                     ]
                 },
                 {
                     "id": "MCG-ICG_sympathetic_cord",
                     "models": "ILX:0738290",
                     "connects": [
-                        "ganglion_9-1",
-                        "ganglion_10-1"
+                        "ganglion_9-Right",
+                        "ganglion_10-Right"
                     ]
                 },
                 {
@@ -8079,14 +8109,14 @@
                 {
                     "id": "MCG-ardell_2",
                     "connects": [
-                        "ganglion_9-1",
+                        "ganglion_9-Right",
                         "ardell_2_start"
                     ]
                 },
                 {
                     "id": "ICG-ardell_2",
                     "connects": [
-                        "ganglion_10-1",
+                        "ganglion_10-Right",
                         "ardell_2_start"
                     ]
                 },
@@ -8112,21 +8142,21 @@
                 {
                     "id": "SCG-ardell_6",
                     "connects": [
-                        "ganglion_3-1",
+                        "ganglion_3-Right",
                         "ardell_6_start-1"
                     ]
                 },
                 {
                     "id": "MCG-ardell_6",
                     "connects": [
-                        "ganglion_9-1",
+                        "ganglion_9-Right",
                         "ardell_6_start-2"
                     ]
                 },
                 {
                     "id": "ICG-ardell_6",
                     "connects": [
-                        "ganglion_10-1",
+                        "ganglion_10-Right",
                         "ardell_6_start-3"
                     ]
                 },
@@ -8186,7 +8216,7 @@
                 {
                     "id": "bolser_7",
                     "connects": [
-                        "ganglion_3-1",
+                        "ganglion_3-Right",
                         "plexus_7-1"
                     ]
                 },
