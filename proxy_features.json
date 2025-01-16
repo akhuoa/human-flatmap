@@ -404,5 +404,26 @@
         "proxies": [
             "ILX:0794890"
         ]
+    },
+    {
+        "feature": "ILX:0785238",
+        "name": "second sacral nerve",
+        "proxies": [
+            "ILX:0790323"
+        ]
+    },
+    {
+        "feature": "ILX:0788532",
+        "name": "third sacral nerve",
+        "proxies": [
+            "ILX:0787077"
+        ]
+    },
+    {
+        "feature": "ILX:0788777",
+        "name": "fourth sacral nerve",
+        "proxies": [
+            "ILX:0786250"
+        ]
     }
 ]
