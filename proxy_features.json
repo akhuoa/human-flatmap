@@ -383,5 +383,26 @@
         "proxies": [
             "ILX:0787464"
         ]
+    },
+    {
+        "feature": "UBERON:0001989",
+        "name": "superior cervical ganglion",
+        "proxies": [
+            "ILX:0784822"
+        ]
+    },
+    {
+        "feature": "UBERON:0001990",
+        "name": "middle cervical ganglion",
+        "proxies": [
+            "ILX:0791801"
+        ]
+    },
+    {
+        "feature": "UBERON:0002440",
+        "name": "inferior cervical ganglion",
+        "proxies": [
+            "ILX:0794890"
+        ]
     }
 ]
