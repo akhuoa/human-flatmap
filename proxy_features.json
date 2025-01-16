@@ -166,5 +166,110 @@
         "proxies": [
             "ILX:0792984"
         ]
+    },
+    {
+        "feature": "ILX:0787722",
+        "name": "anterior root of the first thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0789946"
+        ]
+    },
+    {
+        "feature": "ILX:0789894",
+        "name": "ventral root of the second thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0784708"
+        ]
+    },
+    {
+        "feature": "ILX:0784804",
+        "name": "ventral root of the third thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0789187"
+        ]
+    },
+    {
+        "feature": "ILX:0792838",
+        "name": "ventral root of the fourth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0785361"
+        ]
+    },
+    {
+        "feature": "ILX:0790146",
+        "name": "ventral root of the fifth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0784578"
+        ]
+    },
+    {
+        "feature": "ILX:0791062",
+        "name": "ventral root of the sixth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0786171"
+        ]
+    },
+    {
+        "feature": "ILX:0789966",
+        "name": "ventral root of the seventh thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0791358"
+        ]
+    },
+    {
+        "feature": "ILX:0788026",
+        "name": "ventral root of the eighth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0791861"
+        ]
+    },
+    {
+        "feature": "ILX:0791932",
+        "name": "ventral root of the ninth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0785817"
+        ]
+    },
+    {
+        "feature": "ILX:0788670",
+        "name": "ventral root of the tenth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0787993"
+        ]
+    },
+    {
+        "feature": "ILX:0790602",
+        "name": "ventral root of the eleventh thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0787220"
+        ]
+    },
+    {
+        "feature": "ILX:0792048",
+        "name": "ventral root of the twelfth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0787115"
+        ]
+    },
+    {
+        "feature": "ILX:0785421",
+        "name": "ventral root of the first lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0791012"
+        ]
+    },
+    {
+        "feature": "ILX:0788675",
+        "name": "ventral root of the second lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0786495"
+        ]
+    },
+    {
+        "feature": "ILX:0789968",
+        "name": "ventral root of the fourth lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0791172"
+        ]
     }
 ]
