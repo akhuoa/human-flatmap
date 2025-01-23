@@ -1118,13 +1118,17 @@
     },
     {
         "id": [
-            "UBERON:0005303",
+            "UBERON:0016508",
             []
         ],
-        "name": "hypogastric nerve",
+        "name": "pelvic ganglion",
         "aliases": [
             [
                 "ILX:0793803",
+                []
+            ],
+            [
+                "UBERON:0002014",
                 []
             ]
         ]
