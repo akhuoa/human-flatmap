@@ -1322,6 +1322,10 @@
         "name": "S4 segment of sacral spinal cord",
         "aliases": [
             [
+                "ILX:0793881",
+                []
+            ],
+            [
                 "ILX:0793802",
                 []
             ]
