@@ -5,5 +5,19 @@
         "proxies": [
             "UBERON:0003943"
         ]
+    },
+    {
+        "feature": "UBERON:0002113",
+        "name": "kidney",
+        "proxies": [
+            "UBERON:0004538"
+        ]
+    },
+    {
+        "feature": "UBERON:0000992",
+        "name": "ovary",
+        "proxies": [
+            "UBERON:0002119"
+        ]
     }
 ]
