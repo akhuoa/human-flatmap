@@ -2095,6 +2095,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_25-2": {
+            "models": "ILX:0794910",
+            "name": "Ovarian ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "ganglion_26-1": {
             "models": "ILX:0793550",
             "name": "Mediastinal ganglion",
@@ -3195,6 +3201,9 @@
         "reproductive_28-1": {
             "class": "reproductive_28"
         },
+        "reproductive_28-2": {
+            "class": "reproductive_28"
+        },
         "reproductive_29-1": {
             "class": "reproductive_29"
         },
@@ -3204,13 +3213,25 @@
         "reproductive_31-1": {
             "class": "reproductive_31"
         },
+        "reproductive_31-2": {
+            "class": "reproductive_31"
+        },
         "reproductive_32-1": {
+            "class": "reproductive_32"
+        },
+        "reproductive_32-2": {
             "class": "reproductive_32"
         },
         "reproductive_33-1": {
             "class": "reproductive_33"
         },
+        "reproductive_33-2": {
+            "class": "reproductive_33"
+        },
         "reproductive_34-1": {
+            "class": "reproductive_34"
+        },
+        "reproductive_34-2": {
             "class": "reproductive_34"
         },
         "respiratory_10-1": {

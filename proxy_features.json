@@ -26,6 +26,7 @@
         "feature": "UBERON:0000992",
         "name": "ovary",
         "proxies": [
+            "UBERON:0002118",
             "UBERON:0002119"
         ]
     }
