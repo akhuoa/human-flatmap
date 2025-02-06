@@ -2107,6 +2107,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_27-2": {
+            "models": "ILX:0795057",
+            "name": "renal nerve plexus ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -4349,6 +4355,14 @@
         "urinary_12-1": {
             "class": "urinary_12"
         },
+        "urinary_12-Left": {
+            "models": "ILX:0736906",
+            "name": "Left ureter"
+        },
+        "urinary_12-Right": {
+            "models": "ILX:0725425",
+            "name": "Right ureter"
+        },
         "urinary_12-2": {
             "class": "urinary_12"
         },
@@ -4409,10 +4423,24 @@
         "urinary_20-1": {
             "class": "urinary_20"
         },
+        "urinary_20-Left": {
+            "models": "UBERON:0001186",
+            "name": "left renal artery"
+        },
+        "urinary_20-Right": {
+            "models": "UBERON:0001185",
+            "name": "right renal artery"
+        },
         "urinary_21-1": {
             "class": "urinary_21"
         },
+        "urinary_21-2": {
+            "class": "urinary_21"
+        },
         "urinary_22-1": {
+            "class": "urinary_22"
+        },
+        "urinary_22-2": {
             "class": "urinary_22"
         },
         "plexus_1-1": {
