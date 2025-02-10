@@ -486,11 +486,10 @@
         "id": [
             "UBERON:0035965",
             [
-                "UBERON:0001981",
-                "UBERON:0001255"
+                "UBERON:0006082"
             ]
         ],
-        "name": "wall of blood vessel/blood vessel/urinary bladder",
+        "name": "wall of blood vessel/fundus of urinary bladder",
         "aliases": [
             [
                 "UBERON:0035965",
@@ -504,11 +503,10 @@
         "id": [
             "UBERON:0035965",
             [
-                "UBERON:0001981",
                 "UBERON:0001258"
             ]
         ],
-        "name": "wall of blood vessel/blood vessel/neck of urinary bladder",
+        "name": "wall of blood vessel/neck of urinary bladder",
         "aliases": [
             [
                 "UBERON:0035965",
