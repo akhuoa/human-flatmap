@@ -296,7 +296,6 @@
         "name": "pons",
         "aliases": [
             "ILX:0109019",
-            "UBERON:0002872",
             "FMA:67943"
         ]
     },
@@ -653,10 +652,6 @@
             ],
             [
                 "UBERON:0018676",
-                []
-            ],
-            [
-                "UBERON:0011926",
                 []
             ]
         ]
@@ -1057,6 +1052,10 @@
             [
                 "UBERON:0001305",
                 []
+            ],
+            [
+                "UBERON:0001190",
+                []
             ]
         ]
     },
@@ -1118,13 +1117,17 @@
     },
     {
         "id": [
-            "UBERON:0005303",
+            "UBERON:0016508",
             []
         ],
-        "name": "hypogastric nerve",
+        "name": "pelvic ganglion",
         "aliases": [
             [
                 "ILX:0793803",
+                []
+            ],
+            [
+                "UBERON:0002014",
                 []
             ]
         ]
@@ -1194,6 +1197,10 @@
         "aliases": [
             [
                 "ILX:0793819",
+                []
+            ],
+            [
+                "ILX:0795030",
                 []
             ]
         ]
@@ -1317,6 +1324,10 @@
         ],
         "name": "S4 segment of sacral spinal cord",
         "aliases": [
+            [
+                "ILX:0793881",
+                []
+            ],
             [
                 "ILX:0793802",
                 []
@@ -1976,43 +1987,102 @@
     },
     {
         "id": [
-            "UBERON:0006118",
+            "UBERON:0006455",
             []
         ],
-        "name": "lamina I of gray matter of spinal cord",
+        "name": "seventh thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795023",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006456",
+            []
+        ],
+        "name": "eighth thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795024",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006465",
+            []
+        ],
+        "name": "ninth thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795025",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006466",
+            []
+        ],
+        "name": "tenth thoracic spinal cord segment",
         "aliases": [
             [
                 "ILX:0795026",
                 []
-            ],
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006467",
+            []
+        ],
+        "name": "eleventh thoracic spinal cord segment",
+        "aliases": [
             [
                 "ILX:0795027",
                 []
-            ],
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006468",
+            []
+        ],
+        "name": "twelfth thoracic spinal cord segment",
+        "aliases": [
             [
                 "ILX:0795028",
                 []
-            ],
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006448",
+            []
+        ],
+        "name": "first lumbar spinal cord segment",
+        "aliases": [
             [
                 "ILX:0795029",
                 []
-            ],
-            [
-                "ILX:0795030",
-                []
-            ],
-            [
-                "ILX:0795023",
-                []
-            ],
-            [
-                "ILX:0795024",
-                []
-            ],
-            [
-                "ILX:0795025",
-                []
-            ],
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006449",
+            []
+        ],
+        "name": "third lumbar spinal cord segment",
+        "aliases": [
             [
                 "ILX:0795031",
                 []

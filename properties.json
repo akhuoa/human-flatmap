@@ -2095,6 +2095,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_25-2": {
+            "models": "ILX:0794910",
+            "name": "Ovarian ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "ganglion_26-1": {
             "models": "ILX:0793550",
             "name": "Mediastinal ganglion",
@@ -2102,6 +2108,12 @@
             "class": "auto-hide"
         },
         "ganglion_27-1": {
+            "models": "ILX:0795057",
+            "name": "renal nerve plexus ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_27-2": {
             "models": "ILX:0795057",
             "name": "renal nerve plexus ganglion",
             "type": "ganglion",
@@ -3189,6 +3201,9 @@
         "reproductive_28-1": {
             "class": "reproductive_28"
         },
+        "reproductive_28-2": {
+            "class": "reproductive_28"
+        },
         "reproductive_29-1": {
             "class": "reproductive_29"
         },
@@ -3198,13 +3213,25 @@
         "reproductive_31-1": {
             "class": "reproductive_31"
         },
+        "reproductive_31-2": {
+            "class": "reproductive_31"
+        },
         "reproductive_32-1": {
+            "class": "reproductive_32"
+        },
+        "reproductive_32-2": {
             "class": "reproductive_32"
         },
         "reproductive_33-1": {
             "class": "reproductive_33"
         },
+        "reproductive_33-2": {
+            "class": "reproductive_33"
+        },
         "reproductive_34-1": {
+            "class": "reproductive_34"
+        },
+        "reproductive_34-2": {
             "class": "reproductive_34"
         },
         "respiratory_10-1": {
@@ -4349,6 +4376,14 @@
         "urinary_12-1": {
             "class": "urinary_12"
         },
+        "urinary_12-Left": {
+            "models": "ILX:0736906",
+            "name": "Left ureter"
+        },
+        "urinary_12-Right": {
+            "models": "ILX:0725425",
+            "name": "Right ureter"
+        },
         "urinary_12-2": {
             "class": "urinary_12"
         },
@@ -4409,10 +4444,24 @@
         "urinary_20-1": {
             "class": "urinary_20"
         },
+        "urinary_20-Left": {
+            "models": "UBERON:0001186",
+            "name": "left renal artery"
+        },
+        "urinary_20-Right": {
+            "models": "UBERON:0001185",
+            "name": "right renal artery"
+        },
         "urinary_21-1": {
             "class": "urinary_21"
         },
+        "urinary_21-2": {
+            "class": "urinary_21"
+        },
         "urinary_22-1": {
+            "class": "urinary_22"
+        },
+        "urinary_22-2": {
             "class": "urinary_22"
         },
         "plexus_1-1": {
