@@ -2273,7 +2273,8 @@
             "class": "brain_24"
         },
         "brain_25-1": {
-            "class": "brain_25"
+            "class": "brain_25",
+            "noLaterality": true
         },
         "brain_25-2": {
             "class": "brain_25"
@@ -2282,13 +2283,15 @@
             "class": "brain_26"
         },
         "brain_26-2": {
-            "class": "brain_26"
+            "class": "brain_26",
+            "noLaterality": true
         },
         "brain_27-1": {
             "class": "brain_27"
         },
         "brain_27-2": {
-            "class": "brain_27"
+            "class": "brain_27",
+            "noLaterality": true
         },
         "brain_28-1": {
             "class": "brain_28"
