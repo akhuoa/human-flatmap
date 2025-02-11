@@ -6519,9 +6519,6 @@
                     "connects": [
                         "T1_spinal",
                         "T1_ventral_root_end"
-                    ],
-                    "contained-in": [
-                        "S48_T1"
                     ]
                 },
                 {
@@ -6529,9 +6526,6 @@
                     "connects": [
                         "T2_spinal",
                         "T2_ventral_root_end"
-                    ],
-                    "contained-in": [
-                        "S49_T2"
                     ]
                 },
                 {
@@ -6539,9 +6533,6 @@
                     "connects": [
                         "T3_spinal",
                         "T3_ventral_root_end"
-                    ],
-                    "contained-in": [
-                        "S49_T3"
                     ]
                 },
                 {
@@ -6549,9 +6540,6 @@
                     "connects": [
                         "T4_spinal",
                         "T4_ventral_root_end"
-                    ],
-                    "contained-in": [
-                        "S49_T4"
                     ]
                 },
                 {
@@ -6559,9 +6547,6 @@
                     "connects": [
                         "T5_spinal",
                         "T5_ventral_root_end"
-                    ],
-                    "contained-in": [
-                        "S49_T5"
                     ]
                 },
                 {
@@ -6569,9 +6554,6 @@
                     "connects": [
                         "T6_spinal",
                         "T6_ventral_root_end"
-                    ],
-                    "contained-in": [
-                        "S49_T6"
                     ]
                 },
                 {
