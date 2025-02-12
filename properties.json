@@ -2274,7 +2274,7 @@
         },
         "brain_25-1": {
             "class": "brain_25",
-            "noLaterality": true
+            "unrouted": true
         },
         "brain_25-2": {
             "class": "brain_25"
@@ -2284,14 +2284,14 @@
         },
         "brain_26-2": {
             "class": "brain_26",
-            "noLaterality": true
+            "unrouted": true
         },
         "brain_27-1": {
             "class": "brain_27"
         },
         "brain_27-2": {
             "class": "brain_27",
-            "noLaterality": true
+            "unrouted": true
         },
         "brain_28-1": {
             "class": "brain_28"
