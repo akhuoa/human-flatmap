@@ -31,17 +31,9 @@
         "term": "UBERON:0035965",
         "name": "wall of blood vessel"
     },
-    "urinary_9": {
-        "term": "UBERON:0000483",
-        "name": "epithelium"
-    },
     "urinary_10": {
         "term": "UBERON:0004230",
         "name": "urinary bladder neck smooth muscle"
-    },
-    "urinary_11": {
-        "term": "UBERON:0035965",
-        "name": "wall of blood vessel"
     },
     "urinary_12": {
         "term": "UBERON:0000056",
