@@ -4104,6 +4104,14 @@
             "type": "nerve",
             "models": "UBERON:0018683"
         },
+        "n_50_c": {
+            "type": "nerve",
+            "models": "ILX:0794234"
+        },
+        "n_62_c": {
+            "type": "nerve",
+            "models": "ILX:0785069"
+        },
         "lung_1_2": {
             "class": "lung_1"
         },
@@ -6017,6 +6025,10 @@
             "type": "nerve",
             "models": "ILX:0738315"
         },
+        "bolser_8_c": {
+            "type": "nerve",
+            "models": "UBERON:0001650"
+        },
         "bolser_104": {
             "type": "nerve",
             "models": "ILX:0738293"
@@ -6491,7 +6503,7 @@
                 },
                 {
                     "id": "n_18",
-                    "models": "ILX:0740900",
+                    "models": "ILX:0793561",
                     "connects": [
                         "point_18",
                         "point_19"
@@ -6579,7 +6591,7 @@
                 },
                 {
                     "id": "n_29",
-                    "models": "ILX:0738374",
+                    "models": "ILX:0793560",
                     "connects": [
                         "point_18",
                         "point_17",
@@ -6788,6 +6800,7 @@
                 },
                 {
                     "id": "n_58",
+                    "models": "ILX:0791071",
                     "connects": [
                         "n_82_branching_point",
                         "urinary_13-1"
@@ -8198,6 +8211,7 @@
                 },
                 {
                     "id": "ardell_6",
+                    "models": "ILX:0738312",
                     "connects": [
                         "ardell_6_start-1",
                         "ardell_6_start-2",
@@ -8299,6 +8313,7 @@
                 },
                 {
                     "id": "bolser_13",
+                    "models": "ILX:0738313",
                     "connects": [
                         "ganglion_12-1",
                         "point_42"
@@ -8306,6 +8321,7 @@
                 },
                 {
                     "id": "bolser_14",
+                    "models": "ILX:0790205",
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "respiratory_11-1"
