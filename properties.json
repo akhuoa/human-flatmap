@@ -5935,7 +5935,7 @@
         },
         "vagus_7": {
             "type": "nerve",
-            "models": "FMA:77213"
+            "models": "ILX:0774697"
         },
         "vagus_8": {
             "type": "nerve",
@@ -6599,8 +6599,16 @@
                     ]
                 },
                 {
-                    "id": "n_31",
+                    "id": "n_30",
                     "models": "ILX:0786680",
+                    "connects": [
+                        "point_22",
+                        "point_24"
+                    ]
+                },
+                {
+                    "id": "n_31",
+                    "models": "ILX:0791784",
                     "connects": [
                         "point_24",
                         "n_31_branching_point"
@@ -8211,7 +8219,6 @@
                 },
                 {
                     "id": "ardell_6",
-                    "models": "ILX:0738312",
                     "connects": [
                         "ardell_6_start-1",
                         "ardell_6_start-2",
@@ -8364,6 +8371,7 @@
                 },
                 {
                     "id": "PH_GN",
+                    "models": "ILX:0789339",
                     "connects": [
                         "ganglion_12-1",
                         "point_45"
