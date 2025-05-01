@@ -3140,10 +3140,13 @@
             "class": "auto-hide"
         },
         "ganglion_23-1": {
-            "models": "UBERON:0001675",
-            "name": "Trigeminal Ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
+            "class": "ganglion_23"
+        },
+        "trigeminal_ganglion": {
+            "class": "ganglion_23"
+        },
+        "trigeminal_nerve_afferent_cn_v_and_ganglion": {
+            "class": "ganglion_23"
         },
         "ganglion_24-1": {
             "models": "ILX:0793833",
