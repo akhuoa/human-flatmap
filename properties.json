@@ -3140,10 +3140,13 @@
             "class": "auto-hide"
         },
         "ganglion_23-1": {
-            "models": "UBERON:0001675",
-            "name": "Trigeminal Ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
+            "class": "ganglion_23"
+        },
+        "trigeminal_ganglion": {
+            "class": "ganglion_23"
+        },
+        "trigeminal_nerve_afferent_cn_v_and_ganglion": {
+            "class": "ganglion_23"
         },
         "ganglion_24-1": {
             "models": "ILX:0793833",
@@ -3438,6 +3441,14 @@
         "motor_nucleus_of_trigeminal_nerve": {
             "models": "UBERON:0002633",
             "name": "Motor nucleus of trigeminal nerve"
+        },
+        "trigeminal_nerve_efferent_cn_v": {
+            "models": "ILX:0792811",
+            "name": "Left trigeminal nerve"
+        },
+        "trigeminal_nerve_afferent_cn_v": {
+            "models": "ILX:0792877",
+            "name": "Right trigeminal nerve"
         },
         "accessory_oculomotor_nucleus": {
             "models": "ILX:0772155",
