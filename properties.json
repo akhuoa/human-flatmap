@@ -3140,10 +3140,13 @@
             "class": "auto-hide"
         },
         "ganglion_23-1": {
-            "models": "UBERON:0001675",
-            "name": "Trigeminal Ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
+            "class": "ganglion_23"
+        },
+        "trigeminal_ganglion": {
+            "class": "ganglion_23"
+        },
+        "trigeminal_nerve_afferent_cn_v_and_ganglion": {
+            "class": "ganglion_23"
         },
         "ganglion_24-1": {
             "models": "ILX:0793833",
@@ -3438,6 +3441,14 @@
         "motor_nucleus_of_trigeminal_nerve": {
             "models": "UBERON:0002633",
             "name": "Motor nucleus of trigeminal nerve"
+        },
+        "trigeminal_nerve_efferent_cn_v": {
+            "models": "ILX:0792811",
+            "name": "Left trigeminal nerve"
+        },
+        "trigeminal_nerve_afferent_cn_v": {
+            "models": "ILX:0792877",
+            "name": "Right trigeminal nerve"
         },
         "accessory_oculomotor_nucleus": {
             "models": "ILX:0772155",
@@ -4103,6 +4114,26 @@
             "class": "keast_7",
             "type": "nerve",
             "models": "UBERON:0018683"
+        },
+        "n_50_c": {
+            "type": "nerve",
+            "models": "ILX:0794234"
+        },
+        "n_62_c": {
+            "type": "nerve",
+            "models": "ILX:0785069"
+        },
+        "n_82_c": {
+            "type": "nerve",
+            "models": "ILX:0788419"
+        },
+        "n_83_c": {
+            "type": "nerve",
+            "models": "ILX:0793563"
+        },
+        "bolser_110": {
+            "type": "nerve",
+            "models": "ILX:0738308"
         },
         "lung_1_2": {
             "class": "lung_1"
@@ -5927,7 +5958,7 @@
         },
         "vagus_7": {
             "type": "nerve",
-            "models": "FMA:77213"
+            "models": "ILX:0774697"
         },
         "vagus_8": {
             "type": "nerve",
@@ -5973,7 +6004,7 @@
             "type": "nerve",
             "models": "ILX:0790681"
         },
-        "vagus_10": {
+        "n_57_c": {
             "type": "nerve",
             "models": "ILX:0791632"
         },
@@ -6016,6 +6047,10 @@
         "bolser_103": {
             "type": "nerve",
             "models": "ILX:0738315"
+        },
+        "bolser_8_c": {
+            "type": "nerve",
+            "models": "UBERON:0001650"
         },
         "bolser_104": {
             "type": "nerve",
@@ -6491,7 +6526,7 @@
                 },
                 {
                     "id": "n_18",
-                    "models": "ILX:0740900",
+                    "models": "ILX:0793561",
                     "connects": [
                         "point_18",
                         "point_19"
@@ -6579,7 +6614,7 @@
                 },
                 {
                     "id": "n_29",
-                    "models": "ILX:0738374",
+                    "models": "ILX:0793560",
                     "connects": [
                         "point_18",
                         "point_17",
@@ -6587,8 +6622,16 @@
                     ]
                 },
                 {
-                    "id": "n_31",
+                    "id": "n_30",
                     "models": "ILX:0786680",
+                    "connects": [
+                        "point_22",
+                        "point_24"
+                    ]
+                },
+                {
+                    "id": "n_31",
+                    "models": "ILX:0791784",
                     "connects": [
                         "point_24",
                         "n_31_branching_point"
@@ -6788,6 +6831,7 @@
                 },
                 {
                     "id": "n_58",
+                    "models": "ILX:0791071",
                     "connects": [
                         "n_82_branching_point",
                         "urinary_13-1"
@@ -6999,6 +7043,7 @@
                 },
                 {
                     "id": "n_83",
+                    "models": "ILX:0793563",
                     "connects": [
                         "n_82_branching_point",
                         "digestive_10-1"
@@ -8299,6 +8344,7 @@
                 },
                 {
                     "id": "bolser_13",
+                    "models": "ILX:0738313",
                     "connects": [
                         "ganglion_12-1",
                         "point_42"
@@ -8306,6 +8352,7 @@
                 },
                 {
                     "id": "bolser_14",
+                    "models": "ILX:0790205",
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "respiratory_11-1"
@@ -8348,6 +8395,7 @@
                 },
                 {
                     "id": "PH_GN",
+                    "models": "ILX:0789339",
                     "connects": [
                         "ganglion_12-1",
                         "point_45"
