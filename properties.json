@@ -5948,10 +5948,6 @@
             "type": "nerve",
             "models": "ILX:0788232"
         },
-        "superior_laryngeal_17": {
-            "type": "nerve",
-            "models": "ILX:0785069"
-        },
         "superior_laryngeal_18": {
             "type": "nerve",
             "models": "ILX:0786237"
@@ -6039,10 +6035,6 @@
         "bolser_101": {
             "type": "nerve",
             "models": "UBERON:0001884"
-        },
-        "bolser_102": {
-            "type": "nerve",
-            "models": "UBERON:0001650"
         },
         "bolser_103": {
             "type": "nerve",
