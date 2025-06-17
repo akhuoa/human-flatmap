@@ -1,33 +1,5 @@
 [
     {
-        "id": "ILX:0791148",
-        "name": "Anterior root of fifth lumbar nerve",
-        "aliases": [
-            "EMAPA:25277"
-        ]
-    },
-    {
-        "id": "ILX:0785421",
-        "name": "Anterior root of first lumbar nerve",
-        "aliases": [
-            "EMAPA:25269"
-        ]
-    },
-    {
-        "id": "ILX:0792853",
-        "name": "Anterior root of first sacral nerve",
-        "aliases": [
-            "EMAPA:25281"
-        ]
-    },
-    {
-        "id": "ILX:0788675",
-        "name": "Anterior root of second lumbar nerve",
-        "aliases": [
-            "EMAPA:25271"
-        ]
-    },
-    {
         "id": "UBERON:0001508",
         "name": "arch of aorta",
         "aliases": [
