@@ -5802,7 +5802,7 @@
         },
         "vagus_1": {
             "type": "nerve",
-            "models": "FMA:6232"
+            "models": "ILX:0793829"
         },
         "vagus_2": {
             "type": "nerve",
@@ -6006,7 +6006,7 @@
         },
         "vagus_11": {
             "type": "nerve",
-            "models": "FMA:6231"
+            "models": "ILX:0793828"
         },
         "pharyngeal_vagus_1": {
             "type": "nerve",
@@ -6030,7 +6030,7 @@
         },
         "vagus_14": {
             "type": "nerve",
-            "models": "FMA:6233"
+            "models": "ILX:0793830"
         },
         "bolser_101": {
             "type": "nerve",
