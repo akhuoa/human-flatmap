@@ -644,7 +644,7 @@
         "name": "soft palate"
     },
     "digestive_80": {
-        "term": "FMA:12516",
+        "term": "UBERON:0001091",
         "name": "tooth"
     },
     "digestive_81": {
@@ -1136,11 +1136,11 @@
         "name": "sympathetic trunk"
     },
     "spinal_48": {
-        "term": "FMA:5875",
+        "term": "ILX:0794742",
         "name": "White communicating ramus"
     },
     "spinal_49": {
-        "term": "FMA:5876",
+        "term": "ILX:0794739",
         "name": "Gray communicating ramus"
     },
     "spinal_50": {
@@ -1360,7 +1360,7 @@
         "name": "Telencephalon"
     },
     "brain_50": {
-        "term": "FMA:62493",
+        "term": "UBERON:0001954",
         "name": "hippocampus"
     },
     "brain_51": {
