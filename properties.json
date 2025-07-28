@@ -6561,7 +6561,7 @@
                     "models": "ILX:0790501",
                     "connects": [
                         "point_20",
-                        "respiratory_30-1"
+                        "respiratory_5-1"
                     ]
                 },
                 {
@@ -6809,7 +6809,7 @@
                     "id": "n_56",
                     "models": "ILX:0774697",
                     "connects": [
-                        "n_82_branching_point",
+                        "point_34",
                         "digestive_9-1"
                     ]
                 },
@@ -6825,8 +6825,8 @@
                     "id": "n_58",
                     "models": "ILX:0791071",
                     "connects": [
-                        "n_82_branching_point",
-                        "urinary_13-1"
+                        "point_36",
+                        "urinary_18-1"
                     ]
                 },
                 {
@@ -6992,7 +6992,6 @@
                     "id": "n_77",
                     "connects": [
                         "point_31",
-                        "n_77_branching_point",
                         "respiratory_2-1"
                     ]
                 },
@@ -7067,7 +7066,6 @@
                     "id": "n_89",
                     "connects": [
                         "point_31",
-                        "n_51_branching_point",
                         "respiratory_2-1"
                     ]
                 },
@@ -8169,7 +8167,6 @@
                     "connects": [
                         "ardell_1_start-1",
                         "ardell_1_start-2",
-                        "ardell_1_start-3",
                         "ardell_1_start-4",
                         "ardell_1_start-5",
                         "ardell_1_start-6",
@@ -8446,7 +8443,6 @@
                     "models": "UBERON:0001964",
                     "connects": [
                         "splanchnic_n_start-12",
-                        "splanchnic_n_start-13",
                         "splanchnic_n_start-14",
                         "splanchnic_n_branching_point"
                     ]
