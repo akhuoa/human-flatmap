@@ -4,7 +4,7 @@
     "biological-sex": "PATO:0000384",
     "description": "male.description.json",
     "properties": "properties.json",
-    "sckan-version": "sckan-2024-08-29",
+    "sckan-version": "sckan-2024-09-21",
     "sources": [
         {
             "id": "whole-human",
@@ -16,5 +16,6 @@
     "connectivityTerms": "connectivity_terms_male.json",
     "neuronConnectivity": [
         "NPO"
-    ]
+    ],
+    "proxyFeatures": "proxy_features.json"
 }

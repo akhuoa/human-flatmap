@@ -1,0 +1,404 @@
+[
+    {
+        "feature": "UBERON:0000044",
+        "name": "dorsal root ganglion",
+        "proxies": [
+            "ILX:0786417"
+        ]
+    },
+    {
+        "feature": "UBERON:0002850",
+        "name": "seventh thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0788647"
+        ]
+    },
+    {
+        "feature": "UBERON:0002851",
+        "name": "eighth thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0791153"
+        ]
+    },
+    {
+        "feature": "UBERON:0002852",
+        "name": "ninth thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0788711"
+        ]
+    },
+    {
+        "feature": "UBERON:0002853",
+        "name": "tenth thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0786372"
+        ]
+    },
+    {
+        "feature": "UBERON:0002854",
+        "name": "eleventh thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0785659"
+        ]
+    },
+    {
+        "feature": "UBERON:0002855",
+        "name": "twelfth thoracic spinal ganglion",
+        "proxies": [
+            "ILX:0786989"
+        ]
+    },
+    {
+        "feature": "UBERON:0002857",
+        "name": "first lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0787285"
+        ]
+    },
+    {
+        "feature": "UBERON:0002856",
+        "name": "second lumbar spinal ganglion",
+        "proxies": [
+            "ILX:0785743"
+        ]
+    },
+    {
+        "feature": "UBERON:0002858",
+        "name": "third lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0786189"
+        ]
+    },
+    {
+        "feature": "UBERON:0002861",
+        "name": "second sacral spinal ganglion",
+        "proxies": [
+            "ILX:0791957"
+        ]
+    },
+    {
+        "feature": "UBERON:0002862",
+        "name": "third sacral spinal ganglion",
+        "proxies": [
+            "ILX:0784655"
+        ]
+    },
+    {
+        "feature": "UBERON:0007713",
+        "name": "fourth sacral spinal ganglion",
+        "proxies": [
+            "ILX:0791720"
+        ]
+    },
+    {
+        "feature": "UBERON:0002261",
+        "name": "dorsal root of spinal cord",
+        "proxies": [
+            "ILX:0792995",
+            "ILX:0786402",
+            "ILX:0785098",
+            "ILX:0785947",
+            "ILX:0784709",
+            "ILX:0790532",
+            "ILX:0785877",
+            "ILX:0787750"
+        ]
+    },
+    {
+        "feature": "ILX:0784605",
+        "name": "posterior root of seventh thoracic nerve",
+        "proxies": [
+            "ILX:0787781"
+        ]
+    },
+    {
+        "feature": "ILX:0792624",
+        "name": "posterior root of eight thoracic nerve",
+        "proxies": [
+            "ILX:0786793"
+        ]
+    },
+    {
+        "feature": "ILX:0789741",
+        "name": "posterior root of ninth thoracic nerve",
+        "proxies": [
+            "ILX:0786813"
+        ]
+    },
+    {
+        "feature": "ILX:0789892",
+        "name": "posterior root of tenth thoracic nerve",
+        "proxies": [
+            "ILX:0792995"
+        ]
+    },
+    {
+        "feature": "ILX:0790338",
+        "name": "posterior root of eleventh thoracic nerve",
+        "proxies": [
+            "ILX:0786402"
+        ]
+    },
+    {
+        "feature": "ILX:0787665",
+        "name": "posterior root of twelfth thoracic nerve",
+        "proxies": [
+            "ILX:0785098"
+        ]
+    },
+    {
+        "feature": "ILX:0787779",
+        "name": "posterior root of first lumbar nerve",
+        "proxies": [
+            "ILX:0785947"
+        ]
+    },
+    {
+        "feature": "ILX:0792058",
+        "name": "posterior root of second lumbar nerve",
+        "proxies": [
+            "ILX:0784709"
+        ]
+    },
+    {
+        "feature": "ILX:0787227",
+        "name": "posterior root of third lumbar nerve",
+        "proxies": [
+            "ILX:0792984"
+        ]
+    },
+    {
+        "feature": "ILX:0787722",
+        "name": "anterior root of the first thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0789946"
+        ]
+    },
+    {
+        "feature": "ILX:0790146",
+        "name": "ventral root of the fifth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0784578"
+        ]
+    },
+    {
+        "feature": "ILX:0791062",
+        "name": "ventral root of the sixth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0786171"
+        ]
+    },
+    {
+        "feature": "ILX:0789966",
+        "name": "ventral root of the seventh thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0791358"
+        ]
+    },
+    {
+        "feature": "ILX:0788026",
+        "name": "ventral root of the eighth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0791861"
+        ]
+    },
+    {
+        "feature": "ILX:0791932",
+        "name": "ventral root of the ninth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0785817"
+        ]
+    },
+    {
+        "feature": "ILX:0789968",
+        "name": "ventral root of the fourth lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0791172"
+        ]
+    },
+    {
+        "feature": "ILX:0774266",
+        "name": "T1 Sympathetic ganglion",
+        "proxies": [
+            "ILX:0789517"
+        ]
+    },
+    {
+        "feature": "ILX:0786228",
+        "name": "Second thoracic ganglion",
+        "proxies": [
+            "ILX:0786012"
+        ]
+    },
+    {
+        "feature": "ILX:0786722",
+        "name": "Third thoracic ganglion",
+        "proxies": [
+            "ILX:0790407"
+        ]
+    },
+    {
+        "feature": "ILX:0786272",
+        "name": "Fourth thoracic ganglion",
+        "proxies": [
+            "ILX:0785536"
+        ]
+    },
+    {
+        "feature": "ILX:0786141",
+        "name": "Fifth thoracic ganglion",
+        "proxies": [
+            "ILX:0786912"
+        ]
+    },
+    {
+        "feature": "ILX:0789947",
+        "name": "Sixth thoracic ganglion",
+        "proxies": [
+            "ILX:0791060"
+        ]
+    },
+    {
+        "feature": "ILX:0790482",
+        "name": "Seventh thoracic ganglion",
+        "proxies": [
+            "ILX:0785967"
+        ]
+    },
+    {
+        "feature": "ILX:0784721",
+        "name": "Eighth thoracic ganglion",
+        "proxies": [
+            "ILX:0787263"
+        ]
+    },
+    {
+        "feature": "ILX:0784378",
+        "name": "Ninth thoracic ganglion",
+        "proxies": [
+            "ILX:0787753"
+        ]
+    },
+    {
+        "feature": "ILX:0784569",
+        "name": "Tenth thoracic ganglion",
+        "proxies": [
+            "ILX:0791709"
+        ]
+    },
+    {
+        "feature": "ILX:0787015",
+        "name": "Eleventh thoracic ganglion",
+        "proxies": [
+            "ILX:0787949"
+        ]
+    },
+    {
+        "feature": "ILX:0787009",
+        "name": "Twelfth thoracic ganglion",
+        "proxies": [
+            "ILX:0789722"
+        ]
+    },
+    {
+        "feature": "ILX:0789862",
+        "name": "First lumbar ganglion",
+        "proxies": [
+            "ILX:0786768"
+        ]
+    },
+    {
+        "feature": "ILX:0788315",
+        "name": "Third lumbar ganglion",
+        "proxies": [
+            "ILX:0788304"
+        ]
+    },
+    {
+        "feature": "ILX:0790472",
+        "name": "Fourth lumbar ganglion",
+        "proxies": [
+            "ILX:0792531"
+        ]
+    },
+    {
+        "feature": "ILX:0789109",
+        "name": "First sacral ganglion",
+        "proxies": [
+            "ILX:0787464"
+        ]
+    },
+    {
+        "feature": "UBERON:0001989",
+        "name": "superior cervical ganglion",
+        "proxies": [
+            "ILX:0784822"
+        ]
+    },
+    {
+        "feature": "UBERON:0001990",
+        "name": "middle cervical ganglion",
+        "proxies": [
+            "ILX:0791801"
+        ]
+    },
+    {
+        "feature": "UBERON:0002440",
+        "name": "inferior cervical ganglion",
+        "proxies": [
+            "ILX:0794890"
+        ]
+    },
+    {
+        "feature": "ILX:0785238",
+        "name": "second sacral nerve",
+        "proxies": [
+            "ILX:0790323"
+        ]
+    },
+    {
+        "feature": "ILX:0788532",
+        "name": "third sacral nerve",
+        "proxies": [
+            "ILX:0787077"
+        ]
+    },
+    {
+        "feature": "ILX:0788777",
+        "name": "fourth sacral nerve",
+        "proxies": [
+            "ILX:0786250"
+        ]
+    },
+    {
+        "feature": "UBERON:0002113",
+        "name": "kidney",
+        "proxies": [
+            "UBERON:0004538",
+            "UBERON:0004539"
+        ]
+    },
+    {
+        "feature": "UBERON:0001184",
+        "name": "renal artery",
+        "proxies": [
+            "UBERON:0001185",
+            "UBERON:0001186"
+        ]
+    },
+    {
+        "feature": "UBERON:0000992",
+        "name": "ovary",
+        "proxies": [
+            "UBERON:0002118",
+            "UBERON:0002119"
+        ]
+    },
+    {
+        "feature": "UBERON:0002836",
+        "name": "lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0786189"
+        ]
+    }
+]

@@ -31,17 +31,9 @@
         "term": "UBERON:0035965",
         "name": "wall of blood vessel"
     },
-    "urinary_9": {
-        "term": "UBERON:0000483",
-        "name": "epithelium"
-    },
     "urinary_10": {
         "term": "UBERON:0004230",
         "name": "urinary bladder neck smooth muscle"
-    },
-    "urinary_11": {
-        "term": "UBERON:0035965",
-        "name": "wall of blood vessel"
     },
     "urinary_12": {
         "term": "UBERON:0000056",
@@ -652,7 +644,7 @@
         "name": "soft palate"
     },
     "digestive_80": {
-        "term": "FMA:12516",
+        "term": "UBERON:0001091",
         "name": "tooth"
     },
     "digestive_81": {
@@ -703,7 +695,7 @@
         "term": "UBERON:0002017",
         "name": "portal vein"
     },
-	"skeleton_1": {
+    "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
     },
@@ -995,10 +987,6 @@
         "term": "UBERON:0006493",
         "name": "C7 segment of cervical spinal cord"
     },
-    "spinal_8": {
-        "term": "UBERON:0006470",
-        "name": "C8 segment of cervical spinal cord"
-    },
     "spinal_9": {
         "term": "UBERON:0006457",
         "name": "first thoracic spinal cord segment"
@@ -1047,10 +1035,6 @@
         "term": "UBERON:0006468",
         "name": "twelfth thoracic spinal cord segment"
     },
-    "spinal_21": {
-        "term": "ILX:0738431",
-        "name": "thirteenth thoracic spinal cord segment"
-    },
     "spinal_22": {
         "term": "UBERON:0006448",
         "name": "first lumbar spinal cord segment"
@@ -1070,10 +1054,6 @@
     "spinal_26": {
         "term": "UBERON:0006447",
         "name": "fifth lumbar spinal cord segment"
-    },
-    "spinal_27": {
-        "term": "ILX:0738432",
-        "name": "Sixth lumbar spinal cord segment"
     },
     "spinal_28": {
         "term": "UBERON:0006460",
@@ -1156,11 +1136,11 @@
         "name": "sympathetic trunk"
     },
     "spinal_48": {
-        "term": "FMA:5875",
+        "term": "ILX:0794742",
         "name": "White communicating ramus"
     },
     "spinal_49": {
-        "term": "FMA:5876",
+        "term": "ILX:0794739",
         "name": "Gray communicating ramus"
     },
     "spinal_50": {
@@ -1206,6 +1186,10 @@
     "spinal_69": {
         "term": "UBERON:0006463",
         "name": "S4 segment of sacral spinal cord"
+    },
+    "spinal_70": {
+        "term": "UBERON:0006464",
+        "name": "S5 segment of sacral spinal cord"
     },
     "brain_1": {
         "term": "UBERON:0001898",
@@ -1376,7 +1360,7 @@
         "name": "Telencephalon"
     },
     "brain_50": {
-        "term": "FMA:62493",
+        "term": "UBERON:0001954",
         "name": "hippocampus"
     },
     "brain_51": {
@@ -1408,7 +1392,7 @@
         "name": "hypoglossal nerve"
     },
     "bolser_13": {
-        "term": "ILX:0738373",
+        "term": "ILX:0738313",
         "name": "Internal branch of superior laryngeal nerve"
     },
     "bolser_16": {
@@ -1522,6 +1506,10 @@
     "ganglion_19": {
         "term": "ILX:0793082",
         "name": "Celiac Ganglion-Superior Mesenteric Ganglion Complex"
+    },
+    "ganglion_23": {
+        "term": "UBERON:0001675",
+        "name": "Trigeminal Ganglion"
     },
     "lung_2": {
         "term": "UBERON:0003715",
