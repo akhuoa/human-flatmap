@@ -3,7 +3,7 @@
         "feature": "UBERON:0000044",
         "name": "dorsal root ganglion",
         "proxies": [
-            "ILX:0790370"
+            "ILX:0786417"
         ]
     },
     {
@@ -392,6 +392,13 @@
         "proxies": [
             "UBERON:0002118",
             "UBERON:0002119"
+        ]
+    },
+    {
+        "feature": "UBERON:0002836",
+        "name": "lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0786189"
         ]
     }
 ]

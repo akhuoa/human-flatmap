@@ -6080,115 +6080,16 @@
             "type": "nerve",
             "models": "ILX:0793632"
         },
-        "bolser_11": {
-            "class": "bolser_5"
-        },
-        "bolser_25": {
-            "class": "bolser_5"
-        },
-        "vagus_n-1": {
-            "class": "vagus_n"
-        },
-        "vagus_n-2": {
-            "class": "vagus_n"
-        },
-        "vagus_n-3": {
-            "class": "vagus_n"
-        },
-        "vagus_n-4": {
-            "class": "vagus_n"
-        },
-        "vagus_n-5": {
-            "class": "vagus_n"
-        },
-        "vagus_n-6": {
-            "class": "vagus_n"
-        },
-        "vagus_n-7": {
-            "class": "vagus_n"
-        },
-        "vagus_n-8": {
-            "class": "vagus_n"
-        },
-        "vagus_n-9": {
-            "class": "vagus_n"
-        },
-        "vagus_n-10": {
-            "class": "vagus_n"
-        },
-        "vagus_n-11": {
-            "class": "vagus_n"
-        },
-        "vagus_n-12": {
-            "class": "vagus_n"
-        },
-        "vagus_n-13": {
-            "class": "vagus_n"
-        },
-        "vagus_n-14": {
-            "class": "vagus_n"
-        },
         "vagus": {
             "class": "vagus_n",
             "type": "nerve"
-        },
-        "vagus_n_m-1": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-2": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-3": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-4": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-5": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-6": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-7": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-8": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-9": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-10": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-11": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-12": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-13": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-14": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-15": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-16": {
-            "class": "vagus_n"
-        },
-        "vagus_n_m-17": {
-            "class": "vagus_n"
         }
     },
     "networks": [
         {
             "id": "neural",
             "type": "nerve",
-            "centrelines": [
+            "no-centrelines": [
                 {
                     "id": "n_6",
                     "models": "ILX:0793828",
@@ -6561,7 +6462,7 @@
                     "models": "ILX:0790501",
                     "connects": [
                         "point_20",
-                        "respiratory_30-1"
+                        "respiratory_5-1"
                     ]
                 },
                 {
@@ -6809,7 +6710,7 @@
                     "id": "n_56",
                     "models": "ILX:0774697",
                     "connects": [
-                        "n_82_branching_point",
+                        "point_34",
                         "digestive_9-1"
                     ]
                 },
@@ -6825,8 +6726,8 @@
                     "id": "n_58",
                     "models": "ILX:0791071",
                     "connects": [
-                        "n_82_branching_point",
-                        "urinary_13-1"
+                        "point_36",
+                        "urinary_18-1"
                     ]
                 },
                 {
@@ -6992,7 +6893,6 @@
                     "id": "n_77",
                     "connects": [
                         "point_31",
-                        "n_77_branching_point",
                         "respiratory_2-1"
                     ]
                 },
@@ -7067,7 +6967,6 @@
                     "id": "n_89",
                     "connects": [
                         "point_31",
-                        "n_51_branching_point",
                         "respiratory_2-1"
                     ]
                 },
@@ -8169,7 +8068,6 @@
                     "connects": [
                         "ardell_1_start-1",
                         "ardell_1_start-2",
-                        "ardell_1_start-3",
                         "ardell_1_start-4",
                         "ardell_1_start-5",
                         "ardell_1_start-6",
@@ -8446,7 +8344,6 @@
                     "models": "UBERON:0001964",
                     "connects": [
                         "splanchnic_n_start-12",
-                        "splanchnic_n_start-13",
                         "splanchnic_n_start-14",
                         "splanchnic_n_branching_point"
                     ]
