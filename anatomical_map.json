@@ -195,10 +195,6 @@
         "term": "UBERON:0002349",
         "name": "Myocardium"
     },
-    "cardio_30": {
-        "term": "UBERON:0015129",
-        "name": "Epicardial Fat"
-    },
     "cardio_31": {
         "term": "UBERON:0001074",
         "name": "Pericardial Cavity"
