@@ -6,12 +6,6 @@
         "ganglion_7": {
             "label": "ventricular intracardiac ganglion"
         },
-        "label_2": {
-            "label": "posterior wall of external acoustic meatus"
-        },
-        "label_3": {
-            "label": "floor of external acoustic meatus"
-        },
         "label_12": {
             "label": "mucosa of arytenoid cartilage"
         },
@@ -4101,24 +4095,6 @@
             "name": "nerve plexus along the left precaval vein",
             "type": "ganglion",
             "class": "auto-hide"
-        },
-        "label_2-1": {
-            "class": "label_2"
-        },
-        "label_3-1": {
-            "class": "label_3"
-        },
-        "label_4-1": {
-            "class": "label_4"
-        },
-        "label_5-1": {
-            "class": "label_5"
-        },
-        "label_6-1": {
-            "class": "label_6"
-        },
-        "label_7-1": {
-            "class": "label_7"
         },
         "label_8-1": {
             "class": "label_8"
