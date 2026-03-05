@@ -24,14 +24,6 @@
         "name": "inferior cervical ganglion - middle cervical ganglion interganglionic segment of the sympathetic chain",
         "aliases": [
             [
-                "ILX:0793363",
-                []
-            ],
-            [
-                "ILX:0793234",
-                []
-            ],
-            [
                 "ILX:0739241",
                 []
             ]
@@ -44,10 +36,6 @@
         ],
         "name": "t1 - inferior cervical ganglion interganglionic segment of the sympathetic chain",
         "aliases": [
-            [
-                "ILX:0793233",
-                []
-            ],
             [
                 "UBERON:0002441",
                 []
@@ -161,10 +149,6 @@
             [
                 "ILX:0795013",
                 []
-            ],
-            [
-                "ILX:0795017",
-                []
             ]
         ]
     },
@@ -226,14 +210,6 @@
                 [
                     "UBERON:0006637"
                 ]
-            ],
-            [
-                "ILX:0795012",
-                []
-            ],
-            [
-                "ILX:0795014",
-                []
             ],
             [
                 "UBERON:0018676",
@@ -1141,10 +1117,6 @@
             [
                 "UBERON:0001279",
                 []
-            ],
-            [
-                "CL:1000488",
-                []
             ]
         ]
     },
@@ -1169,10 +1141,6 @@
             ],
             [
                 "UBERON:0001172",
-                []
-            ],
-            [
-                "CL:0000182",
                 []
             ],
             [
@@ -1230,10 +1198,6 @@
         ],
         "name": "T1 segment of thoracic spinal cord",
         "aliases": [
-            [
-                "ILX:0792474",
-                []
-            ],
             [
                 "ILX:0795493",
                 []

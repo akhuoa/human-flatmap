@@ -1,36 +1,11 @@
 [
     {
         "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0000947"
-            ]
-        ],
-        "name": "tunica adventitia of artery/aorta",
-        "aliases": [
-            [
-                "UBERON:0007240",
-                [
-                    "UBERON:0001496"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
             "ILX:0738290",
             []
         ],
         "name": "inferior cervical ganglion - middle cervical ganglion interganglionic segment of the sympathetic chain",
         "aliases": [
-            [
-                "ILX:0793363",
-                []
-            ],
-            [
-                "ILX:0793234",
-                []
-            ],
             [
                 "ILX:0739241",
                 []
@@ -44,10 +19,6 @@
         ],
         "name": "t1 - inferior cervical ganglion interganglionic segment of the sympathetic chain",
         "aliases": [
-            [
-                "ILX:0793233",
-                []
-            ],
             [
                 "UBERON:0002441",
                 []
@@ -161,10 +132,6 @@
             [
                 "ILX:0795013",
                 []
-            ],
-            [
-                "ILX:0795017",
-                []
             ]
         ]
     },
@@ -226,14 +193,6 @@
                 [
                     "UBERON:0001182"
                 ]
-            ],
-            [
-                "ILX:0795012",
-                []
-            ],
-            [
-                "ILX:0795014",
-                []
             ],
             [
                 "UBERON:0018676",
@@ -845,10 +804,6 @@
             [
                 "UBERON:0004243",
                 []
-            ],
-            [
-                "ILX:0726402",
-                []
             ]
         ]
     },
@@ -896,21 +851,6 @@
             [
                 "UBERON:0009675",
                 []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0793644",
-            ["UBERON:0001158"]
-        ],
-        "name": "Arteriole in Myenteric Nerve Plexus of Descending Colon/descending colon",
-        "aliases": [
-            [
-                "ILX:0793657",
-                [
-                    "UBERON:0001158"
-                ]
             ]
         ]
     },
@@ -1028,10 +968,6 @@
             [
                 "UBERON:0001279",
                 []
-            ],
-            [
-                "CL:1000488",
-                []
             ]
         ]
     },
@@ -1056,10 +992,6 @@
             ],
             [
                 "UBERON:0001172",
-                []
-            ],
-            [
-                "CL:0000182",
                 []
             ],
             [
@@ -1117,10 +1049,6 @@
         ],
         "name": "T1 segment of thoracic spinal cord",
         "aliases": [
-            [
-                "ILX:0792474",
-                []
-            ],
             [
                 "ILX:0795493",
                 []
