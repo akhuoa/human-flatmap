@@ -77,6 +77,20 @@
         ]
     },
     {
+        "feature": "UBERON:0003943",
+        "name": "fourth lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0790370"
+        ]
+    },
+    {
+        "feature": "UBERON:0002859",
+        "name": "fifth lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0791988"
+        ]
+    },
+    {
         "feature": "UBERON:0002861",
         "name": "second sacral spinal ganglion",
         "proxies": [
@@ -101,14 +115,7 @@
         "feature": "UBERON:0002261",
         "name": "dorsal root of spinal cord",
         "proxies": [
-            "ILX:0792995",
-            "ILX:0786402",
-            "ILX:0785098",
-            "ILX:0785947",
-            "ILX:0784709",
-            "ILX:0790532",
-            "ILX:0785877",
-            "ILX:0787750"
+            "ILX:0788285"
         ]
     },
     {
@@ -179,6 +186,27 @@
         "name": "anterior root of the first thoracic spinal cord segment",
         "proxies": [
             "ILX:0789946"
+        ]
+    },
+    {
+        "feature": "ILX:0789894",
+        "name": "Ventral root of the second thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0784708"
+        ]
+    },
+    {
+        "feature": "ILX:0784804",
+        "name": "Ventral root of the third thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0789187"
+        ]
+    },
+    {
+        "feature": "ILX:0792838",
+        "name": "Ventral root of the fourth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0785361"
         ]
     },
     {
@@ -315,6 +343,13 @@
         ]
     },
     {
+        "feature": "ILX:0786933",
+        "name": "Second lumbar ganglion",
+        "proxies": [
+            "ILX:0792386"
+        ]
+    },
+    {
         "feature": "ILX:0788315",
         "name": "Third lumbar ganglion",
         "proxies": [
@@ -406,6 +441,406 @@
         "name": "lumbar dorsal root ganglion",
         "proxies": [
             "ILX:0786189"
+        ]
+    },
+    {
+        "feature": "ILX:0738372",
+        "name": "White communicating ramus of first thoracic spinal nerve",
+        "proxies": [
+            "ILX:0789706"
+        ]
+    },
+    {
+        "feature": "ILX:0793208",
+        "name": "White communicating ramus of second thoracic spinal nerve",
+        "proxies": [
+            "ILX:0784453"
+        ]
+    },
+    {
+        "feature": "ILX:0793209",
+        "name": "White communicating ramus of third thoracic spinal nerve",
+        "proxies": [
+            "ILX:0786631"
+        ]
+    },
+    {
+        "feature": "ILX:0793210",
+        "name": "White communicating ramus of fourth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0784621"
+        ]
+    },
+    {
+        "feature": "ILX:0793211",
+        "name": "White communicating ramus of fifth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0791498"
+        ]
+    },
+    {
+        "feature": "ILX:0793212",
+        "name": "White communicating ramus of sixth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0792201"
+        ]
+    },
+    {
+        "feature": "ILX:0793213",
+        "name": "White communicating ramus of seventh thoracic spinal nerve",
+        "proxies": [
+            "ILX:0786071"
+        ]
+    },
+    {
+        "feature": "ILX:0793214",
+        "name": "White communicating ramus of eighth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0792831"
+        ]
+    },
+    {
+        "feature": "ILX:0793215",
+        "name": "White communicating ramus of ninth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0786061"
+        ]
+    },
+    {
+        "feature": "ILX:0793216",
+        "name": "White communicating ramus of tenth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0784598"
+        ]
+    },
+    {
+        "feature": "ILX:0793217",
+        "name": "White communicating ramus of eleventh thoracic spinal nerve",
+        "proxies": [
+            "ILX:0790247"
+        ]
+    },
+    {
+        "feature": "ILX:0793218",
+        "name": "White communicating ramus of twelfth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0796939"
+        ]
+    },
+    {
+        "feature": "ILX:0793220",
+        "name": "White communicating ramus of first lumbar spinal nerve",
+        "proxies": [
+            "ILX:0791910"
+        ]
+    },
+    {
+        "feature": "ILX:0793221",
+        "name": "White communicating ramus of second lumbar spinal nerve",
+        "proxies": [
+            "ILX:0790534"
+        ]
+    },
+    {
+        "feature": "ILX:0793361",
+        "name": "White communicating ramus of third lumbar spinal nerve",
+        "proxies": [
+            "ILX:0784796"
+        ]
+    },
+    {
+        "feature": "ILX:0787082",
+        "name": "Gray communicating ramus of first intercostal nerve",
+        "proxies": [
+            "ILX:0791865"
+        ]
+    },
+    {
+        "feature": "ILX:0739303",
+        "name": "Gray communicating ramus of second intercostal nerve",
+        "proxies": [
+            "ILX:0792452"
+        ]
+    },
+    {
+        "feature": "ILX:0787562",
+        "name": "Gray communicating ramus of third intercostal nerve",
+        "proxies": [
+            "ILX:0788842"
+        ]
+    },
+    {
+        "feature": "ILX:0788945",
+        "name": "Gray communicating ramus of fourth intercostal nerve",
+        "proxies": [
+            "ILX:0785311"
+        ]
+    },
+    {
+        "feature": "ILX:0784439",
+        "name": "Gray communicating ramus of fifth intercostal nerve",
+        "proxies": [
+            "ILX:0787369"
+        ]
+    },
+    {
+        "feature": "ILX:0787946",
+        "name": "Gray communicating ramus of sixth intercostal nerve",
+        "proxies": [
+            "ILX:0792099"
+        ]
+    },
+    {
+        "feature": "ILX:0788771",
+        "name": "Gray communicating ramus of seventh intercostal nerve",
+        "proxies": [
+            "ILX:0792878"
+        ]
+    },
+    {
+        "feature": "ILX:0791560",
+        "name": "Gray communicating ramus of eighth intercostal nerve",
+        "proxies": [
+            "ILX:0785921"
+        ]
+    },
+    {
+        "feature": "ILX:0785542",
+        "name": "Gray communicating ramus of ninth intercostal nerve",
+        "proxies": [
+            "ILX:0787012"
+        ]
+    },
+    {
+        "feature": "ILX:0792409",
+        "name": "Gray communicating ramus of tenth intercostal nerve",
+        "proxies": [
+            "ILX:0791007"
+        ]
+    },
+    {
+        "feature": "ILX:0785067",
+        "name": "Gray communicating ramus of eleventh intercostal nerve",
+        "proxies": [
+            "ILX:0784673"
+        ]
+    },
+    {
+        "feature": "ILX:0739298",
+        "name": "Gray communicating ramus of twelfth intercostal nerve",
+        "proxies": [
+            "ILX:0796937"
+        ]
+    },
+    {
+        "feature": "ILX:0785825",
+        "name": "Gray communicating ramus of first lumbar nerve",
+        "proxies": [
+            "ILX:0796955"
+        ]
+    },
+    {
+        "feature": "ILX:0785733",
+        "name": "Gray communicating ramus of second lumbar nerve",
+        "proxies": [
+            "ILX:0796959"
+        ]
+    },
+    {
+        "feature": "ILX:0785932",
+        "name": "Gray communicating ramus of third lumbar nerve",
+        "proxies": [
+            "ILX:0796965"
+        ]
+    },
+    {
+        "feature": "ILX:0788536",
+        "name": "Gray communicating ramus of fourth lumbar nerve",
+        "proxies": [
+            "ILX:0796967"
+        ]
+    },
+    {
+        "feature": "ILX:0793228",
+        "name": "Gray communicating ramus of first sacral nerve",
+        "proxies": [
+            "ILX:0797025"
+        ]
+    },
+    {
+        "feature": "UBERON:0002369",
+        "name": "Adrenal gland",
+        "proxies": [
+            "UBERON:0001233",
+            "UBERON:0001234"
+        ]
+    },
+    {
+        "feature": "UBERON:0004170",
+        "name": "Spinal cord ventral commissure",
+        "proxies": [
+            "UBERON:0006469"
+        ]
+    },
+    {
+        "feature": "UBERON:0002014",
+        "name": "inferior hypogastric nerve plexus",
+        "proxies": [
+            "UBERON:0016508"
+        ]
+    },
+    {
+        "feature": "UBERON:0001645",
+        "name": "trigeminal nerve",
+        "proxies": [
+            "ILX:0792877"
+        ]
+    },
+    {
+        "feature": "ILX:0788670",
+        "name": "ventral root of the tenth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0787993"
+        ]
+    },
+    {
+        "feature": "ILX:0790602",
+        "name": "ventral root of the eleventh thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0787220"
+        ]
+    },
+    {
+        "feature": "ILX:0792048",
+        "name": "ventral root of the twelfth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0787115"
+        ]
+    },
+    {
+        "feature": "ILX:0785421",
+        "name": "ventral root of the first lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0791012"
+        ]
+    },
+    {
+        "feature": "ILX:0788675",
+        "name": "ventral root of the second lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0786495"
+        ]
+    },
+    {
+        "feature": "ILX:0787520",
+        "name": "ventral root of the third lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0788492"
+        ]
+    },
+    {
+        "feature": "ILX:0791148",
+        "name": "ventral root of the fifth lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0788078"
+        ]
+    },
+    {
+        "feature": "ILX:0792853",
+        "name": "ventral root of the first sacral spinal cord segment",
+        "proxies": [
+            "ILX:0784891"
+        ]
+    },
+    {
+        "feature": "ILX:0786747",
+        "name": "Posterior root of fourth lumbar nerve",
+        "proxies": [
+            "ILX:0788504"
+        ]
+    },
+    {
+        "feature": "ILX:0791633",
+        "name": "Posterior root of first sacral nerve",
+        "proxies": [
+            "ILX:0789717"
+        ]
+    },
+    {
+        "feature": "ILX:0788723",
+        "name": "Posterior root of second sacral nerve",
+        "proxies": [
+            "ILX:0790532"
+        ]
+    },
+    {
+        "feature": "ILX:0786145",
+        "name": "Posterior root of third sacral nerve",
+        "proxies": [
+            "ILX:0785877"
+        ]
+    },
+    {
+        "feature": "ILX:0785338",
+        "name": "Posterior root of fourth sacral nerve",
+        "proxies": [
+            "ILX:0787750"
+        ]
+    },
+    {
+        "feature": "UBERON:0007711",
+        "name": "sixth cervical dorsal root ganglion",
+        "proxies": [
+            "ILX:0791862"
+        ]
+    },
+    {
+        "feature": "UBERON:0002843",
+        "name": "seventh cervical dorsal root ganglion",
+        "proxies": [
+            "ILX:0789091"
+        ]
+    },
+    {
+        "feature": "UBERON:0002845",
+        "name": "first thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0792148"
+        ]
+    },
+    {
+        "feature": "UBERON:0002846",
+        "name": "seconds thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0789962"
+        ]
+    },
+    {
+        "feature": "UBERON:0002847",
+        "name": "third thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0789643"
+        ]
+    },
+    {
+        "feature": "UBERON:0007712",
+        "name": "fourth thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0784420"
+        ]
+    },
+    {
+        "feature": "UBERON:0002848",
+        "name": "fifth thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0788772"
+        ]
+    },
+    {
+        "feature": "UBERON:0002860",
+        "name": "first sacral dorsal root ganglion",
+        "proxies": [
+            "ILX:0785106"
         ]
     }
 ]

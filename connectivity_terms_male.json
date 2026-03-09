@@ -1,36 +1,11 @@
 [
     {
         "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0000947"
-            ]
-        ],
-        "name": "tunica adventitia of artery/aorta",
-        "aliases": [
-            [
-                "UBERON:0007240",
-                [
-                    "UBERON:0001496"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
             "ILX:0738290",
             []
         ],
         "name": "inferior cervical ganglion - middle cervical ganglion interganglionic segment of the sympathetic chain",
         "aliases": [
-            [
-                "ILX:0793363",
-                []
-            ],
-            [
-                "ILX:0793234",
-                []
-            ],
             [
                 "ILX:0739241",
                 []
@@ -44,10 +19,6 @@
         ],
         "name": "t1 - inferior cervical ganglion interganglionic segment of the sympathetic chain",
         "aliases": [
-            [
-                "ILX:0793233",
-                []
-            ],
             [
                 "UBERON:0002441",
                 []
@@ -161,10 +132,6 @@
             [
                 "ILX:0795013",
                 []
-            ],
-            [
-                "ILX:0795017",
-                []
             ]
         ]
     },
@@ -228,15 +195,23 @@
                 ]
             ],
             [
-                "ILX:0795012",
-                []
-            ],
-            [
-                "ILX:0795014",
-                []
-            ],
-            [
                 "UBERON:0018676",
+                []
+            ],
+            [
+                "ILX:0795513",
+                []
+            ],
+            [
+                "ILX:0795514",
+                []
+            ],
+            [
+                "ILX:0795515",
+                []
+            ],
+            [
+                "ILX:0795516",
                 []
             ]
         ]
@@ -304,44 +279,6 @@
             [
                 "UBERON:0003535",
                 []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002106",
-            []
-        ],
-        "name": "spleen",
-        "aliases": [
-            [
-                "ILX:0793563",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001043",
-            []
-        ],
-        "name": "esophagus",
-        "aliases": [
-            [
-                "UBERON:0009961",
-                [
-                    "UBERON:0013473"
-                ]
-            ],
-            [
-                "UBERON:0013473",
-                []
-            ],
-            [
-                "UBERON:0001975",
-                [
-                    "UBERON:0013473"
-                ]
             ]
         ]
     },
@@ -492,13 +429,13 @@
     },
     {
         "id": [
-            "ILX:0791105",
+            "ILX:0739303",
             []
         ],
         "name": "gray communicating ramus of the second thoracic nerve",
         "aliases": [
             [
-                "ILX:0739303",
+                "ILX:0791105",
                 []
             ]
         ]
@@ -512,19 +449,6 @@
         "aliases": [
             [
                 "ILX:0739304",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002115",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0793735",
                 []
             ]
         ]
@@ -578,19 +502,6 @@
     },
     {
         "id": [
-            "UBERON:0010061",
-            []
-        ],
-        "name": "lumen of nasopharynx",
-        "aliases": [
-            [
-                "UBERON:0001826",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0006461",
             []
         ],
@@ -631,8 +542,20 @@
         "name": "adrenal gland",
         "aliases": [
             [
+                "UBERON:0001235",
+                [
+                    "UBERON:0002369"
+                ]
+            ],
+            [
                 "UBERON:0001236",
                 []
+            ],
+            [
+                "UBERON:0001236",
+                [
+                    "UBERON:0002369"
+                ]
             ]
         ]
     },
@@ -673,7 +596,7 @@
                 []
             ],
             [
-                "UBERON:0002014",
+                "ILX:0793823",
                 []
             ]
         ]
@@ -691,19 +614,6 @@
             ],
             [
                 "UBERON:0011183",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0004713",
-            []
-        ],
-        "name": "",
-        "aliases":[
-            [
-                "ILX:0793807",
                 []
             ]
         ]
@@ -946,159 +856,6 @@
     },
     {
         "id": [
-            "UBERON:0003335",
-            ["UBERON:0001158"]
-        ],
-        "name": "serosa of colon/descending colon",
-        "aliases": [
-            [
-                "ILX:0771089",
-                [
-                    "UBERON:0001158"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:8410061",
-            ["UBERON:0001158"]
-        ],
-        "name": "colon smooth muscle longitudinal layer/descending colon",
-        "aliases": [
-            [
-                "ILX:0776070",
-                [
-                    "UBERON:0001158"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0793644",
-            ["UBERON:0001158"]
-        ],
-        "name": "Arteriole in Myenteric Nerve Plexus of Descending Colon/descending colon",
-        "aliases": [
-            [
-                "ILX:0793657",
-                [
-                    "UBERON:0001158"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:8410060",
-            ["UBERON:0001158"]
-        ],
-        "name": "Circular Muscle Layer of Colon/descending colon",
-        "aliases": [
-            [
-                "ILX:0773760",
-                [
-                    "UBERON:0001158"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0007177",
-            ["UBERON:0001158"]
-        ],
-        "name": "lamina propria of mucosa of colon/descending colon",
-        "aliases": [
-            [
-                "ILX:0770759",
-                [
-                    "UBERON:0001158"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001981",
-            ["ILX:0793645"]
-        ],
-        "name": "blood vessel/Arteriole in serosa of descending colon",
-        "aliases": [
-            [
-                "UBERON:0035965",
-                ["ILX:0793645"]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001981",
-            ["ILX:0793643"]
-        ],
-        "name": "blood vessel/longitudinal muscle layer of descending colon",
-        "aliases": [
-            [
-                "UBERON:0035965",
-                ["ILX:0793643"]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001981",
-            ["ILX:0793642"]
-        ],
-        "name": "blood vessel/Arteriole in lamina propria of mucosa of descending colon",
-        "aliases": [
-            [
-                "UBERON:0035965",
-                ["ILX:0793642"]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001981",
-            ["ILX:0793641"]
-        ],
-        "name": "blood vessel/Arteriole in circular muscle layer of descending colon",
-        "aliases": [
-            [
-                "UBERON:0035965",
-                ["ILX:0793641"]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001981",
-            ["ILX:0793646"]
-        ],
-        "name": "blood vessel/Arteriole in submucous nerve plexus of descending colon",
-        "aliases": [
-            [
-                "UBERON:0035965",
-                ["ILX:0793646"]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001981",
-            ["ILX:0793644"]
-        ],
-        "name": "blood vessel/Arteriole in myenteric nerve plexus of descending colon",
-        "aliases": [
-            [
-                "UBERON:0035965",
-                ["ILX:0793644"]
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0018680",
             []
         ],
@@ -1211,10 +968,6 @@
             [
                 "UBERON:0001279",
                 []
-            ],
-            [
-                "CL:1000488",
-                []
             ]
         ]
     },
@@ -1239,10 +992,6 @@
             ],
             [
                 "UBERON:0001172",
-                []
-            ],
-            [
-                "CL:0000182",
                 []
             ],
             [
@@ -1288,7 +1037,7 @@
                 []
             ],
             [
-                "CL:0009094",
+                "UBERON:0001639",
                 []
             ]
         ]
@@ -1301,7 +1050,7 @@
         "name": "T1 segment of thoracic spinal cord",
         "aliases": [
             [
-                "ILX:0792474",
+                "ILX:0795493",
                 []
             ]
         ]
@@ -1481,6 +1230,250 @@
         "aliases": [
             [
                 "ILX:0793811",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002114",
+            []
+        ],
+        "name": "duodenum",
+        "aliases": [
+            [
+                "ILX:0771006",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793656",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "myenteric nerve plexus of stomach/distal stomach",
+        "aliases": [
+            [
+                "UBERON:0002439",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0008863",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "stomach smooth muscle outer longitudinal layer/distal stomach",
+        "aliases": [
+            [
+                "UBERON:0008863",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001201",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "serosa of stomach/distal stomach",
+        "aliases": [
+            [
+                "UBERON:0004782",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793656",
+            [
+                "UBERON:0002114"
+            ]
+        ],
+        "name": "myenteric nerve plexus of stomach/duodenum",
+        "aliases": [
+            [
+                "UBERON:0002439",
+                [
+                    "ILX:0774562"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0008863",
+            [
+                "UBERON:0002114"
+            ]
+        ],
+        "name": "stomach smooth muscle outer longitudinal layer/duodenum",
+        "aliases": [
+            [
+                "UBERON:0008863",
+                [
+                    "ILX:0774562"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0004782",
+            [
+                "UBERON:0002114"
+            ]
+        ],
+        "name": "gastrointestinal system serosa/duodenum",
+        "aliases": [
+            [
+                "UBERON:0004782",
+                [
+                    "ILX:0774562"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793658",
+            []
+        ],
+        "name": "Proximal stomach",
+        "aliases": [
+            [
+                "UBERON:0005477",
+                []
+            ],
+            [
+                "UBERON:0001161",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793558",
+            []
+        ],
+        "name": "Distal stomach",
+        "aliases": [
+            [
+                "UBERON:0001165",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793656",
+            []
+        ],
+        "name": "myenteric nerve plexus of stomach",
+        "aliases": [
+            [
+                "ILX:0795344",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006457"
+            ]
+        ],
+        "name": "gray matter of spinal cord/T1 segment of thoracic spinal cord",
+        "aliases": [
+            [
+                "ILX:0797432",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006458"
+            ]
+        ],
+        "name": "gray matter of spinal cord/T2 segment of thoracic spinal cord",
+        "aliases": [
+            [
+                "ILX:0797433",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006459"
+            ]
+        ],
+        "name": "gray matter of spinal cord/T3 segment of thoracic spinal cord",
+        "aliases": [
+            [
+                "ILX:0797434",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006455"
+            ]
+        ],
+        "name": "gray matter of spinal cord/T7 segment of thoracic spinal cord",
+        "aliases": [
+            [
+                "ILX:0796498",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0018680",
+            []
+        ],
+        "name": "greater splanchnic nerve",
+        "aliases": [
+            [
+                "ILX:0796950",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0018681",
+            []
+        ],
+        "name": "lesser splanchnic nerve",
+        "aliases": [
+            [
+                "ILX:0796952",
                 []
             ]
         ]
