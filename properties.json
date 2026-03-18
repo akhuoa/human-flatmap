@@ -6,12 +6,6 @@
         "ganglion_7": {
             "label": "ventricular intracardiac ganglion"
         },
-        "label_2": {
-            "label": "posterior wall of external acoustic meatus"
-        },
-        "label_3": {
-            "label": "floor of external acoustic meatus"
-        },
         "label_12": {
             "label": "mucosa of arytenoid cartilage"
         },
@@ -2635,20 +2629,11 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "ganglion_23-1": {
-            "class": "ganglion_23"
-        },
         "trigeminal_ganglion": {
             "class": "ganglion_23"
         },
         "trigeminal_nerve_afferent_cn_v_and_ganglion": {
             "class": "ganglion_23"
-        },
-        "ganglion_24-1": {
-            "models": "ILX:0793833",
-            "name": "Ovarian nerve plexus parasympathetic ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
         },
         "ganglion_25-1": {
             "models": "ILX:0794910",
@@ -2677,6 +2662,72 @@
         "ganglion_27-2": {
             "models": "ILX:0795057",
             "name": "renal nerve plexus ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_28-1": {
+            "models": "ILX:0793734",
+            "name": "Myenteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_29-1": {
+            "models": "ILX:0793735",
+            "name": "Myenteric ganglion of small intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_30-1": {
+            "models": "UBERON:0001809",
+            "name": "Enteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_31-1": {
+            "models": "ILX:0795348",
+            "name": "submucosal nerve plexus ganglion of small intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_32-1": {
+            "models": "ILX:0795345",
+            "name": "myenteric nerve plexus ganglion of large intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_33-1": {
+            "models": "ILX:0795350",
+            "name": "submucosal nerve plexus ganglion of rectum",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_34-1": {
+            "models": "ILX:0795351",
+            "name": "submucosal nerve plexus ganglion of anus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_35-1": {
+            "models": "ILX:0795343",
+            "name": "myenteric nerve plexus ganglion of esophagus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_36-1": {
+            "models": "ILX:0795346",
+            "name": "myenteric nerve plexus ganglion of rectum",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_37-1": {
+            "models": "ILX:0795347",
+            "name": "myenteric nerve plexus ganglion of anus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_38-1": {
+            "models": "ILX:0795349",
+            "name": "submucosal nerve plexus ganglion of large intestine",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -2793,6 +2844,24 @@
         },
         "brain_52-1": {
             "class": "brain_52"
+        },
+        "brain_53-1": {
+            "class": "brain_53"
+        },
+        "brain_54-1": {
+            "class": "brain_54"
+        },
+        "brain_55-1": {
+            "class": "brain_55"
+        },
+        "brain_56-1": {
+            "class": "brain_56"
+        },
+        "brain_57-1": {
+            "class": "brain_57"
+        },
+        "brain_58-1": {
+            "class": "brain_58"
         },
         "trochlear_nucleus": {
             "models": "UBERON:0002722",
@@ -2926,6 +2995,9 @@
         "cardio_13-1": {
             "class": "cardio_13"
         },
+        "cardio_16-1": {
+            "class": "cardio_16"
+        },
         "cardio_18-1": {
             "class": "cardio_18"
         },
@@ -2996,9 +3068,6 @@
             "class": "cardio_34"
         },
         "cardio_35-1": {
-            "class": "cardio_35"
-        },
-        "cardio_35-2": {
             "class": "cardio_35"
         },
         "cardio_36-1": {
@@ -3145,6 +3214,9 @@
         "digestive_55-2": {
             "class": "digestive_55"
         },
+        "digestive_55-3": {
+            "class": "digestive_55"
+        },
         "digestive_56-2": {
             "class": "digestive_56"
         },
@@ -3192,6 +3264,12 @@
         },
         "digestive_70-1": {
             "class": "digestive_70"
+        },
+        "digestive_71-1": {
+            "class": "digestive_71"
+        },
+        "digestive_72-1": {
+            "class": "digestive_72"
         },
         "digestive_73-1": {
             "class": "digestive_73"
@@ -3256,8 +3334,77 @@
         "digestive_92-1": {
             "class": "digestive_92"
         },
+        "digestive_93-1": {
+            "class": "digestive_93"
+        },
+        "digestive_94-1": {
+            "class": "digestive_94"
+        },
+        "digestive_95-1": {
+            "class": "digestive_95"
+        },
+        "digestive_96-1": {
+            "class": "digestive_96"
+        },
+        "digestive_97-1": {
+            "class": "digestive_97"
+        },
+        "digestive_98-1": {
+            "class": "digestive_98"
+        },
+        "digestive_99-1": {
+            "class": "digestive_99"
+        },
         "digestive_9-1": {
             "class": "digestive_9"
+        },
+        "digestive_100-1": {
+            "class": "digestive_100"
+        },
+        "digestive_101-1": {
+            "class": "digestive_101"
+        },
+        "digestive_102-1": {
+            "class": "digestive_102"
+        },
+        "digestive_103-1": {
+            "class": "digestive_103"
+        },
+        "digestive_104-1": {
+            "class": "digestive_104"
+        },
+        "digestive_105-1": {
+            "class": "digestive_105"
+        },
+        "digestive_106-1": {
+            "class": "digestive_106"
+        },
+        "digestive_107-1": {
+            "class": "digestive_107"
+        },
+        "digestive_108-1": {
+            "class": "digestive_108"
+        },
+        "digestive_109-1": {
+            "class": "digestive_109"
+        },
+        "digestive_110-1": {
+            "class": "digestive_110"
+        },
+        "digestive_111-1": {
+            "class": "digestive_111"
+        },
+        "digestive_112-1": {
+            "class": "digestive_112"
+        },
+        "digestive_113-1": {
+            "class": "digestive_113"
+        },
+        "digestive_114-1": {
+            "class": "digestive_114"
+        },
+        "digestive_115-1": {
+            "class": "digestive_115"
         },
         "skeleton_1-1": {
             "class": "skeleton_1"
@@ -3865,6 +4012,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_10-3": {
+            "models": "ILX:0793656",
+            "name": "Myenteric Nerve Plexus of Stomach",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "plexus_11-1": {
             "models": "ILX:0793660",
             "name": "Myenteric Nerve Plexus of Lower Esophagus",
@@ -3925,23 +4078,23 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "label_2-1": {
-            "class": "label_2"
+        "plexus_24-1": {
+            "models": "ILX:0793704",
+            "name": "Esophageal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
-        "label_3-1": {
-            "class": "label_3"
+        "plexus_25-1": {
+            "models": "UBERON:8410063",
+            "name": "myenteric nerve plexus of small intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
-        "label_4-1": {
-            "class": "label_4"
-        },
-        "label_5-1": {
-            "class": "label_5"
-        },
-        "label_6-1": {
-            "class": "label_6"
-        },
-        "label_7-1": {
-            "class": "label_7"
+        "plexus_29-1": {
+            "models": "ILX:0797430",
+            "name": "nerve plexus along the left precaval vein",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "label_8-1": {
             "class": "label_8"
@@ -4002,6 +4155,30 @@
         },
         "label_27-1": {
             "class": "label_27"
+        },
+        "label_28-1": {
+            "class": "label_28"
+        },
+        "label_29-1": {
+            "class": "label_29"
+        },
+        "label_30-1": {
+            "class": "label_30"
+        },
+        "label_31-1": {
+            "class": "label_31"
+        },
+        "label_32-1": {
+            "class": "label_32"
+        },
+        "label_33-1": {
+            "class": "label_33"
+        },
+        "label_34-1": {
+            "class": "label_34"
+        },
+        "label_35-1": {
+            "class": "label_35"
         },
         "vagus_1": {
             "type": "nerve",
@@ -4350,6 +4527,18 @@
         "auriculotemporal_c": {
             "type": "nerve",
             "models": "ILX:0793723"
+        },
+        "superior_ovarian_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793822"
+        },
+        "cardiac_interganglionic_c": {
+            "type": "nerve",
+            "models": "ILX:0796679"
+        },
+        "penile_cavernous_c": {
+            "type": "nerve",
+            "models": "ILX:0793807"
         },
         "n_84_c": {
             "type": "nerve"
